@@ -1,0 +1,10 @@
+{
+  "recipe-view:toggle-recipe-view": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "R"
+    }
+  ]
+}
