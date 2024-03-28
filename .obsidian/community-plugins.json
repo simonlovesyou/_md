@@ -3,5 +3,11 @@
   "recipe-view",
   "obsidian-advanced-slides",
   "obsidian-cooklang-importer",
-  "obsidian-git"
+  "obsidian-git",
+  "obsidian-media-db-plugin",
+  "obsidian-meta-bind-plugin",
+  "todoist-sync-plugin",
+  "obsidian-frontmatter-tag-suggest",
+  "templater-obsidian",
+  "dataview"
 ]

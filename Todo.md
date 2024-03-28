@@ -1,11 +1,16 @@
 
-- [ ] Boka tåg till Danmark
-	- [ ] Fråga oscar om besök
-- [ ] Påminna mentoradepter om LAF
-- [ ] Sammanfatta kontorsundersökning webb utveckling
-- [ ] Psykolog
-- [ ] Parterapi
-- [ ] Pussa på flickvän
-- [ ] Present till flickvän
-- [ ] Sy fast räv på tshirt
-- [ ] Äta oliver
+### Today
+```todoist
+filter: "(today | overdue) & #Hemmet 🏡"
+show:
+  - due
+  - labels
+```
+
+### Future
+```todoist
+filter: "!overdue & !today & #Hemmet 🏡"
+show:
+  - due
+  - labels
+```
