@@ -1,5 +1,9 @@
-[[+Home]] %% tags:: #MOC %% 
-
+---
+prefer-view: read
+modified: 2024-03-29T18:28:23+01:00
+tags:
+  - moc
+---
 ```meta-bind-button
 label: New Book
 hidden: false
@@ -27,7 +31,7 @@ My Book Maps of Content (MOC) serves as the personalized atlas of my reading jou
 ### Reading list
 
 ```dataview
-TABLE summary as Summary, visited as Visited
+TABLE summary as Summary
 FROM "Books" and -#MOC
 SORT file.cday DESC
 ```

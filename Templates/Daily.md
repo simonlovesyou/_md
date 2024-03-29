@@ -22,7 +22,7 @@ _Se [[Todo]] för inspiration_
 
 ---
 # 📝 Notes
-- <% tp.file.cursor() %>
+- 
 ---
 ### Notes created today
 ```dataview

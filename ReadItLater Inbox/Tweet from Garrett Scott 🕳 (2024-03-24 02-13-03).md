@@ -1,3 +1,6 @@
+---
+modified: 2024-03-29T18:35:46+01:00
+---
 [[ReadItLater]] [[Tweet]]
 
 # [Garrett Scott 🕳](https://twitter.com/thegarrettscott/status/1771645169151901952)

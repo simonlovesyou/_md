@@ -1,5 +1,9 @@
-[[+Home]] #MOC
-
+---
+prefer-view: read
+tags:
+  - moc
+modified: 2024-03-29T18:35:46+01:00
+---
 ```meta-bind-button
 label: New Recipe
 hidden: false
@@ -25,7 +29,7 @@ A personal CRM. People Notes are about jotting down notable information about pe
 
 # Recipes
 ```dataview
-table title
+table
 from "Recipes"
 sort file.name asc
 ```

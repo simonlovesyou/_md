@@ -1,5 +1,9 @@
-[[+Home]] %% tags:: #MOC %% 
-
+---
+prefer-view: read
+tags:
+  - moc
+modified: 2024-03-29T18:55:24+01:00
+---
 ```meta-bind-button
 label: New Restaurant
 hidden: false
@@ -23,7 +27,7 @@ actions:
 ## Restaurants
 
 ```dataview
-TABLE summary as Summary, visited as Visited
+TABLE summary as Summary
 FROM "Restaurants" and -#MOC
 SORT file.cday DESC
 ```

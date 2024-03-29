@@ -23,11 +23,9 @@
             "id": "15901a3028aae8f3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "recipe-view",
               "state": {
-                "file": "Books/Thinking, fast and slow.md",
-                "mode": "source",
-                "source": true
+                "file": "Recipes/Tagliatelle med champinjoner, vitlök, ärter och parmesan.md"
               }
             }
           }
@@ -98,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Books/Thinking, fast and slow.md",
+                "file": "Recipes/Tagliatelle med champinjoner, vitlök, ärter och parmesan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Books/Thinking, fast and slow.md",
+                "file": "Recipes/Tagliatelle med champinjoner, vitlök, ärter och parmesan.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Books/Thinking, fast and slow.md"
+                "file": "Recipes/Tagliatelle med champinjoner, vitlök, ärter och parmesan.md"
               }
             }
           },
@@ -175,34 +173,34 @@
   },
   "active": "15901a3028aae8f3",
   "lastOpenFiles": [
-    "Media DB/books/Thinking fast and slow (2011).md",
-    "Media DB/books",
-    "MOCs/Books.md",
-    "Books/Thinking, fast and slow.md",
-    "Journal/2024-03-27.md",
-    "Media DB/movie-template.md",
-    "Media DB/book-template.md",
-    "Templates/Book.md",
-    "Books",
-    "MOCs/Restaurants.md",
-    "MOCs/Journal.md",
-    "Media DB/movies/Tickled (2016).md",
-    "Templates/Daily.md",
+    "MOCs/Recipes.md",
+    "Recipes/Tagliatelle med champinjoner, vitlök, ärter och parmesan.md",
     "Journal/2024-03-28.md",
-    "Todo.md",
+    "Journal/2024-03-27.md",
+    "Journal/2024-03-26.md",
+    "MOCs/Restaurants.md",
+    "Restaurants/Symbios.md",
+    "MOCs/People.md",
+    "MOCs/Journal.md",
+    "MOCs/Books.md",
+    "Templates/Daily.md",
+    "Books/Noise.md",
+    "Templates/Book.md",
+    "Recipes/Potatismos.md",
+    "People/Kajsa.md",
+    "Recipes/Refried beans.md",
     "Recipes/Vegetarisk Tikka Masala.md",
     "Recipes/Vodkapasta.md",
-    "MOCs/People.md",
-    "MOCs/Recipes.md",
-    "Recipes/Refried beans.md",
-    "Recipes/Halloumistroganoff.md",
-    "Recipes/Krämig morots- och paprikapasta.md",
-    "Recipes/Lasagnesoppa.md",
-    "Templates/Recipe.md",
-    "Recipes/Belugabolognese.md",
-    "Journal/2024-03-26.md",
-    "ReadItLater Inbox/Tweet from Aaron Bergman 🔍 ⏸️ (in that order) (2024-03-24 02-23-19).md",
-    "Journal/2024-03-26 Untitled.md",
+    "Presentations/eslint-plugin/Notes.md",
+    "People/Maggan.md",
+    "People/Nicole.md",
+    "Templates/People.md",
+    "People/David.md",
+    "People/Lars.md",
+    "Restaurants/L'avventura.md",
+    "Restaurants/Växthuset.md",
+    "Media DB/books",
+    "Books",
     "People",
     "Journal",
     "MOCs",

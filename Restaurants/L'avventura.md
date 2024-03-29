@@ -13,3 +13,7 @@ tags:
   - italienskt
 ---
 tags:: [[Restaurants]]
+
+
+## 📝 Notes
+- [[Pappa]] tyckte att deras entrécote var den godaste han någonsin ätit

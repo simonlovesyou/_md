@@ -1,5 +1,9 @@
-[[+Home]] %% tags:: #MOC %% 
-
+---
+prefer-view: read
+modified: 2024-03-29T18:28:15+01:00
+tags:
+  - moc
+---
 ```meta-bind-button
 label: New Journal Entry
 hidden: false

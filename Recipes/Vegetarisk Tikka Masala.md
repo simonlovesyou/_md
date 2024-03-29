@@ -48,6 +48,5 @@ En härlig vegetarisk tikka masala med en fräsch rödkålssallad och doftande b
 5. **Slutför grytan:** Spola kikärtorna i kallt vatten och låt dem rinna av. Tillsätt kikärtorna och blomkålen i grytan. Koka upp igen och tillsätt eventuellt mer vatten om grytan blir för tjock. Rör ner yoghurten och smaka av med salt.
 6. **Servering:** Servera grytan tillsammans med riset, den marinerade kålen, extra yoghurt, naanbröd och toppa med färsk koriander.
 
-## Comments
-
-- 
+## Notes
+- Rödkålssallad var inget att hänga i granen, man bör hitta på något annat grönt istället.

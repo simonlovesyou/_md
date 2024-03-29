@@ -9,5 +9,7 @@
   "todoist-sync-plugin",
   "obsidian-frontmatter-tag-suggest",
   "templater-obsidian",
-  "dataview"
+  "dataview",
+  "frontmatter-modified-date",
+  "frontmatter-viewmode"
 ]

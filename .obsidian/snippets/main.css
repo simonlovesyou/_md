@@ -1,0 +1,43 @@
+:root {
+  --heading-spacing: 1rem
+}
+
+.markdown-rendered h1,h2,h3,h4,h5,h6 {
+  margin-top: 0px!important;
+  margin-bottom: -8px!important;
+}
+.markdown-rendered h1,h2,h3,h4,h5,h6 + h1,h2,h3,h4,h5,h6 {
+  margin-top: 16px!important;
+  margin-bottom: -12px!important;
+}
+
+.markdown-rendered p {
+  margin-bottom: 0!important;
+}
+
+.markdown-rendered table-view-th {
+  padding-left: 0!important;
+}
+
+.markdown-rendered .table-view-th {
+  padding-left: 0!important;
+}
+.markdown-rendered .table-view-tbody tr > td:first-child {
+  position: relative!important;
+  padding-left:18px!important;
+}
+.markdown-rendered .table-view-tbody tr > td:not(:first-child) {
+  position: relative!important;
+  padding-left:0px!important;
+}
+.markdown-rendered ul {
+  padding-left: 24px!important;
+}
+.markdown-rendered .table-view-tbody td:first-child::before {
+  content: '• '!important;
+  position: absolute!important;
+  font-size: 28px;
+  left: 0;
+  top: -5px;
+  color: lightgrey!important;
+}
