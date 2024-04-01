@@ -11,5 +11,6 @@
   "templater-obsidian",
   "dataview",
   "frontmatter-modified-date",
-  "frontmatter-viewmode"
+  "frontmatter-viewmode",
+  "custom-sort"
 ]

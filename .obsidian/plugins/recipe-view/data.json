@@ -1,0 +1,6 @@
+{
+  "sideColumnRegex": "Ingredients|Nutrition|Ingredienser",
+  "treatH1AsFilename": false,
+  "renderUnicodeFractions": true,
+  "singleColumnMaxWidth": 600
+}

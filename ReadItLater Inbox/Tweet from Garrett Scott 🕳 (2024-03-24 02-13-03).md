@@ -1,5 +1,7 @@
 ---
-modified: 2024-03-29T18:35:46+01:00
+modified: 2024-03-31T15:46:58+02:00
+tags:
+  - leadership
 ---
 [[ReadItLater]] [[Tweet]]
 

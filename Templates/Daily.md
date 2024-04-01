@@ -1,7 +1,8 @@
 ---
 created: <% tp.file.creation_date() %>
+modified: 2024-03-29T21:35:23+01:00
 ---
-tags: [[Journal]] <% await tp.file.move("/Journal/" + tp.date.now("YYYY-MM-DD") %>
+tags: [[Journal]] <% await tp.file.move("/Journal/" + tp.date.now("YYYY-MM-DD")) %>
 
 << [[Timestamps/<% tp.date.now("YYYY", -1) %>/<% tp.date.now("MM-MMMM", -1) %>/<% tp.date.now("YYYY-MM-DD-dddd", -1) %>|Yesterday]] | [[Timestamps/<% tp.date.now("YYYY", 1) %>/<% tp.date.now("MM-MMMM", 1) %>/<% tp.date.now("YYYY-MM-DD-dddd", 1) %>|Tomorrow]] >>
 

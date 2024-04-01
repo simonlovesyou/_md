@@ -1,11 +1,12 @@
 ---
 date: <% tp.file.creation_date() %>
 name: 
+summary: 
 location: 
 address: 
 contact: 
-reservations: 
-summary: 
+reservations:
+menu: 
 visited: 
 tags:
   - restaurant

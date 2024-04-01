@@ -4,33 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "521cf7f1cd6614c7",
+        "id": "9998cca8dd4f679d",
         "type": "tabs",
         "children": [
           {
-            "id": "3d3aaadbbbb713d3",
+            "id": "7faede40b0e40dfd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ReadItLater Inbox/Tweet from Garrett Scott 🕳 (2024-03-24 02-13-03).md",
+                "file": "Restaurants/Växthuset.md",
                 "mode": "source",
                 "source": true
               }
             }
-          },
-          {
-            "id": "15901a3028aae8f3",
-            "type": "leaf",
-            "state": {
-              "type": "recipe-view",
-              "state": {
-                "file": "Recipes/Tagliatelle med champinjoner, vitlök, ärter och parmesan.md"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Recipes/Tagliatelle med champinjoner, vitlök, ärter och parmesan.md",
+                "file": "Restaurants/Växthuset.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Recipes/Tagliatelle med champinjoner, vitlök, ärter och parmesan.md",
+                "file": "Restaurants/Växthuset.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Recipes/Tagliatelle med champinjoner, vitlök, ärter och parmesan.md"
+                "file": "Restaurants/Växthuset.md"
               }
             }
           },
@@ -168,37 +157,42 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-media-db-plugin:Add new Media DB entry": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "15901a3028aae8f3",
+  "active": "7faede40b0e40dfd",
   "lastOpenFiles": [
-    "MOCs/Recipes.md",
-    "Recipes/Tagliatelle med champinjoner, vitlök, ärter och parmesan.md",
-    "Journal/2024-03-28.md",
-    "Journal/2024-03-27.md",
-    "Journal/2024-03-26.md",
-    "MOCs/Restaurants.md",
-    "Restaurants/Symbios.md",
-    "MOCs/People.md",
+    "Journal/2024-04-01.md",
     "MOCs/Journal.md",
-    "MOCs/Books.md",
-    "Templates/Daily.md",
+    "Todo.md",
+    "MOCs/Movies.md",
+    "Journal/2024-03-28.md",
+    "Movies/Tickled (2016).md",
+    "Media DB/movies/The Martian (2015).md",
+    "Books/Thinking, fast and slow.md",
     "Books/Noise.md",
-    "Templates/Book.md",
+    "Media DB/books/Noise (2021).md",
+    "Media DB/movie-template.md",
+    "Media DB/books/Thinking fast and slow (2011).md",
+    "Journal/2024-03-31.md",
+    "Matlagning/Kikärtor.md",
+    "Matlagning/Vitkål.md",
+    "Recipes/Matveteotto med topping på soltorkade tomater, oliver och kikärtor.md",
+    "Recipes/Dhal, indisk linsgryta.md",
+    "Recipes/Belugabolognese.md",
+    "Recipes/Bönquesadillas med majskräm.md",
+    "Recipes/Halloumistroganoff.md",
+    "MOCs/Recipes.md",
+    "Matlagning",
     "Recipes/Potatismos.md",
-    "People/Kajsa.md",
     "Recipes/Refried beans.md",
-    "Recipes/Vegetarisk Tikka Masala.md",
-    "Recipes/Vodkapasta.md",
-    "Presentations/eslint-plugin/Notes.md",
-    "People/Maggan.md",
-    "People/Nicole.md",
-    "Templates/People.md",
-    "People/David.md",
-    "People/Lars.md",
+    "Recipes/Lyxig jordärtskockssoppa.md",
+    "MOCs/Restaurants.md",
     "Restaurants/L'avventura.md",
-    "Restaurants/Växthuset.md",
+    "Movies",
+    "Presentations/eslint-plugin/Screenshot 2024-03-29 at 22.18.22.png",
+    "Projects",
     "Media DB/books",
     "Books",
     "People",
@@ -206,9 +200,6 @@
     "MOCs",
     "Templates",
     "Restaurants",
-    "Media DB/movies",
-    "Media DB",
-    "Leisure/TV-series",
     "Pasted image 20240323215939.png",
     "Recipes/Pasted image 20240323223215.png"
   ]

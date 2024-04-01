@@ -1,0 +1,107 @@
+{
+  "items": [
+    {
+      "type": "group",
+      "ctime": 1711744155415,
+      "items": [
+        {
+          "type": "group",
+          "ctime": 1711744155415,
+          "items": [],
+          "title": "MOCs"
+        },
+        {
+          "type": "group",
+          "ctime": 1711891908055,
+          "items": [],
+          "title": "Movies"
+        },
+        {
+          "type": "group",
+          "ctime": 1711744276868,
+          "items": [],
+          "title": "Projects"
+        },
+        {
+          "type": "group",
+          "ctime": 1711744155415,
+          "items": [],
+          "title": "Books"
+        },
+        {
+          "type": "group",
+          "ctime": 1711891908055,
+          "items": [],
+          "title": "Movies"
+        },
+        {
+          "type": "group",
+          "ctime": 1711744155415,
+          "items": [],
+          "title": "Journal"
+        },
+        {
+          "type": "group",
+          "ctime": 1711744155415,
+          "items": [],
+          "title": "Media DB"
+        },
+        {
+          "type": "group",
+          "ctime": 1711744155415,
+          "items": [],
+          "title": "People"
+        },
+        {
+          "type": "group",
+          "ctime": 1711744155415,
+          "items": [],
+          "title": "Presentations"
+        },
+        {
+          "type": "group",
+          "ctime": 1711744155415,
+          "items": [],
+          "title": "ReadItLater Inbox"
+        },
+        {
+          "type": "group",
+          "ctime": 1711744155415,
+          "items": [],
+          "title": "Recipes"
+        },
+        {
+          "type": "group",
+          "ctime": 1711744155415,
+          "items": [],
+          "title": "Resources"
+        },
+        {
+          "type": "group",
+          "ctime": 1711744155415,
+          "items": [],
+          "title": "Restaurants"
+        },
+        {
+          "type": "group",
+          "ctime": 1711744155415,
+          "items": [],
+          "title": "Templates"
+        },
+        {
+          "type": "group",
+          "ctime": 1711744155415,
+          "items": [],
+          "title": "Media DB"
+        },
+        {
+          "type": "file",
+          "ctime": 1711744155415,
+          "path": "Todo.md",
+          "subpath": "#^-"
+        }
+      ],
+      "title": "sortspec"
+    }
+  ]
+}

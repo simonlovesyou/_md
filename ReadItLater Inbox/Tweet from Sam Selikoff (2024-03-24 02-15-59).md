@@ -1,3 +1,8 @@
+---
+tags:
+  - next.js
+modified: 2024-03-31T15:47:50+02:00
+---
 [[ReadItLater]] [[Tweet]]
 
 # [Sam Selikoff](https://twitter.com/samselikoff/status/1771248081956143203)
