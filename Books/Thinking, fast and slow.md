@@ -22,7 +22,7 @@ summary: '"Thinking, Fast and Slow" is all about how two systems — intuition a
 tags: [[Books]] 
 
 ## 📝 Notes
-- 
+- ”It is much easier to strive for perfection when you’re never bored” p.9
 
 ## Highlights
 -

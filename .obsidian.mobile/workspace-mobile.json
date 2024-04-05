@@ -11,8 +11,10 @@
             "id": "0f9e126bcce18ed3",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "recipe-view",
+              "state": {
+                "file": "Recipes/Dhal, indisk linsgryta.md"
+              }
             }
           }
         ]
@@ -81,6 +83,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "Recipes/Dhal, indisk linsgryta.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -97,6 +100,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "Recipes/Dhal, indisk linsgryta.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -107,7 +111,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "Recipes/Dhal, indisk linsgryta.md"
+          }
         }
       }
     ],
@@ -120,9 +126,44 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false,
+      "recipe-view:Toggle recipe view": false,
+      "obsidian-read-it-later:ReadItLater: Save clipboard": false
     }
   },
   "active": "0f9e126bcce18ed3",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "ReadItLater Inbox/Tweet from Cory House (2024-04-05 00-19-47).md",
+    "Books/Thinking, fast and slow.md",
+    "Recipes/Matveteotto med topping på soltorkade tomater, oliver och kikärtor.md",
+    "Recipes/Tagliatelle med champinjoner, vitlök, ärter och parmesan.md",
+    "Recipes/Dhal, indisk linsgryta.md",
+    "MOCs/Movies.md",
+    "Matlagning/Kikärtor.md",
+    "Matlagning/Vitkål.md",
+    "Matlagning",
+    "Restaurants/Cucina Povera.md",
+    "Movies/The Martian.md",
+    "Movies/Tickled (2016).md",
+    "Movies",
+    "Media DB/movies/The Martian (2015).md",
+    "Templates/Movie.md",
+    "Presentations/eslint-plugin/Screenshot 2024-03-29 at 22.18.22.png",
+    "Projects/tsests/Ideation.md",
+    "Projects/Metada/Business Plan.md",
+    "Projects/Metada/Architecture.md",
+    "Projects/Metada/Metada.md",
+    "Projects/Metada/How it works.md",
+    "Projects/tsests",
+    "Projects/Metada",
+    "Projects",
+    "Journal/2024-03-29.md",
+    "Journal/2024-03-30.md",
+    "Journal/2024-03-31.md",
+    "Journal/2024-04-01.md",
+    "Recipes/Vegetarisk Tikka Masala.md",
+    "Restaurants/Symbios.md",
+    "MOCs/Restaurants.md"
+  ]
 }
