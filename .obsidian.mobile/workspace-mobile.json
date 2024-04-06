@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "Movies/Dune 2.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Untitled.md",
+            "file": "Movies/Dune 2.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Untitled.md",
+            "file": "Movies/Dune 2.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -127,7 +127,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Untitled.md"
+            "file": "Movies/Dune 2.md"
           }
         }
       }
@@ -150,8 +150,9 @@
   },
   "active": "a0da7a453da0dbb0",
   "lastOpenFiles": [
-    "Movies/Sicario.md",
     "Untitled.md",
+    "Movies/Dune 2.md",
+    "Movies/Sicario.md",
     "Restaurants/Växthuset.md",
     "People/Viktor.md",
     "MOCs/People.md",
@@ -180,7 +181,6 @@
     "Projects/Metada",
     "Projects",
     "Journal/2024-03-29.md",
-    "Journal/2024-03-30.md",
-    "Journal/2024-03-31.md"
+    "Journal/2024-03-30.md"
   ]
 }
