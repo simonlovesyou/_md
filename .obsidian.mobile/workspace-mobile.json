@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Restaurants/Växthuset.md",
+                "file": "Movies/Sicila.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Restaurants/Växthuset.md",
+            "file": "Movies/Sicila.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Restaurants/Växthuset.md",
+            "file": "Movies/Sicila.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Restaurants/Växthuset.md"
+            "file": "Movies/Sicila.md"
           }
         }
       }
@@ -136,6 +136,8 @@
   },
   "active": "0f9e126bcce18ed3",
   "lastOpenFiles": [
+    "Restaurants/Växthuset.md",
+    "Movies/Sicila.md",
     "People/Viktor.md",
     "MOCs/People.md",
     "Recipes/Dhal, indisk linsgryta.md",
@@ -165,8 +167,6 @@
     "Journal/2024-03-29.md",
     "Journal/2024-03-30.md",
     "Journal/2024-03-31.md",
-    "Journal/2024-04-01.md",
-    "Recipes/Vegetarisk Tikka Masala.md",
-    "Restaurants/Symbios.md"
+    "Journal/2024-04-01.md"
   ]
 }
