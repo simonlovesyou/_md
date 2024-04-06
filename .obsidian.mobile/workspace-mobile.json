@@ -11,9 +11,11 @@
             "id": "0f9e126bcce18ed3",
             "type": "leaf",
             "state": {
-              "type": "recipe-view",
+              "type": "markdown",
               "state": {
-                "file": "Recipes/Dhal, indisk linsgryta.md"
+                "file": "People/Viktor.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Recipes/Dhal, indisk linsgryta.md",
+            "file": "People/Viktor.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Recipes/Dhal, indisk linsgryta.md",
+            "file": "People/Viktor.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -112,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Recipes/Dhal, indisk linsgryta.md"
+            "file": "People/Viktor.md"
           }
         }
       }
@@ -134,11 +136,13 @@
   },
   "active": "0f9e126bcce18ed3",
   "lastOpenFiles": [
+    "MOCs/People.md",
+    "People/Viktor.md",
+    "Recipes/Dhal, indisk linsgryta.md",
     "ReadItLater Inbox/Tweet from Cory House (2024-04-05 00-19-47).md",
     "Books/Thinking, fast and slow.md",
     "Recipes/Matveteotto med topping på soltorkade tomater, oliver och kikärtor.md",
     "Recipes/Tagliatelle med champinjoner, vitlök, ärter och parmesan.md",
-    "Recipes/Dhal, indisk linsgryta.md",
     "MOCs/Movies.md",
     "Matlagning/Kikärtor.md",
     "Matlagning/Vitkål.md",
@@ -163,7 +167,6 @@
     "Journal/2024-03-31.md",
     "Journal/2024-04-01.md",
     "Recipes/Vegetarisk Tikka Masala.md",
-    "Restaurants/Symbios.md",
-    "MOCs/Restaurants.md"
+    "Restaurants/Symbios.md"
   ]
 }
