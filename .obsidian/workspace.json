@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Restaurants/Växthuset.md",
+                "file": "People/Viktor.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Restaurants/Växthuset.md",
+                "file": "People/Viktor.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Restaurants/Växthuset.md",
+                "file": "People/Viktor.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Restaurants/Växthuset.md"
+                "file": "People/Viktor.md"
               }
             }
           },
@@ -163,33 +163,33 @@
   },
   "active": "7faede40b0e40dfd",
   "lastOpenFiles": [
-    "Journal/2024-04-01.md",
-    "MOCs/Journal.md",
-    "Todo.md",
-    "MOCs/Movies.md",
-    "Journal/2024-03-28.md",
-    "Movies/Tickled (2016).md",
-    "Media DB/movies/The Martian (2015).md",
-    "Books/Thinking, fast and slow.md",
-    "Books/Noise.md",
-    "Media DB/books/Noise (2021).md",
-    "Media DB/movie-template.md",
-    "Media DB/books/Thinking fast and slow (2011).md",
-    "Journal/2024-03-31.md",
-    "Matlagning/Kikärtor.md",
     "Matlagning/Vitkål.md",
-    "Recipes/Matveteotto med topping på soltorkade tomater, oliver och kikärtor.md",
+    "Untitled.md",
+    "ReadItLater Inbox/Tweet from Cory House (2024-04-05 00-19-47).md",
+    "Movies/Sicario.md",
+    "Movies/Dune 2.md",
+    "Matlagning/Kikärtor.md",
+    "Journal/2024-04-06.md",
+    "Journal/2024-04-05.md",
+    "Journal/2024-04-04.md",
+    "Journal/2024-04-03.md",
+    "Todo.md",
+    "MOCs/Journal.md",
+    "People/Viktor.md",
+    "People/Nicole.md",
+    "MOCs/People.md",
+    "People/David.md",
+    "Templates/People.md",
+    "Templates/Recipe.md",
+    "Templates/Restaurant.md",
+    "MOCs/Books.md",
     "Recipes/Dhal, indisk linsgryta.md",
-    "Recipes/Belugabolognese.md",
-    "Recipes/Bönquesadillas med majskräm.md",
-    "Recipes/Halloumistroganoff.md",
-    "MOCs/Recipes.md",
-    "Matlagning",
-    "Recipes/Potatismos.md",
-    "Recipes/Refried beans.md",
-    "Recipes/Lyxig jordärtskockssoppa.md",
     "MOCs/Restaurants.md",
-    "Restaurants/L'avventura.md",
+    "MOCs/Recipes.md",
+    "MOCs/Movies.md",
+    "People/Maggan.md",
+    "People/Kajsa.md",
+    "Matlagning",
     "Movies",
     "Presentations/eslint-plugin/Screenshot 2024-03-29 at 22.18.22.png",
     "Projects",
