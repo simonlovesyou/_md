@@ -2,5 +2,6 @@
   "obsidian-meta-bind-plugin",
   "templater-obsidian",
   "recipe-view",
-  "obsidian-read-it-later"
+  "obsidian-read-it-later",
+  "obsidian-media-db-plugin"
 ]

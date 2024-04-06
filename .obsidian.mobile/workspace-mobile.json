@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Movies/Sicila.md",
+                "file": "Movies/Sicario.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a0da7a453da0dbb0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Movies/Sicila.md",
+            "file": "Untitled.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Movies/Sicila.md",
+            "file": "Untitled.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +127,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Movies/Sicila.md"
+            "file": "Untitled.md"
           }
         }
       }
@@ -131,13 +144,15 @@
       "command-palette:Open command palette": false,
       "templater-obsidian:Templater": false,
       "recipe-view:Toggle recipe view": false,
-      "obsidian-read-it-later:ReadItLater: Save clipboard": false
+      "obsidian-read-it-later:ReadItLater: Save clipboard": false,
+      "obsidian-media-db-plugin:Add new Media DB entry": false
     }
   },
-  "active": "0f9e126bcce18ed3",
+  "active": "a0da7a453da0dbb0",
   "lastOpenFiles": [
+    "Movies/Sicario.md",
+    "Untitled.md",
     "Restaurants/Växthuset.md",
-    "Movies/Sicila.md",
     "People/Viktor.md",
     "MOCs/People.md",
     "Recipes/Dhal, indisk linsgryta.md",
@@ -166,7 +181,6 @@
     "Projects",
     "Journal/2024-03-29.md",
     "Journal/2024-03-30.md",
-    "Journal/2024-03-31.md",
-    "Journal/2024-04-01.md"
+    "Journal/2024-03-31.md"
   ]
 }
