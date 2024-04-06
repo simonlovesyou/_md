@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "People/Viktor.md",
+                "file": "Restaurants/Växthuset.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "People/Viktor.md",
+            "file": "Restaurants/Växthuset.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "People/Viktor.md",
+            "file": "Restaurants/Växthuset.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "People/Viktor.md"
+            "file": "Restaurants/Växthuset.md"
           }
         }
       }
@@ -136,8 +136,8 @@
   },
   "active": "0f9e126bcce18ed3",
   "lastOpenFiles": [
-    "MOCs/People.md",
     "People/Viktor.md",
+    "MOCs/People.md",
     "Recipes/Dhal, indisk linsgryta.md",
     "ReadItLater Inbox/Tweet from Cory House (2024-04-05 00-19-47).md",
     "Books/Thinking, fast and slow.md",
