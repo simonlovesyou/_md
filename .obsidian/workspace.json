@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "People/Viktor.md",
+                "file": "Presentations/eslint-plugin/presentation.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "bd20e7ccdad7b1c7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "60-årsfest.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "People/Viktor.md",
+                "file": "60-årsfest.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "People/Viktor.md",
+                "file": "60-årsfest.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "People/Viktor.md"
+                "file": "60-årsfest.md"
               }
             }
           },
@@ -161,10 +174,17 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "7faede40b0e40dfd",
+  "active": "bd20e7ccdad7b1c7",
   "lastOpenFiles": [
+    "Presentations/eslint-plugin/presentation.md",
+    "60-årsfest.md",
+    "Presentations/eslint-plugin/Notes.md",
+    "Presentations/eslint-plugin/Screenshot 2024-03-29 at 22.18.22.png",
+    "Journal/2024-04-07.md",
+    "People/Josephine.md",
+    "MOCs/Journal.md",
+    "People/Viktor.md",
     "Matlagning/Vitkål.md",
-    "Untitled.md",
     "ReadItLater Inbox/Tweet from Cory House (2024-04-05 00-19-47).md",
     "Movies/Sicario.md",
     "Movies/Dune 2.md",
@@ -174,8 +194,6 @@
     "Journal/2024-04-04.md",
     "Journal/2024-04-03.md",
     "Todo.md",
-    "MOCs/Journal.md",
-    "People/Viktor.md",
     "People/Nicole.md",
     "MOCs/People.md",
     "People/David.md",
@@ -185,13 +203,8 @@
     "MOCs/Books.md",
     "Recipes/Dhal, indisk linsgryta.md",
     "MOCs/Restaurants.md",
-    "MOCs/Recipes.md",
-    "MOCs/Movies.md",
-    "People/Maggan.md",
-    "People/Kajsa.md",
     "Matlagning",
     "Movies",
-    "Presentations/eslint-plugin/Screenshot 2024-03-29 at 22.18.22.png",
     "Projects",
     "Media DB/books",
     "Books",
