@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/2024-04-08.md",
+                "file": "People/Oscar.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Journal/2024-04-08.md",
+            "file": "People/Oscar.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Journal/2024-04-08.md",
+            "file": "People/Oscar.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -127,7 +127,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Journal/2024-04-08.md"
+            "file": "People/Oscar.md"
           }
         }
       }
@@ -150,9 +150,11 @@
   },
   "active": "a0da7a453da0dbb0",
   "lastOpenFiles": [
+    "MOCs/People.md",
+    "People/Oscar.md",
+    "Journal/2024-04-08.md",
     "MOCs/Journal.md",
     "Todo.md",
-    "Journal/2024-04-08.md",
     "Movies/Dune 2.md",
     "Journal/2024-04-05.md",
     "Journal/2024-04-06.md",
@@ -164,7 +166,6 @@
     "Movies/Sicario.md",
     "Restaurants/Växthuset.md",
     "People/Viktor.md",
-    "MOCs/People.md",
     "Recipes/Dhal, indisk linsgryta.md",
     "ReadItLater Inbox/Tweet from Cory House (2024-04-05 00-19-47).md",
     "Books/Thinking, fast and slow.md",
@@ -176,7 +177,6 @@
     "Matlagning",
     "Restaurants/Cucina Povera.md",
     "Movies/The Martian.md",
-    "Movies/Tickled (2016).md",
     "Movies",
     "Presentations/eslint-plugin/Screenshot 2024-03-29 at 22.18.22.png",
     "Projects/tsests",
