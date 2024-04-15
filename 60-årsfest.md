@@ -1,9 +1,10 @@
 ---
-modified: 2024-04-07T21:27:03+02:00
+modified: 2024-04-08T20:33:35+02:00
 ---
-Gäster: 39 Siw och Ingrid
-Någon som plockar undan efter middag och plockar fram kaffe.
-Cateringmat.
+Gäster: 39
+Ska hitta någon som kan:
+* Någon som plockar undan efter middag och plockar fram kaffe.
+* Cateringmat.
 
 1. Mingel och bubbel först
 2. Idé: Bingo
