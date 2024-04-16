@@ -4,7 +4,7 @@ tags:
 coordinates:
   latitude: 65.3167
   longitude: 21.48
-modified: 2024-04-16T11:34:10+02:00
+modified: 2024-04-16T21:35:21+02:00
 ---
 [[Places]] 
 
@@ -19,5 +19,5 @@ modified: 2024-04-16T11:34:10+02:00
 
 ## Related
 ```dataview  
-list from [[Piteå]]
+list from [[Piteå]] OR from contains(file.locations, "Stockholm")
 ```

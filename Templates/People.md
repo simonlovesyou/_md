@@ -7,8 +7,11 @@ lastname:
 phone:
 birthday:
 ---
-tags:: [[MOCs/People|People]]
-# [[<% tp.file.title %>]] <% await tp.file.move("/People/" + tp.file.title) %>
-## Notes
-- 
 
+tags: [[MOCs/People|People]]
+
+# [[<% tp.file.title %>]] <% await tp.file.move("/People/" + tp.file.title) %>
+
+## Notes
+
+-

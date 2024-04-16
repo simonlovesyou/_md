@@ -1,14 +1,15 @@
 ---
 date: <% tp.file.creation_date() %>
-name: 
-summary: 
-location: 
-address: 
-contact: 
+name:
+summary:
+location:
+address:
+contact:
 reservations:
-menu: 
-visited: 
+menu:
+visited:
 tags:
   - restaurant
 ---
-tags:: [[Restaurants]]
+
+tags: [[Restaurants]]

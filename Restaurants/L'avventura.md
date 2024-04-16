@@ -1,6 +1,8 @@
 ---
 name: L'avventura
-location: Stockholm
+city:
+  - - Stockholm
+location: Odenplan
 address: Sveavägen 77, 113 50 Stockholm
 contact: +468-519 422 74
 reservations: lavventura.se/boka-bord
@@ -11,9 +13,11 @@ visited:
   - 14th of April 2022
 tags:
   - italienskt
+modified: 2024-04-16T21:37:45+02:00
 ---
-tags:: [[Restaurants]]
 
+tags: [[Restaurants]]
 
 ## 📝 Notes
+
 - [[Pappa]] tyckte att deras entrécote var den godaste han någonsin ätit
