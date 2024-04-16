@@ -3,5 +3,6 @@
   "templater-obsidian",
   "recipe-view",
   "obsidian-read-it-later",
-  "obsidian-media-db-plugin"
+  "obsidian-media-db-plugin",
+  "custom-sort"
 ]

@@ -86,7 +86,7 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 3
   },
   "right": {
     "id": "aab90dcd7ebe7c87",
@@ -145,11 +145,24 @@
       "templater-obsidian:Templater": false,
       "recipe-view:Toggle recipe view": false,
       "obsidian-read-it-later:ReadItLater: Save clipboard": false,
-      "obsidian-media-db-plugin:Add new Media DB entry": false
+      "obsidian-media-db-plugin:Add new Media DB entry": false,
+      "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "a0da7a453da0dbb0",
+  "active": "cf9a77be7a3ca0f7",
   "lastOpenFiles": [
+    "Untitled",
+    "People/Jasmine.md",
+    "People/Josephine.md",
+    "Journal/2024-04-07.md",
+    "Templates/Place.md",
+    "Places/Piteå.md",
+    "Places/Köpenhamn.md",
+    "Places",
+    "MOCs/Places.md",
+    "Places/Stockholm.md",
+    "Journal/2024-04-15.md",
+    "Journal/2024-04-16.md",
     "MOCs/People.md",
     "People/Oscar.md",
     "Journal/2024-04-08.md",
@@ -165,18 +178,7 @@
     "Untitled.md",
     "Movies/Sicario.md",
     "Restaurants/Växthuset.md",
-    "People/Viktor.md",
-    "Recipes/Dhal, indisk linsgryta.md",
-    "ReadItLater Inbox/Tweet from Cory House (2024-04-05 00-19-47).md",
-    "Books/Thinking, fast and slow.md",
-    "Recipes/Matveteotto med topping på soltorkade tomater, oliver och kikärtor.md",
-    "Recipes/Tagliatelle med champinjoner, vitlök, ärter och parmesan.md",
-    "MOCs/Movies.md",
-    "Matlagning/Kikärtor.md",
-    "Matlagning/Vitkål.md",
     "Matlagning",
-    "Restaurants/Cucina Povera.md",
-    "Movies/The Martian.md",
     "Movies",
     "Presentations/eslint-plugin/Screenshot 2024-03-29 at 22.18.22.png",
     "Projects/tsests",

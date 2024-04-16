@@ -1,0 +1,107 @@
+{
+  "items": [
+    {
+      "type": "group",
+      "ctime": 1713260654976,
+      "items": [
+        {
+          "type": "group",
+          "ctime": 1713260654976,
+          "items": [],
+          "title": "Books"
+        },
+        {
+          "type": "group",
+          "ctime": 1713260654976,
+          "items": [],
+          "title": "Journal"
+        },
+        {
+          "type": "group",
+          "ctime": 1713260654976,
+          "items": [],
+          "title": "Matlagning"
+        },
+        {
+          "type": "group",
+          "ctime": 1713260654976,
+          "items": [],
+          "title": "Media DB"
+        },
+        {
+          "type": "group",
+          "ctime": 1713260654976,
+          "items": [],
+          "title": "MOCs"
+        },
+        {
+          "type": "group",
+          "ctime": 1713260654976,
+          "items": [],
+          "title": "Movies"
+        },
+        {
+          "type": "group",
+          "ctime": 1713260654976,
+          "items": [],
+          "title": "People"
+        },
+        {
+          "type": "group",
+          "ctime": 1713260654976,
+          "items": [],
+          "title": "Places"
+        },
+        {
+          "type": "group",
+          "ctime": 1713260654976,
+          "items": [],
+          "title": "Presentations"
+        },
+        {
+          "type": "group",
+          "ctime": 1713260654977,
+          "items": [],
+          "title": "Projects"
+        },
+        {
+          "type": "group",
+          "ctime": 1713260654977,
+          "items": [],
+          "title": "ReadItLater Inbox"
+        },
+        {
+          "type": "group",
+          "ctime": 1713260654977,
+          "items": [],
+          "title": "Recipes"
+        },
+        {
+          "type": "group",
+          "ctime": 1713260654977,
+          "items": [],
+          "title": "Resources"
+        },
+        {
+          "type": "group",
+          "ctime": 1713260654977,
+          "items": [],
+          "title": "Restaurants"
+        },
+        {
+          "type": "group",
+          "ctime": 1713260654977,
+          "items": [],
+          "title": "Templates"
+        },
+        {
+          "type": "file",
+          "ctime": 1713260654977,
+          "path": "Todo.md",
+          "subpath": "#^-"
+        }
+      ],
+      "title": "sortspec"
+    }
+  ]
+}
