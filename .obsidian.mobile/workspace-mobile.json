@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Todo.md",
+                "file": "Journal/2024-04-17.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Todo.md",
+            "file": "Journal/2024-04-17.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Todo.md",
+            "file": "Journal/2024-04-17.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -127,7 +127,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Todo.md"
+            "file": "Journal/2024-04-17.md"
           }
         }
       }
@@ -151,6 +151,9 @@
   },
   "active": "a0da7a453da0dbb0",
   "lastOpenFiles": [
+    "MOCs/Journal.md",
+    "Journal/2024-04-17.md",
+    "Todo.md",
     "People/Oscar.md",
     "Movies/Sicario.md",
     "Untitled",
@@ -167,8 +170,6 @@
     "Journal/2024-04-16.md",
     "MOCs/People.md",
     "Journal/2024-04-08.md",
-    "MOCs/Journal.md",
-    "Todo.md",
     "Movies/Dune 2.md",
     "Journal/2024-04-05.md",
     "Journal/2024-04-06.md",
