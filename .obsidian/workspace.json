@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Place.md",
+                "file": "Journal/2024-04-16.md",
                 "mode": "source",
                 "source": true
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Place.md",
+                "file": "Journal/2024-04-16.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/Place.md",
+                "file": "Journal/2024-04-16.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Place.md"
+                "file": "Journal/2024-04-16.md"
               }
             }
           },
@@ -176,6 +176,12 @@
   },
   "active": "bd20e7ccdad7b1c7",
   "lastOpenFiles": [
+    "Journal/2024-04-15.md",
+    "Journal/2024-04-16.md",
+    "Journal/2024-04-11.md",
+    "MOCs/Journal.md",
+    "Journal/TKTK.md",
+    "Templates/Place.md",
     "Templates/Recipe.md",
     "Places/Köpenhamn.md",
     "Places/Piteå.md",
@@ -187,22 +193,16 @@
     "Journal/2024-04-08.md",
     "60-årsfest.md",
     "MOCs/Places.md",
-    "Templates/Place.md",
     "Templates/People.md",
     "Templates/Restaurant.md",
     "MOCs/People.md",
-    "Journal/2024-04-16.md",
     "Journal/2024-03-26.md",
     "Places",
     "Templates/Book.md",
     "Templates/Movie.md",
-    "MOCs/Journal.md",
     "Todo.md",
-    "Journal/2024-04-15.md",
     "People/Jasmine.md",
     "People/Oscar.md",
-    "Journal/2024-04-07.md",
-    "Presentations/eslint-plugin/presentation.md",
     "Presentations/eslint-plugin/Screenshot 2024-03-29 at 22.18.22.png",
     "Matlagning",
     "Movies",
