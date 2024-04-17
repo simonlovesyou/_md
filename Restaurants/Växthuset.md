@@ -1,6 +1,6 @@
 ---
 name: Växthuset
-location: Stockholm
+city: Stockholm
 address: Hammarby Slussväg 2, 118 60 Stockholm
 contact:
   mail: boka@restaurangvaxthuset.se
@@ -14,5 +14,7 @@ tags:
   - restaurant
   - vegetarian
   - vegan
+modified: 2024-04-16T21:38:23+02:00
 ---
-tags:: [[Restaurants]]
+
+tags: [[Restaurants]]

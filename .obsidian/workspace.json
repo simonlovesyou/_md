@@ -25,8 +25,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/2024-04-08.md",
-                "mode": "preview",
+                "file": "Templates/Place.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/2024-04-08.md",
+                "file": "Templates/Place.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/2024-04-08.md",
+                "file": "Templates/Place.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/2024-04-08.md"
+                "file": "Templates/Place.md"
               }
             }
           },
@@ -176,19 +176,24 @@
   },
   "active": "bd20e7ccdad7b1c7",
   "lastOpenFiles": [
-    "60-årsfest.md",
+    "Templates/Recipe.md",
     "Places/Köpenhamn.md",
+    "Places/Piteå.md",
+    "Places/Stockholm.md",
+    "Restaurants/Cucina Povera.md",
+    "Restaurants/Växthuset.md",
+    "Restaurants/Symbios.md",
+    "Restaurants/L'avventura.md",
+    "Journal/2024-04-08.md",
+    "60-årsfest.md",
     "MOCs/Places.md",
     "Templates/Place.md",
     "Templates/People.md",
     "Templates/Restaurant.md",
-    "Places/Stockholm.md",
     "MOCs/People.md",
-    "Places/Piteå.md",
     "Journal/2024-04-16.md",
     "Journal/2024-03-26.md",
     "Places",
-    "Templates/Recipe.md",
     "Templates/Book.md",
     "Templates/Movie.md",
     "MOCs/Journal.md",
@@ -197,13 +202,8 @@
     "People/Jasmine.md",
     "People/Oscar.md",
     "Journal/2024-04-07.md",
-    "Journal/2024-04-08.md",
     "Presentations/eslint-plugin/presentation.md",
-    "Presentations/eslint-plugin/Notes.md",
     "Presentations/eslint-plugin/Screenshot 2024-03-29 at 22.18.22.png",
-    "People/Josephine.md",
-    "People/Viktor.md",
-    "Matlagning/Vitkål.md",
     "Matlagning",
     "Movies",
     "Projects",

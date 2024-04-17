@@ -5,9 +5,11 @@ address: Frejgatan 6A, 114 20 Stockholm
 lastname: Martini
 birthday: 10/06
 ---
-tags:: [[MOCs/People|People]]
+
+tags: [[MOCs/People|People]]
 
 # [[Nicole]]
-## Notes
-- Har en hund som heter Doris.
 
+## Notes
+
+- Har en hund som heter Doris.

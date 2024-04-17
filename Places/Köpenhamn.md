@@ -2,7 +2,7 @@
 tags:
   - places
 coordinates: 
-modified: 2024-04-16T11:35:51+02:00
+modified: 2024-04-16T21:44:39+02:00
 ---
 [[Places]] 
 
@@ -14,5 +14,5 @@ modified: 2024-04-16T11:35:51+02:00
 
 ## Related
 ```dataview  
-list from [[Köpenhamn]]
+LIST WITHOUT ID "[["+file.path+"]]" WHERE contains(city, "Köpenhamn")
 ```

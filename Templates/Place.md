@@ -12,6 +12,6 @@ coordinates:
 -
 
 ## Related
-```dataview  
-list from [[<% tp.file.title %>]]
+```dataview
+LIST WITHOUT ID "[["+file.path+"]]" WHERE contains(city, "<% tp.file.title %>")
 ```
