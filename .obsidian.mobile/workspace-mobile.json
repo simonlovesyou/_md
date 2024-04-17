@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "People/Oscar.md",
+                "file": "Todo.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
         }
       }
     ],
-    "currentTab": 3
+    "currentTab": 0
   },
   "right": {
     "id": "aab90dcd7ebe7c87",
@@ -98,7 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Movies/Sicario.md",
+            "file": "Todo.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Movies/Sicario.md",
+            "file": "Todo.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -127,7 +127,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Movies/Sicario.md"
+            "file": "Todo.md"
           }
         }
       }
@@ -149,8 +149,10 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "cf9a77be7a3ca0f7",
+  "active": "a0da7a453da0dbb0",
   "lastOpenFiles": [
+    "People/Oscar.md",
+    "Movies/Sicario.md",
     "Untitled",
     "People/Jasmine.md",
     "People/Josephine.md",
@@ -164,7 +166,6 @@
     "Journal/2024-04-15.md",
     "Journal/2024-04-16.md",
     "MOCs/People.md",
-    "People/Oscar.md",
     "Journal/2024-04-08.md",
     "MOCs/Journal.md",
     "Todo.md",
@@ -176,7 +177,6 @@
     "Journal/2024-04-03.md",
     "Journal/2024-04-04.md",
     "Untitled.md",
-    "Movies/Sicario.md",
     "Restaurants/Växthuset.md",
     "Matlagning",
     "Movies",
