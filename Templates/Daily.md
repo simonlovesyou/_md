@@ -21,7 +21,7 @@ location: <%* tR += await Promise.race([
 ---
 tags: [[Journal]] <% await tp.file.move("/Journal/" + tp.date.now("YYYY-MM-DD")) %>
 
-<< [[Timestamps/<% tp.date.now("YYYY", -1) %>/<% tp.date.now("MM-MMMM", -1) %>/<% tp.date.now("YYYY-MM-DD-dddd", -1) %>|Yesterday]] | [[Timestamps/<% tp.date.now("YYYY", 1) %>/<% tp.date.now("MM-MMMM", 1) %>/<% tp.date.now("YYYY-MM-DD-dddd", 1) %>|Tomorrow]] >>
+<< [[Journal/<% tp.date.now("YYYY-MM-DD", -1) %>|Yesterday]] | [[Journal/<% tp.date.now("YYYY-MM-DD", 1) %>|Tomorrow]] >>
 
 ---
 ## 📅 Daily Questions

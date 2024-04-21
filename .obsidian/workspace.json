@@ -28,14 +28,26 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Journal/2024-04-11.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "da1cf0fe393241bc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Journal/2024-04-19.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -178,37 +190,37 @@
       "obsidian-map-view:Open map view": false
     }
   },
-  "active": "5898988c2534b167",
+  "active": "da1cf0fe393241bc",
   "lastOpenFiles": [
-    "Timestamps/2024/04-April/2024-04-18-Thursday.md",
-    "Journal/2024-04-19.md",
     "MOCs/Journal.md",
-    "Places/Köpenhamn.md",
+    "MOCs/Movies.md",
     "Journal/2024-04-21.md",
-    "Templates/Daily.md",
-    "Templates/Place.md",
-    "Templates/People.md",
-    "Templates/Movie.md",
-    "Templates/Recipe.md",
-    "Templates/Restaurant.md",
-    "Places/Piteå.md",
-    "Journal/2024-04-21x.md",
-    "Restaurants/Växthuset.md",
-    "Restaurants/Symbios.md",
-    "Restaurants/Original Coffee.md",
+    "MOCs/Places.md",
+    "MOCs/People.md",
     "Restaurants/La Posata.md",
-    "Restaurants/L'avventura.md",
+    "Templates/Recipe.md",
+    "Places/Stockholm.md",
+    "Places/Piteå.md",
+    "MOCs/Recipes.md",
+    "MOCs/Restaurants.md",
     "Journal/2024-04-11.md",
-    "Timestamps/2024/04-April/2024-04-16-Tuesday.md",
+    "Journal/2024-04-14.md",
+    "Journal/2024-04-12.md",
+    "Journal/2024-04-13.md",
+    "Journal/2024-04-15.md",
+    "Journal/2024-04-16.md",
+    "Journal/2024-04-17.md",
+    "Journal/2024-04-18.md",
+    "Journal/2024-04-19.md",
+    "Journal/2024-04-20.md",
+    "Places/Köpenhamn.md",
+    "Journal/2024-04-10.md",
+    "People/Lena.md",
+    "Templates/Daily.md",
+    "Timestamps/2024/04-April/2024-04-18-Thursday.md",
     "Timestamps/2024/04-April",
     "Timestamps/2024",
     "Timestamps",
-    "Restaurants/Cucina Povera.md",
-    "Restaurants/Café Marzano.md",
-    "Places/Stockholm.md",
-    "Places/Illum.md",
-    "Journal/2024-03-30.md",
-    "MOCs/Places.md",
     "Places",
     "Presentations/eslint-plugin/Screenshot 2024-03-29 at 22.18.22.png",
     "Matlagning",
