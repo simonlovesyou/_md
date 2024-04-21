@@ -1,6 +1,6 @@
 ---
 phone: 46735017098
-location: Stockholm
+location: "[[Stockholm]]"
 address:
 met: 2012
 lastname: Gustafsson

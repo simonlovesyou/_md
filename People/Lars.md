@@ -1,6 +1,6 @@
 ---
 phone: +46706562307
-location: Piteå
+location: "[[Piteå]]"
 address: Backevägen 14, 94148 Piteå
 lastname: Johansson
 birthday: 7/7

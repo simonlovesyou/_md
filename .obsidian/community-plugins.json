@@ -12,5 +12,7 @@
   "dataview",
   "frontmatter-modified-date",
   "frontmatter-viewmode",
-  "custom-sort"
+  "custom-sort",
+  "obsidian-map-view",
+  "frontmatter-links"
 ]

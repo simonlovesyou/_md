@@ -1,6 +1,6 @@
 ---
 phone: ‭+46 76-810 73 11‬
-location: Stockholm
+location: "[[Stockholm]]"
 address: Frejgatan 6A, 114 20 Stockholm
 lastname: Martini
 birthday: 10/06

@@ -4,7 +4,7 @@ tags:
   - tech-talk
   - eslint
 duration: 10–20min
-modified: 2024-04-16T11:24:43+02:00
+modified: 2024-04-21T18:22:11+02:00
 ---
 
 # writing a custom eslint-plugin

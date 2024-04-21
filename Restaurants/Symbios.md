@@ -1,8 +1,8 @@
 ---
 name: Symbios
-city:
-  - - Stockholm
+location: "[[Stockholm]]"
 address: Skånegatan 80, 116 37 Stockholm
+coordinates: 59.312257785932886,18.079762743688562
 contact:
   mail: boka@restaurangvaxthuset.se
   restaurant: +46 722 052 950
@@ -14,7 +14,7 @@ summary: Symbios är en restaurang belägen ett stenkast från Nytorget på Söd
 visited: false
 tags:
   - restaurant
-modified: 2024-04-16T21:37:48+02:00
+modified: 2024-04-21T19:23:01+02:00
 ---
 
 tags: [[Restaurants]]

@@ -1,6 +1,6 @@
 ---
 phone: 46763381851
-location: Stockholm
+location: "[[Stockholm]]"
 address: Tegelbruksvägen 5
 met:
 lastname: Lantz

@@ -1,8 +1,7 @@
 ---
 name: L'avventura
-city:
-  - - Stockholm
-location: Odenplan
+city: "[[Stockholm]]"
+location: "[[Odenplan]]"
 address: Sveavägen 77, 113 50 Stockholm
 contact: +468-519 422 74
 reservations: lavventura.se/boka-bord
@@ -13,7 +12,8 @@ visited:
   - 14th of April 2022
 tags:
   - italienskt
-modified: 2024-04-16T21:37:45+02:00
+modified: 2024-04-21T19:14:39+02:00
+coordinates: 59.3442188,18.0547028
 ---
 
 tags: [[Restaurants]]

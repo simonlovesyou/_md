@@ -1,5 +1,5 @@
 ---
-location: Stockholm
+location: "[[Stockholm]]"
 address: Barkarbyvägen 20A
 met: 16/11/2018
 lastname: Nordin

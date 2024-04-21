@@ -1,8 +1,9 @@
 ---
 tags:
   - places
-coordinates: 
-modified: 2024-04-16T21:44:39+02:00
+  - city
+coordinates: 55.6761,12.5683
+modified: 2024-04-21T18:56:59+02:00
 ---
 [[Places]] 
 

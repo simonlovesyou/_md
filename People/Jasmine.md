@@ -1,6 +1,6 @@
 ---
 phone:
-location: Piteå
+location: "[[Piteå]]"
 address:
 met:
 lastname:

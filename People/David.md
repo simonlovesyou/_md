@@ -1,8 +1,8 @@
 ---
-phone:‭ +4676-004 23 48‬
+phone:+4676-0042348
 met:
 address: Sättragatan 23D, 741 46 Knivsta
-location: Knivsta
+location: "[[Knivsta]]"
 lastname: Bergvik
 birthday: 23/10
 ---

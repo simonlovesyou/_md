@@ -1,6 +1,23 @@
 ---
 created: <% tp.file.creation_date() %>
 modified: 2024-03-29T21:35:23+01:00
+location: <%* tR += await Promise.race([
+    new Promise((resolve) => {
+        fetch('http://ip-api.com/json/')
+            .then(response => response.json())
+            .then(data => 
+		        resolve(
+			        data.city === 'Järfälla Municipality' ? '"[[Stockholm]]"' : `"[[data.city]]"`
+			    )
+			)
+    }),
+    new Promise((resolve) =>
+        // If we haven't fetched the location within 300ms,
+        // time-out and resolve with the placeholder text instead
+        setTimeout(() => resolve('Location'), 300)
+    )
+])
+%>
 ---
 tags: [[Journal]] <% await tp.file.move("/Journal/" + tp.date.now("YYYY-MM-DD")) %>
 

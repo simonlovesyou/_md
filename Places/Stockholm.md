@@ -1,10 +1,9 @@
 ---
 tags:
   - places
-coordinates:
-  latitude: 59.334591
-  longitude: 18.06324
-modified: 2024-04-16T21:40:23+02:00
+  - city
+modified: 2024-04-21T18:57:05+02:00
+coordinates: 59.3251172,18.0710935
 ---
 [[Places]] 
 

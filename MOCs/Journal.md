@@ -1,6 +1,6 @@
 ---
 prefer-view: read
-modified: 2024-04-15T19:40:42+02:00
+modified: 2024-04-21T18:40:42+02:00
 tags:
   - moc
 ---
@@ -28,7 +28,7 @@ The Journal MOC facilitates easy navigation and connection of diverse journal en
 ## Journal entries
 
 ```dataview
-TABLE file.cday as Created, summary
+TABLE summary
 FROM "Journal" and -#MOC
-SORT file.cday DESC
+SORT file.name DESC
 ```
