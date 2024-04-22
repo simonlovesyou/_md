@@ -23,14 +23,14 @@ actors:
 image: https://m.media-amazon.com/images/M/MV5BN2VmMTlhOTMtNDAwNi00NjIwLWJjMmUtNjg4OThkYWExYWMyXkEyXkFqcGdeQXVyMTQ2Mjc5MDM@._V1_SX300.jpg
 released: true
 streamingServices: max
-premiere: 06/17/2016
+premiere: 2016-06-17
 watched: true
-lastWatched: 2024/03/28
+lastWatched: 2024-03-28
 personalRating: 7
 tags:
   - movie
   - documentary
-modified: 2024-04-01T13:21:48+02:00
+modified: 2024-04-21T20:31:45+02:00
 ---
 ![](https://m.media-amazon.com/images/M/MV5BN2VmMTlhOTMtNDAwNi00NjIwLWJjMmUtNjg4OThkYWExYWMyXkEyXkFqcGdeQXVyMTQ2Mjc5MDM@._V1_SX300.jpg)
 

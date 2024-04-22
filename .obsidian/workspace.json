@@ -23,31 +23,30 @@
             }
           },
           {
-            "id": "5898988c2534b167",
+            "id": "53ab90221f433db5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/2024-04-11.md",
-                "mode": "source",
+                "file": "Journal/2024-04-21.md",
+                "mode": "preview",
                 "source": true
               }
             }
           },
           {
-            "id": "da1cf0fe393241bc",
+            "id": "e12b33046a7f4b0a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/2024-04-19.md",
+                "file": "Templates/Daily.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -76,7 +75,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Såg ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -113,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/2024-04-19.md",
+                "file": "Places/Stockholm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/2024-04-19.md",
+                "file": "Places/Stockholm.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/2024-04-19.md"
+                "file": "Places/Stockholm.md"
               }
             }
           },
@@ -190,34 +189,34 @@
       "obsidian-map-view:Open map view": false
     }
   },
-  "active": "da1cf0fe393241bc",
+  "active": "a898e2d3dad72a80",
   "lastOpenFiles": [
+    "Journal/2024-03-28.md",
     "MOCs/Journal.md",
-    "MOCs/Movies.md",
+    "Movies/Tickled (2016).md",
+    "Journal/2024-04-08.md",
     "Journal/2024-04-21.md",
-    "MOCs/Places.md",
-    "MOCs/People.md",
-    "Restaurants/La Posata.md",
-    "Templates/Recipe.md",
-    "Places/Stockholm.md",
-    "Places/Piteå.md",
-    "MOCs/Recipes.md",
-    "MOCs/Restaurants.md",
+    "Journal/2024-04-22.md",
+    "Templates/Daily.md",
+    "Journal/Untitled.md",
+    "Journal/2024-03-26.md",
+    "Journal/2024-04-10.md",
+    "Journal/2024-04-09.md",
     "Journal/2024-04-11.md",
-    "Journal/2024-04-14.md",
     "Journal/2024-04-12.md",
     "Journal/2024-04-13.md",
+    "Journal/2024-04-14.md",
     "Journal/2024-04-15.md",
     "Journal/2024-04-16.md",
     "Journal/2024-04-17.md",
     "Journal/2024-04-18.md",
     "Journal/2024-04-19.md",
     "Journal/2024-04-20.md",
-    "Places/Köpenhamn.md",
-    "Journal/2024-04-10.md",
-    "People/Lena.md",
-    "Templates/Daily.md",
-    "Timestamps/2024/04-April/2024-04-18-Thursday.md",
+    "MOCs/Movies.md",
+    "MOCs/Places.md",
+    "MOCs/People.md",
+    "Restaurants/La Posata.md",
+    "Templates/Recipe.md",
     "Timestamps/2024/04-April",
     "Timestamps/2024",
     "Timestamps",

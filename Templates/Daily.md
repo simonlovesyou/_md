@@ -1,6 +1,8 @@
 ---
 created: <% tp.file.creation_date() %>
 modified: 2024-03-29T21:35:23+01:00
+tags:
+ - journal
 location: <%* tR += await Promise.race([
     new Promise((resolve) => {
         fetch('http://ip-api.com/json/')
@@ -14,12 +16,18 @@ location: <%* tR += await Promise.race([
     new Promise((resolve) =>
         // If we haven't fetched the location within 300ms,
         // time-out and resolve with the placeholder text instead
-        setTimeout(() => resolve('Location'), 300)
+        setTimeout(() => resolve('Location'), 3000)
     )
 ])
 %>
 ---
-tags: [[Journal]] <% await tp.file.move("/Journal/" + tp.date.now("YYYY-MM-DD")) %>
+tags: [[Journal]] <%*
+const fileName = tp.file.title
+const date = tp.date.now("YYYY-MM-DD")
+if(!/\d{4}-\d{2}-\d{2}/.test(date)) {
+  await tp.file.rename(date)
+}
+-%>
 
 << [[Journal/<% tp.date.now("YYYY-MM-DD", -1) %>|Yesterday]] | [[Journal/<% tp.date.now("YYYY-MM-DD", 1) %>|Tomorrow]] >>
 
