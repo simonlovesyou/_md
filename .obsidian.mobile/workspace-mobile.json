@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MOCs/Journal.md",
+                "file": "Journal/2024-04-22.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "MOCs/Journal.md",
+            "file": "Journal/2024-04-22.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "MOCs/Journal.md",
+            "file": "Journal/2024-04-22.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -127,7 +127,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "MOCs/Journal.md"
+            "file": "Journal/2024-04-22.md"
           }
         }
       }
@@ -151,9 +151,10 @@
   },
   "active": "a0da7a453da0dbb0",
   "lastOpenFiles": [
+    "MOCs/Journal.md",
+    "Journal/2024-04-22.md",
     "Journal/2024-04-17.md",
     "ReadItLater Inbox/Why your performance work is not seen.md",
-    "MOCs/Journal.md",
     "Todo.md",
     "People/Oscar.md",
     "Movies/Sicario.md",
@@ -178,7 +179,6 @@
     "Journal/2024-04-02.md",
     "Journal/2024-04-03.md",
     "Journal/2024-04-04.md",
-    "Untitled.md",
     "Matlagning",
     "Movies",
     "Presentations/eslint-plugin/Screenshot 2024-03-29 at 22.18.22.png",
