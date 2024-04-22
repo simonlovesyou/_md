@@ -45,8 +45,21 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "7d2fd5a035848d86",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Journal/2024-04-22.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -112,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Places/Stockholm.md",
+                "file": "Journal/2024-04-22.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Places/Stockholm.md",
+                "file": "Journal/2024-04-22.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Places/Stockholm.md"
+                "file": "Journal/2024-04-22.md"
               }
             }
           },
@@ -189,34 +202,34 @@
       "obsidian-map-view:Open map view": false
     }
   },
-  "active": "a898e2d3dad72a80",
+  "active": "7d2fd5a035848d86",
   "lastOpenFiles": [
-    "Journal/2024-03-28.md",
     "MOCs/Journal.md",
+    "Journal/2024-04-19.md",
+    "Journal/2024-04-18.md",
+    "Journal/2024-04-17.md",
+    "Journal/2024-04-16.md",
+    "Templates/Daily.md",
+    "Journal/2024-04-22.md",
+    "Places/Stockholm.md",
+    "People/Lena.md",
+    "Journal/2024-04-14.md",
+    "Journal/2024-04-13.md",
+    "Journal/2024-04-12.md",
+    "Journal/2024-04-10.md",
+    "Journal/2024-04-21x.md",
+    "ReadItLater Inbox/Why your performance work is not seen.md",
+    "Journal/2024-03-28.md",
     "Movies/Tickled (2016).md",
     "Journal/2024-04-08.md",
     "Journal/2024-04-21.md",
-    "Journal/2024-04-22.md",
-    "Templates/Daily.md",
     "Journal/Untitled.md",
     "Journal/2024-03-26.md",
-    "Journal/2024-04-10.md",
     "Journal/2024-04-09.md",
     "Journal/2024-04-11.md",
-    "Journal/2024-04-12.md",
-    "Journal/2024-04-13.md",
-    "Journal/2024-04-14.md",
     "Journal/2024-04-15.md",
-    "Journal/2024-04-16.md",
-    "Journal/2024-04-17.md",
-    "Journal/2024-04-18.md",
-    "Journal/2024-04-19.md",
     "Journal/2024-04-20.md",
     "MOCs/Movies.md",
-    "MOCs/Places.md",
-    "MOCs/People.md",
-    "Restaurants/La Posata.md",
-    "Templates/Recipe.md",
     "Timestamps/2024/04-April",
     "Timestamps/2024",
     "Timestamps",
