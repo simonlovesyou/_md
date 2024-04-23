@@ -21,15 +21,14 @@ location: <%* tR += await Promise.race([
 ])
 %>
 ---
-tags: [[Journal]] <%*
+
+<%*
 const fileName = tp.file.title
 const date = tp.date.now("YYYY-MM-DD")
 if(!/\d{4}-\d{2}-\d{2}/.test(date)) {
   await tp.file.rename(date)
 }
--%>
-
-<< [[Journal/<% tp.date.now("YYYY-MM-DD", -1) %>|Yesterday]] | [[Journal/<% tp.date.now("YYYY-MM-DD", 1) %>|Tomorrow]] >>
+-%><< [[Journal/<% tp.date.now("YYYY-MM-DD", -1) %>|Yesterday]] | [[Journal/<% tp.date.now("YYYY-MM-DD", 1) %>|Tomorrow]] >>
 
 ---
 ## 📅 Daily Questions
