@@ -3,8 +3,9 @@ title: Halloumistroganoff
 portions: 4
 duration: <45 min
 tags:
-- rice
+  - rice
 source: https://www.ica.se/recept/halloumistroganoff-722769/
+modified: 2024-04-22T18:48:06+02:00
 ---
 
 ## Ingredients
@@ -31,3 +32,8 @@ source: https://www.ica.se/recept/halloumistroganoff-722769/
 5. Blanda ner halloumi, passerade tomater, grädde och vatten.
 6. Koka upp och låt sjuda ca 15 minuter under lock. Smaka ev av med salt och peppar.
 7. Till servering: Servera stroganoffen med ris, gryn eller pasta.
+
+## Serveringsförslag
+- [[Vitkålsallad]]
+
+

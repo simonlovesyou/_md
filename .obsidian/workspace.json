@@ -52,8 +52,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/2024-04-22.md",
-                "mode": "preview",
+                "file": "Templates/Daily.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/2024-04-22.md",
+                "file": "Templates/Daily.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/2024-04-22.md",
+                "file": "Templates/Daily.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/2024-04-22.md"
+                "file": "Templates/Daily.md"
               }
             }
           },
@@ -204,13 +204,25 @@
   },
   "active": "7d2fd5a035848d86",
   "lastOpenFiles": [
+    "Journal/2024-04-22.md",
+    "Timestamps/2024/04-April/2024-04-23-Tuesday.md",
+    "Timestamps/2024/04-April",
+    "Timestamps/2024",
+    "Timestamps",
+    "Recipes/Belugabolognese.md",
+    "Recipes/Vitkålsallad.md",
+    "Recipes/Halloumistroganoff.md",
+    "MOCs/Recipes.md",
+    "Recipes/Korvstroganoff.md",
+    "Recipes/Ratatouille.md",
+    "Recipes/Potatismos.md",
+    "Recipes/Vodkapasta.md",
     "MOCs/Journal.md",
     "Journal/2024-04-19.md",
     "Journal/2024-04-18.md",
     "Journal/2024-04-17.md",
     "Journal/2024-04-16.md",
     "Templates/Daily.md",
-    "Journal/2024-04-22.md",
     "Places/Stockholm.md",
     "People/Lena.md",
     "Journal/2024-04-14.md",
@@ -221,18 +233,6 @@
     "ReadItLater Inbox/Why your performance work is not seen.md",
     "Journal/2024-03-28.md",
     "Movies/Tickled (2016).md",
-    "Journal/2024-04-08.md",
-    "Journal/2024-04-21.md",
-    "Journal/Untitled.md",
-    "Journal/2024-03-26.md",
-    "Journal/2024-04-09.md",
-    "Journal/2024-04-11.md",
-    "Journal/2024-04-15.md",
-    "Journal/2024-04-20.md",
-    "MOCs/Movies.md",
-    "Timestamps/2024/04-April",
-    "Timestamps/2024",
-    "Timestamps",
     "Places",
     "Presentations/eslint-plugin/Screenshot 2024-03-29 at 22.18.22.png",
     "Matlagning",
