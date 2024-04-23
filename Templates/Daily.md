@@ -9,7 +9,7 @@ location: <%* tR += await Promise.race([
             .then(response => response.json())
             .then(data => 
 		        resolve(
-			        data.city === 'Järfälla Municipality' ? '"[[Stockholm]]"' : `"[[data.city]]"`
+			        data.city === 'Järfälla Municipality' ? '"[[Stockholm]]"' : `"[[${data.city}]]"`
 			    )
 			)
     }),
