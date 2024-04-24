@@ -52,8 +52,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Todo.md",
-                "mode": "preview",
+                "file": "Journal/2024-04-24.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Todo.md",
+                "file": "Journal/2024-04-24.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Todo.md",
+                "file": "Journal/2024-04-24.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Todo.md"
+                "file": "Journal/2024-04-24.md"
               }
             }
           },
@@ -205,6 +205,8 @@
   "active": "7d2fd5a035848d86",
   "lastOpenFiles": [
     "Journal/2024-04-23.md",
+    "Journal/2024-04-24.md",
+    "Todo.md",
     "People/Matilda.md",
     "MOCs/People.md",
     "Templates/People.md",
@@ -231,8 +233,6 @@
     "Journal/2024-04-16.md",
     "Places/Stockholm.md",
     "People/Lena.md",
-    "Journal/2024-04-14.md",
-    "Journal/2024-04-13.md",
     "Places",
     "Presentations/eslint-plugin/Screenshot 2024-03-29 at 22.18.22.png",
     "Matlagning",
