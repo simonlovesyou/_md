@@ -52,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/2024-04-24.md",
+                "file": "Recipes/Focaccia med ramslök.md",
                 "mode": "source",
                 "source": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/2024-04-24.md",
+                "file": "Recipes/Focaccia med ramslök.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/2024-04-24.md",
+                "file": "Recipes/Focaccia med ramslök.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/2024-04-24.md"
+                "file": "Recipes/Focaccia med ramslök.md"
               }
             }
           },
@@ -204,8 +204,20 @@
   },
   "active": "7d2fd5a035848d86",
   "lastOpenFiles": [
-    "Journal/2024-04-23.md",
+    "Recipes/Tagliatelle med champinjoner, vitlök, ärter och parmesan.md",
+    "Recipes/Matveteotto med soltorkade tomater, kikärtor och fetaost.md",
+    "Recipes/Lasagnesoppa.md",
+    "Recipes/Korvstroganoff.md",
+    "Recipes/Halloumistroganoff.md",
+    "Recipes/Focaccia med ramslök.md",
+    "Recipes/Ratatouille.md",
+    "Recipes/Potatismos.md",
+    "Recipes/Lyxig jordärtskockssoppa.md",
+    "Recipes/Krämig morots- och paprikapasta.md",
+    "MOCs/Recipes.md",
     "Journal/2024-04-24.md",
+    "ReadItLater Inbox/require(esm) in Node.js.md",
+    "Journal/2024-04-23.md",
     "Todo.md",
     "People/Matilda.md",
     "MOCs/People.md",
@@ -220,19 +232,7 @@
     "Timestamps",
     "Recipes/Belugabolognese.md",
     "Recipes/Vitkålsallad.md",
-    "Recipes/Halloumistroganoff.md",
-    "MOCs/Recipes.md",
-    "Recipes/Korvstroganoff.md",
-    "Recipes/Ratatouille.md",
-    "Recipes/Potatismos.md",
     "Recipes/Vodkapasta.md",
-    "MOCs/Journal.md",
-    "Journal/2024-04-19.md",
-    "Journal/2024-04-18.md",
-    "Journal/2024-04-17.md",
-    "Journal/2024-04-16.md",
-    "Places/Stockholm.md",
-    "People/Lena.md",
     "Places",
     "Presentations/eslint-plugin/Screenshot 2024-03-29 at 22.18.22.png",
     "Matlagning",
