@@ -23,9 +23,11 @@
             "id": "a0da7a453da0dbb0",
             "type": "leaf",
             "state": {
-              "type": "recipe-view",
+              "type": "markdown",
               "state": {
-                "file": "Journal/2024-04-22.md"
+                "file": "MOCs/Recipes.md",
+                "mode": "preview",
+                "source": false
               }
             }
           }
@@ -96,7 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Journal/2024-04-22.md",
+            "file": "MOCs/Recipes.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -113,7 +115,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Journal/2024-04-22.md",
+            "file": "MOCs/Recipes.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -125,7 +127,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Journal/2024-04-22.md"
+            "file": "MOCs/Recipes.md"
           }
         }
       }
@@ -149,9 +151,9 @@
   },
   "active": "a0da7a453da0dbb0",
   "lastOpenFiles": [
+    "Journal/2024-04-22.md",
     "ReadItLater Inbox/require(esm) in Node.js.md",
     "MOCs/Journal.md",
-    "Journal/2024-04-22.md",
     "Journal/2024-04-17.md",
     "ReadItLater Inbox/Why your performance work is not seen.md",
     "Todo.md",
