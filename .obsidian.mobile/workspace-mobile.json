@@ -23,11 +23,9 @@
             "id": "a0da7a453da0dbb0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "recipe-view",
               "state": {
-                "file": "Journal/2024-04-22.md",
-                "mode": "source",
-                "source": false
+                "file": "Journal/2024-04-22.md"
               }
             }
           }
@@ -151,6 +149,7 @@
   },
   "active": "a0da7a453da0dbb0",
   "lastOpenFiles": [
+    "ReadItLater Inbox/require(esm) in Node.js.md",
     "MOCs/Journal.md",
     "Journal/2024-04-22.md",
     "Journal/2024-04-17.md",
@@ -178,7 +177,6 @@
     "Recipes/Matveteotto med soltorkade tomater, kikärtor och fetaost.md",
     "Journal/2024-04-02.md",
     "Journal/2024-04-03.md",
-    "Journal/2024-04-04.md",
     "Matlagning",
     "Movies",
     "Presentations/eslint-plugin/Screenshot 2024-03-29 at 22.18.22.png",
