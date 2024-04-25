@@ -7,8 +7,9 @@ tags:
   - mjölkproteinfri
 portions: 4
 source: https://www.ica.se/recept/dhal-indisk-linsgryta-614423/
-modified: 2024-04-05T20:53:58+02:00
+modified: 2024-04-25T09:15:12+02:00
 ---
+![](https://assets.icanet.se/e_sharpen:80,q_auto,dpr_1.25,w_718,h_718,c_lfill/imagevaultfiles/id_223445/cf_259/dhal__indisk_linsgryta.jpg)
 Denna rätt är en näringsrik och klimatsmart variant av den traditionella indiska linsgrytan. Den är rik på smak tack vare en kombination av lök, morötter, vitlök, färsk ingefära, och en symfoni av kryddor som koriander, spiskummin och kanel. Serveras bäst med ris, naanbröd och toppas med färsk koriander för en autentisk upplevelse.
 
 ## Ingredients

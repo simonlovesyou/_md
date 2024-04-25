@@ -40,3 +40,5 @@ Ett klassiskt franskt recept på ratatouille som innehåller aubergine, zucchini
 5. Tillsätt paprikan, tomatpuré, vitt vin och de skalade tomaterna.
 6. Låt koka på svag värme i ca 30 minuter.
 7. Välj en kryddkombination och tillsätt den. Smaka av med salt.
+
+## Notes

@@ -52,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Recipes/Focaccia med ramslök.md",
+                "file": "Recipes/Ratatouille.md",
                 "mode": "source",
                 "source": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Recipes/Focaccia med ramslök.md",
+                "file": "Recipes/Ratatouille.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Recipes/Focaccia med ramslök.md",
+                "file": "Recipes/Ratatouille.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Recipes/Focaccia med ramslök.md"
+                "file": "Recipes/Ratatouille.md"
               }
             }
           },
@@ -204,35 +204,36 @@
   },
   "active": "7d2fd5a035848d86",
   "lastOpenFiles": [
-    "Recipes/Tagliatelle med champinjoner, vitlök, ärter och parmesan.md",
-    "Recipes/Matveteotto med soltorkade tomater, kikärtor och fetaost.md",
-    "Recipes/Lasagnesoppa.md",
-    "Recipes/Korvstroganoff.md",
-    "Recipes/Halloumistroganoff.md",
-    "Recipes/Focaccia med ramslök.md",
-    "Recipes/Ratatouille.md",
-    "Recipes/Potatismos.md",
-    "Recipes/Lyxig jordärtskockssoppa.md",
-    "Recipes/Krämig morots- och paprikapasta.md",
-    "MOCs/Recipes.md",
+    "Journal/2024-04-25.md",
+    "Todo.md",
+    "Media DB/series/Din Personlighet.md",
+    "Media DB/movies/The Martian (2015).md",
+    "Media DB/series",
     "Journal/2024-04-24.md",
+    "MOCs/Journal.md",
+    "People/Lena.md",
+    "People/Lars.md",
+    "Journal/2024-03-26.md",
+    "Recipes/Matveteotto med soltorkade tomater, kikärtor och fetaost.md",
+    "Recipes/Potatismos.md",
+    "Recipes/Belugabolognese.md",
+    "Recipes/Bönquesadillas med majskräm.md",
+    "Recipes/Dhal, indisk linsgryta.md",
+    "Recipes/Focaccia med ramslök.md",
+    "Recipes/Halloumistroganoff.md",
+    "Recipes/Korvstroganoff.md",
+    "Recipes/Krämig morots- och paprikapasta.md",
+    "Recipes/Lasagnesoppa.md",
+    "Recipes/Lyxig jordärtskockssoppa.md",
+    "Recipes/Tagliatelle med champinjoner, vitlök, ärter och parmesan.md",
+    "Recipes/Ratatouille.md",
+    "MOCs/Recipes.md",
     "ReadItLater Inbox/require(esm) in Node.js.md",
     "Journal/2024-04-23.md",
-    "Todo.md",
     "People/Matilda.md",
-    "MOCs/People.md",
-    "Templates/People.md",
-    "Journal/2024-04-22.md",
-    "Templates/Daily.md",
-    "Templates/Movie.md",
-    "Journal/2024-04-21.md",
-    "Timestamps/2024/04-April/2024-04-23-Tuesday.md",
     "Timestamps/2024/04-April",
     "Timestamps/2024",
     "Timestamps",
-    "Recipes/Belugabolognese.md",
-    "Recipes/Vitkålsallad.md",
-    "Recipes/Vodkapasta.md",
     "Places",
     "Presentations/eslint-plugin/Screenshot 2024-03-29 at 22.18.22.png",
     "Matlagning",
@@ -240,7 +241,6 @@
     "Projects",
     "Media DB/books",
     "Books",
-    "People",
     "Pasted image 20240323215939.png",
     "Recipes/Pasted image 20240323223215.png"
   ]

@@ -5,9 +5,9 @@ duration: <45 min
 tags:
   - rice
 source: https://www.ica.se/recept/halloumistroganoff-722769/
-modified: 2024-04-22T18:48:06+02:00
+modified: 2024-04-25T09:14:12+02:00
 ---
-
+![](https://assets.icanet.se/e_sharpen:80,q_auto,dpr_1.25,w_718,h_718,c_lfill/imagevaultfiles/id_245298/cf_259/halloumistroganoff.jpg)
 ## Ingredients
 - 1 gul lök
 - 1 vitlöksklyfta

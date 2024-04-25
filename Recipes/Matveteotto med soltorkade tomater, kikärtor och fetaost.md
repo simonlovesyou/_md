@@ -4,8 +4,9 @@ tags:
 portions: 4
 source: https://undertian.com/recept/matveterisotto-med-topping-pa-soltorkade-tomater-oliver-och-kikartor/
 duration: 30 min
-modified: 2024-04-01T22:10:31+02:00
+modified: 2024-04-25T09:15:28+02:00
 ---
+![](https://undertian.com/wp-content/uploads/2018/09/matvete-risotto-1308x1308.jpg)
 Det här receptet förvandlar matvete till en utsökt variant av risotto, toppad med en blandning av kikärtor, fetaost, soltorkade tomater och oliver, perfekt för alla årstider.
 
 ## Ingredients

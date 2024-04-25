@@ -4,10 +4,11 @@ tags:
 portions: 4
 source: https://www.ica.se/recept/korvstroganoff-med-ris-533512/
 duration: <30 min
-modified: 2024-04-22T18:34:46+02:00
+modified: 2024-04-25T09:13:51+02:00
+cover: 
 ---
-
-Detta är ett snabbt och enkelt recept på korvstroganoff som serveras med ris. Korvstroganoff är en välsmakande korvgryta som ofta är uppskattad i många hem.
+![](https://assets.icanet.se/e_sharpen:80,q_auto,dpr_1.25,w_718,h_718,c_lfill/imagevaultfiles/id_223427/cf_259/korvstroganoff_med_ris.jpg)
+Detta är ett snabbt och enkelt recept på korvstroganoff som serveras med ris.
 
 ## Ingredients
 
