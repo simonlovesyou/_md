@@ -25,7 +25,7 @@
             "state": {
               "type": "recipe-view",
               "state": {
-                "file": "Recipes/Ratatouille.md"
+                "file": "Recipes/Vodkapasta.md"
               }
             }
           }
@@ -96,7 +96,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Recipes/Ratatouille.md",
+            "file": "Recipes/Vodkapasta.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Recipes/Ratatouille.md",
+            "file": "Recipes/Vodkapasta.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -125,7 +125,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Recipes/Ratatouille.md"
+            "file": "Recipes/Vodkapasta.md"
           }
         }
       }
@@ -149,6 +149,7 @@
   },
   "active": "a0da7a453da0dbb0",
   "lastOpenFiles": [
+    "Recipes/Ratatouille.md",
     "MOCs/Recipes.md",
     "Movies/Sicario.md",
     "Journal/2024-04-24.md",
@@ -176,7 +177,6 @@
     "Movies/Dune 2.md",
     "Journal/2024-04-05.md",
     "Journal/2024-04-06.md",
-    "Recipes/Matveteotto med soltorkade tomater, kikärtor och fetaost.md",
     "Matlagning",
     "Movies",
     "Presentations/eslint-plugin/Screenshot 2024-03-29 at 22.18.22.png",
