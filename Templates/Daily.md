@@ -32,18 +32,29 @@ if(!/\d{4}-\d{2}-\d{2}/.test(date)) {
 
 ---
 ## 📅 Daily Questions
-### 🌜 Igårkväll efter jobbet så gjorde jag...
+### 🌜 Reflektion om gårdagen
 - 
 
-### 🙌 Något jag är exalterad för just nu är
-- 
+### Hur mår jag idag?
 
-### 🚀 Det jag vill åstadkomma idag är...
+### 🚀  Intentioner för idag
+_Vad vill jag åstadkomma? Vad vill jag känna, åstadkomma eller lära mig?_
 _Se [[Todo]] för inspiration_
-- [ ] 
+
+### 🙏 Jag är tacksam för...
+
+### Utvecklingsmål
+
+### Hinder att överkomma
+
+### 🙌 Något jag ser framemot idag
+- 
 
 ### 👎 Något jag har svårt med idag...
 - 
+
+### Kreativt
+
 
 ---
 # 📝 Notes

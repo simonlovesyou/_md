@@ -35,31 +35,31 @@
             }
           },
           {
-            "id": "e12b33046a7f4b0a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/Daily.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
             "id": "7d2fd5a035848d86",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Recipes/Ratatouille.md",
+                "file": "Journal/2024-04-28.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "b756ffc4d4ee8c87",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Recipes/Gin & Tonic.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Recipes/Ratatouille.md",
+                "file": "Journal/2024-04-28.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Recipes/Ratatouille.md",
+                "file": "Journal/2024-04-28.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Recipes/Ratatouille.md"
+                "file": "Journal/2024-04-28.md"
               }
             }
           },
@@ -204,13 +204,21 @@
   },
   "active": "7d2fd5a035848d86",
   "lastOpenFiles": [
+    "Journal/2024-04-26.md",
+    "Journal/2024-04-28.md",
+    "Recipes/Gin & Tonic.md",
+    "MOCs/Recipes.md",
+    "MOCs/Journal.md",
+    "Sourmix.md",
+    "Templates/Daily.md",
     "Journal/2024-04-25.md",
-    "Todo.md",
     "Media DB/series/Din Personlighet.md",
+    "Journal/2024-04-21.md",
+    "Recipes/Ratatouille.md",
+    "Todo.md",
     "Media DB/movies/The Martian (2015).md",
     "Media DB/series",
     "Journal/2024-04-24.md",
-    "MOCs/Journal.md",
     "People/Lena.md",
     "People/Lars.md",
     "Journal/2024-03-26.md",
@@ -223,14 +231,6 @@
     "Recipes/Halloumistroganoff.md",
     "Recipes/Korvstroganoff.md",
     "Recipes/Krämig morots- och paprikapasta.md",
-    "Recipes/Lasagnesoppa.md",
-    "Recipes/Lyxig jordärtskockssoppa.md",
-    "Recipes/Tagliatelle med champinjoner, vitlök, ärter och parmesan.md",
-    "Recipes/Ratatouille.md",
-    "MOCs/Recipes.md",
-    "ReadItLater Inbox/require(esm) in Node.js.md",
-    "Journal/2024-04-23.md",
-    "People/Matilda.md",
     "Timestamps/2024/04-April",
     "Timestamps/2024",
     "Timestamps",

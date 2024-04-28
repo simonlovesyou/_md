@@ -16,8 +16,10 @@ watched: true
 lastWatched: ""
 personalRating: 0
 tags: series
-modified: 2024-04-25T09:30:24+02:00
+modified: 2024-04-27T16:46:30+02:00
 ---
 
 ## Notes
-- 
+- Mer än 50% av ens personlighet är definierad av ens gener.
+- Resterande kommer främst från vänner och slumpbaserade händelser.
+	- T.ex. om man blir svårt sjuk som liten och får bra vård kan man besluta sig för att bli doktor.

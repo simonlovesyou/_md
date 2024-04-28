@@ -2,7 +2,7 @@
 prefer-view: read
 tags:
   - moc
-modified: 2024-03-29T18:35:46+01:00
+modified: 2024-04-28T11:58:41+02:00
 ---
 ```meta-bind-button
 label: New Recipe
@@ -21,11 +21,11 @@ actions:
 ```
 
 # Recipe MOC
-A personal CRM. People Notes are about jotting down notable information about people and linking people back to [[🗣 Meetings MOC]].
+A personal CRM. People Notes are about jotting down notable information about people and linking people back to [[Recipes]]
 
 ---
 ### Templates
-- [[Templates/People|People]]
+- [[Recipe]]
 
 # Recipes
 ```dataview
