@@ -25,7 +25,7 @@
             "state": {
               "type": "recipe-view",
               "state": {
-                "file": "Recipes/Vodkapasta.md"
+                "file": "Recipes/Korvstroganoff.md"
               }
             }
           }
@@ -96,7 +96,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Recipes/Vodkapasta.md",
+            "file": "Recipes/Korvstroganoff.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Recipes/Vodkapasta.md",
+            "file": "Recipes/Korvstroganoff.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -125,7 +125,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Recipes/Vodkapasta.md"
+            "file": "Recipes/Korvstroganoff.md"
           }
         }
       }
@@ -149,6 +149,17 @@
   },
   "active": "a0da7a453da0dbb0",
   "lastOpenFiles": [
+    "Recipes/Vitkålsallad.md",
+    "Recipes/Korvstroganoff.md",
+    "Recipes/Vodkapasta.md",
+    "Journal/2024-04-26.md",
+    "Journal/2024-04-28.md",
+    "Recipes/Gin & Tonic.md",
+    "Recipes/Focaccia med ramslök.md",
+    "Sourmix.md",
+    "Media DB/series/Din Personlighet.md",
+    "Media DB/series",
+    "Journal/2024-04-25.md",
     "Recipes/Ratatouille.md",
     "MOCs/Recipes.md",
     "Movies/Sicario.md",
@@ -166,17 +177,7 @@
     "Journal/2024-04-07.md",
     "Templates/Place.md",
     "Places/Piteå.md",
-    "Places/Köpenhamn.md",
     "Places",
-    "MOCs/Places.md",
-    "Places/Stockholm.md",
-    "Journal/2024-04-15.md",
-    "Journal/2024-04-16.md",
-    "MOCs/People.md",
-    "Journal/2024-04-08.md",
-    "Movies/Dune 2.md",
-    "Journal/2024-04-05.md",
-    "Journal/2024-04-06.md",
     "Matlagning",
     "Movies",
     "Presentations/eslint-plugin/Screenshot 2024-03-29 at 22.18.22.png",
