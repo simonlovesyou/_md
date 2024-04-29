@@ -28,18 +28,10 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/2024-04-21.md",
-                "mode": "preview",
+                "file": "People/Sofie.md",
+                "mode": "source",
                 "source": true
               }
-            }
-          },
-          {
-            "id": "7d2fd5a035848d86",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
             }
           },
           {
@@ -55,7 +47,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -121,6 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "People/Sofie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,6 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "People/Sofie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +152,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "People/Sofie.md"
+              }
             }
           },
           {
@@ -194,9 +190,15 @@
       "obsidian-map-view:Open map view": false
     }
   },
-  "active": "7d2fd5a035848d86",
+  "active": "53ab90221f433db5",
   "lastOpenFiles": [
+    "MOCs/People.md",
+    "People/Sofie.md",
+    "Journal/2024-04-29.md",
     "Journal/2024-04-28.md",
+    "Todo.md",
+    "Journal/2024-03-29.md",
+    "Journal/2024-04-21.md",
     "Journal/2024-04-26.md",
     "Recipes/Gin & Tonic.md",
     "MOCs/Recipes.md",
@@ -205,9 +207,7 @@
     "Templates/Daily.md",
     "Journal/2024-04-25.md",
     "Media DB/series/Din Personlighet.md",
-    "Journal/2024-04-21.md",
     "Recipes/Ratatouille.md",
-    "Todo.md",
     "Media DB/movies/The Martian (2015).md",
     "Media DB/series",
     "Journal/2024-04-24.md",
@@ -219,10 +219,6 @@
     "Recipes/Belugabolognese.md",
     "Recipes/Bönquesadillas med majskräm.md",
     "Recipes/Dhal, indisk linsgryta.md",
-    "Recipes/Focaccia med ramslök.md",
-    "Recipes/Halloumistroganoff.md",
-    "Recipes/Korvstroganoff.md",
-    "Recipes/Krämig morots- och paprikapasta.md",
     "Timestamps/2024/04-April",
     "Timestamps/2024",
     "Timestamps",
