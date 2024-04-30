@@ -4,7 +4,7 @@ met:
 address: Sättragatan 23D, 741 46 Knivsta
 location: "[[Knivsta]]"
 lastname: Bergvik
-birthday: 23/10
+birthday: 1990-10-23
 ---
 
 tags: [[MOCs/People|People]]
