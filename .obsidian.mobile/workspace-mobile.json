@@ -25,8 +25,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Recipes/Vitkålsallad.md",
-                "mode": "source",
+                "file": "MOCs/Movies.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -98,7 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Recipes/Vitkålsallad.md",
+            "file": "MOCs/Movies.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Recipes/Vitkålsallad.md",
+            "file": "MOCs/Movies.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -127,7 +127,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Recipes/Vitkålsallad.md"
+            "file": "MOCs/Movies.md"
           }
         }
       }
@@ -151,9 +151,12 @@
   },
   "active": "a0da7a453da0dbb0",
   "lastOpenFiles": [
+    "Journal/2024-04-29.md",
+    "MOCs/Journal.md",
+    "Recipes/Vitkålsallad.md",
+    "People/Sofie.md",
     "ReadItLater Inbox/The Art of Code Review.md",
     "Recipes/Korvstroganoff.md",
-    "Recipes/Vitkålsallad.md",
     "Recipes/Vodkapasta.md",
     "Journal/2024-04-26.md",
     "Journal/2024-04-28.md",
@@ -169,7 +172,6 @@
     "Journal/2024-04-24.md",
     "Journal/2024-04-22.md",
     "ReadItLater Inbox/require(esm) in Node.js.md",
-    "MOCs/Journal.md",
     "Journal/2024-04-17.md",
     "ReadItLater Inbox/Why your performance work is not seen.md",
     "Todo.md",
@@ -177,8 +179,6 @@
     "Untitled",
     "People/Jasmine.md",
     "People/Josephine.md",
-    "Journal/2024-04-07.md",
-    "Templates/Place.md",
     "Places",
     "Matlagning",
     "Movies",
