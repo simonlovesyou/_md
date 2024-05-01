@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/2024-04-30.md",
+                "file": "Presentations/eslint-plugin-2/presentation.md",
                 "mode": "source",
                 "source": true
               }
@@ -48,6 +48,20 @@
           }
         ],
         "currentTab": 1
+      },
+      {
+        "id": "30fead9de064a657",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f7e945194f335cdd",
+            "type": "leaf",
+            "state": {
+              "type": "reveal-preview-view",
+              "state": {}
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -113,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/2024-04-30.md",
+                "file": "Presentations/eslint-plugin-2/presentation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/2024-04-30.md",
+                "file": "Presentations/eslint-plugin-2/presentation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/2024-04-30.md"
+                "file": "Presentations/eslint-plugin-2/presentation.md"
               }
             }
           },
@@ -192,8 +206,14 @@
   },
   "active": "53ab90221f433db5",
   "lastOpenFiles": [
-    "MOCs/People.md",
+    "Presentations/eslint-plugin/presentation.md",
+    "Presentations/eslint-plugin/Screenshot 2024-03-29 at 22.18.22.png",
+    "Presentations/eslint-plugin-2/Screenshot 2024-04-30 at 17.23.37.png",
+    "Presentations/eslint-plugin-2/presentation.md",
+    "Presentations/eslint-plugin-2",
+    "Presentations/eslint-plugin/Notes.md",
     "Journal/2024-04-30.md",
+    "MOCs/People.md",
     "MOCs/Journal.md",
     "People/David.md",
     "People/Sofie.md",
@@ -215,20 +235,14 @@
     "Media DB/series",
     "Journal/2024-04-24.md",
     "People/Lena.md",
-    "People/Lars.md",
-    "Journal/2024-03-26.md",
-    "Recipes/Matveteotto med soltorkade tomater, kikärtor och fetaost.md",
-    "Recipes/Potatismos.md",
     "Timestamps/2024/04-April",
     "Timestamps/2024",
     "Timestamps",
     "Places",
-    "Presentations/eslint-plugin/Screenshot 2024-03-29 at 22.18.22.png",
     "Matlagning",
     "Movies",
     "Projects",
     "Media DB/books",
-    "Books",
     "Pasted image 20240323215939.png",
     "Recipes/Pasted image 20240323223215.png"
   ]
