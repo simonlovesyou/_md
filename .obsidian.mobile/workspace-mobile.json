@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MOCs/Movies.md",
+                "file": "People/David.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "MOCs/Movies.md",
+            "file": "People/David.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "MOCs/Movies.md",
+            "file": "People/David.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -127,7 +127,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "MOCs/Movies.md"
+            "file": "People/David.md"
           }
         }
       }
@@ -151,6 +151,10 @@
   },
   "active": "a0da7a453da0dbb0",
   "lastOpenFiles": [
+    "Presentations/eslint-plugin-2/Screenshot 2024-04-30 at 17.23.37.png",
+    "Presentations/eslint-plugin-2",
+    "Presentations/eslint-plugin-2/presentation.md",
+    "MOCs/Movies.md",
     "Journal/2024-04-29.md",
     "MOCs/Journal.md",
     "Recipes/Vitkålsallad.md",
@@ -175,10 +179,7 @@
     "Journal/2024-04-17.md",
     "ReadItLater Inbox/Why your performance work is not seen.md",
     "Todo.md",
-    "People/Oscar.md",
     "Untitled",
-    "People/Jasmine.md",
-    "People/Josephine.md",
     "Places",
     "Matlagning",
     "Movies",
