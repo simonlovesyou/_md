@@ -25,7 +25,7 @@
             "state": {
               "type": "recipe-view",
               "state": {
-                "file": "Recipes/Pasta med Svamp och Vitt Vin.md"
+                "file": "Recipes/Vegetarisk Yakkiniku.md"
               }
             }
           }
@@ -96,7 +96,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Recipes/Pasta med Svamp och Vitt Vin.md",
+            "file": "Recipes/Vegetarisk Yakkiniku.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Recipes/Pasta med Svamp och Vitt Vin.md",
+            "file": "Recipes/Vegetarisk Yakkiniku.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -125,7 +125,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Recipes/Pasta med Svamp och Vitt Vin.md"
+            "file": "Recipes/Vegetarisk Yakkiniku.md"
           }
         }
       }
@@ -149,6 +149,7 @@
   },
   "active": "a0da7a453da0dbb0",
   "lastOpenFiles": [
+    "Recipes/Pasta med Svamp och Vitt Vin.md",
     "MOCs/Recipes.md",
     "People/Viktor.md",
     "Recipes/Japansk Kålsallad.md",
@@ -156,7 +157,6 @@
     "Journal/2024-05-01.md",
     "Journal/2024-05-02.md",
     "Recipes/Potatisfritters.md",
-    "Recipes/Pasta med Svamp och Vitt Vin.md",
     "People/David.md",
     "Presentations/eslint-plugin-2/Screenshot 2024-04-30 at 17.23.37.png",
     "Presentations/eslint-plugin-2",
