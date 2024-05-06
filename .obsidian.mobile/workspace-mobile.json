@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "People/David.md",
+                "file": "People/Viktor.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "People/David.md",
+            "file": "People/Viktor.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "People/David.md",
+            "file": "People/Viktor.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -127,7 +127,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "People/David.md"
+            "file": "People/Viktor.md"
           }
         }
       }
@@ -151,6 +151,7 @@
   },
   "active": "a0da7a453da0dbb0",
   "lastOpenFiles": [
+    "People/David.md",
     "Presentations/eslint-plugin-2/Screenshot 2024-04-30 at 17.23.37.png",
     "Presentations/eslint-plugin-2",
     "Presentations/eslint-plugin-2/presentation.md",
