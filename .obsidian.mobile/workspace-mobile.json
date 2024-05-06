@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "People/Viktor.md",
+                "file": "Recipes/Pasta med Svamp och Vitt Vin.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "People/Viktor.md",
+            "file": "Recipes/Pasta med Svamp och Vitt Vin.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "People/Viktor.md",
+            "file": "Recipes/Pasta med Svamp och Vitt Vin.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -127,7 +127,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "People/Viktor.md"
+            "file": "Recipes/Pasta med Svamp och Vitt Vin.md"
           }
         }
       }
@@ -151,6 +151,14 @@
   },
   "active": "a0da7a453da0dbb0",
   "lastOpenFiles": [
+    "MOCs/Recipes.md",
+    "People/Viktor.md",
+    "Recipes/Japansk Kålsallad.md",
+    "Recipes/Vegetarisk Yakkiniku.md",
+    "Journal/2024-05-01.md",
+    "Journal/2024-05-02.md",
+    "Recipes/Potatisfritters.md",
+    "Recipes/Pasta med Svamp och Vitt Vin.md",
     "People/David.md",
     "Presentations/eslint-plugin-2/Screenshot 2024-04-30 at 17.23.37.png",
     "Presentations/eslint-plugin-2",
@@ -172,14 +180,6 @@
     "Media DB/series",
     "Journal/2024-04-25.md",
     "Recipes/Ratatouille.md",
-    "MOCs/Recipes.md",
-    "Movies/Sicario.md",
-    "Journal/2024-04-24.md",
-    "Journal/2024-04-22.md",
-    "ReadItLater Inbox/require(esm) in Node.js.md",
-    "Journal/2024-04-17.md",
-    "ReadItLater Inbox/Why your performance work is not seen.md",
-    "Todo.md",
     "Untitled",
     "Places",
     "Matlagning",
