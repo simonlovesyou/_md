@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Presentations/eslint-plugin-2/presentation.md",
+                "file": "Recipes/Potatisfritters.md",
                 "mode": "source",
                 "source": true
               }
@@ -48,20 +48,6 @@
           }
         ],
         "currentTab": 1
-      },
-      {
-        "id": "30fead9de064a657",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "f7e945194f335cdd",
-            "type": "leaf",
-            "state": {
-              "type": "reveal-preview-view",
-              "state": {}
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -127,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Presentations/eslint-plugin-2/presentation.md",
+                "file": "Recipes/Potatisfritters.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Presentations/eslint-plugin-2/presentation.md",
+                "file": "Recipes/Potatisfritters.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Presentations/eslint-plugin-2/presentation.md"
+                "file": "Recipes/Potatisfritters.md"
               }
             }
           },
@@ -206,13 +192,22 @@
   },
   "active": "53ab90221f433db5",
   "lastOpenFiles": [
+    "MOCs/Recipes.md",
+    "Recipes/Potatisfritters.md",
+    "Recipes/Vegetarisk Yakkiniku.md",
+    "Recipes/Japansk Kålsallad.md",
+    "Recipes/Pasta med Svamp och Vitt Vin.md",
+    "MOCs/Movies.md",
+    "Presentations/eslint-plugin-2/presentation.md",
+    "Journal/2024-05-02.md",
+    "Journal/2024-05-01.md",
+    "Journal/2024-05-03.md",
+    "Journal/2024-04-30.md",
     "Presentations/eslint-plugin/presentation.md",
     "Presentations/eslint-plugin/Screenshot 2024-03-29 at 22.18.22.png",
     "Presentations/eslint-plugin-2/Screenshot 2024-04-30 at 17.23.37.png",
-    "Presentations/eslint-plugin-2/presentation.md",
     "Presentations/eslint-plugin-2",
     "Presentations/eslint-plugin/Notes.md",
-    "Journal/2024-04-30.md",
     "MOCs/People.md",
     "MOCs/Journal.md",
     "People/David.md",
@@ -225,16 +220,8 @@
     "Journal/2024-04-21.md",
     "Journal/2024-04-26.md",
     "Recipes/Gin & Tonic.md",
-    "MOCs/Recipes.md",
     "Sourmix.md",
-    "Templates/Daily.md",
-    "Journal/2024-04-25.md",
-    "Media DB/series/Din Personlighet.md",
-    "Recipes/Ratatouille.md",
-    "Media DB/movies/The Martian (2015).md",
     "Media DB/series",
-    "Journal/2024-04-24.md",
-    "People/Lena.md",
     "Timestamps/2024/04-April",
     "Timestamps/2024",
     "Timestamps",
