@@ -1419,7 +1419,7 @@ function instance($$self, $$props, $$invalidate) {
     if (typeof value === "string" || value instanceof String) {
       const markdownContainer = createSpan();
       import_obsidian.MarkdownRenderer.render(app, value.toString(), markdownContainer, file.path, view);
-      return ((_a = markdownContainer.children.item(0)) === null || _a === void 0 ? void 0 : _a.innerHTML) || "-";
+      return ((_a = markdownContainer.children.item(0)) == null ? void 0 : _a.innerHTML) || "-";
     }
     return void 0;
   }
@@ -2605,11 +2605,11 @@ function instance4($$self, $$props, $$invalidate) {
   let { bullets } = $$props;
   function isChecked(index) {
     var _a;
-    return ((_a = list.children.item(index)) === null || _a === void 0 ? void 0 : _a.getAttr("data-checked")) == "true" || false;
+    return ((_a = list.children.item(index)) == null ? void 0 : _a.getAttr("data-checked")) == "true" || false;
   }
   function changeChecked(index, e) {
     var _a;
-    (_a = list.children.item(index)) === null || _a === void 0 ? void 0 : _a.setAttr("data-checked", e.target.checked ? "true" : "false");
+    (_a = list.children.item(index)) == null ? void 0 : _a.setAttr("data-checked", e.target.checked ? "true" : "false");
   }
   function itemAt(index) {
     return list.children.item(index);
@@ -3094,19 +3094,15 @@ var UNIT = new RegExp(/tb?sp?s?\.?|tablespoons?|teaspoons?|k?g|(kilo)?grams?|cup
 var NUMBER_WITH_UNIT = new RegExp("(?<number>" + NUMBER.source + ")\\s*(?<unit>" + UNIT.source + ")\\b", "ig");
 var START_NUMBER_ALONE = new RegExp("(?<startnumber>^" + NUMBER.source + ")\\b", "ig");
 var QUANTITY = new RegExp(NUMBER_WITH_UNIT.source + "|" + START_NUMBER_ALONE.source, "ig");
-function deUnicodeFractions(str) {
-  str = str.normalize("NFKD");
-  return str.replace(/(\d+)(.+\u2044.+)\b/ig, "$1 $2").replace("\u2044", "/").replace("\u2070", "0").replace("\xB9", "1").replace("\xB2", "2").replace("\xB3", "3").replace("\u2074", "4").replace("\u2075", "5").replace("\u2076", "6").replace("\u2077", "7").replace("\u2078", "8").replace("\u2079", "9").replace("\u2080", "0").replace("\u2081", "1").replace("\u2082", "2").replace("\u2083", "3").replace("\u2084", "4").replace("\u2085", "5").replace("\u2086", "6").replace("\u2087", "7").replace("\u2088", "8").replace("\u2089", "9");
-}
 function reUnicodeFractions(str) {
   return str.replace(/\b(?<n>\d+)\/(?<d>\d+)\b/ig, (m, $1, $2) => {
-    return $1.replace("0", "\u2070").replace("1", "\xB9").replace("2", "\xB2").replace("3", "\xB3").replace("4", "\u2074").replace("5", "\u2075").replace("6", "\u2076").replace("7", "\u2077").replace("8", "\u2078").replace("9", "\u2079") + "\u2044" + $2.replace("0", "\u2080").replace("1", "\u2081").replace("2", "\u2082").replace("3", "\u2083").replace("4", "\u2084").replace("5", "\u2085").replace("6", "\u2086").replace("7", "\u2087").replace("8", "\u2088").replace("9", "\u2089");
+    return $1.replaceAll("0", "\u2070").replaceAll("1", "\xB9").replaceAll("2", "\xB2").replaceAll("3", "\xB3").replaceAll("4", "\u2074").replaceAll("5", "\u2075").replaceAll("6", "\u2076").replaceAll("7", "\u2077").replaceAll("8", "\u2078").replaceAll("9", "\u2079") + "\u2044" + $2.replaceAll("0", "\u2080").replaceAll("1", "\u2081").replaceAll("2", "\u2082").replaceAll("3", "\u2083").replaceAll("4", "\u2084").replaceAll("5", "\u2085").replaceAll("6", "\u2086").replaceAll("7", "\u2087").replaceAll("8", "\u2088").replaceAll("9", "\u2089");
   });
 }
-function numberStringToQuantityNumber(str, unit) {
+function quantityStringsToValue(str, unit) {
   return {
     value: new Fraction(str.replace(/[-\s]+/g, " ")),
-    format: str.contains("/") || (unit == null ? void 0 : unit.match(/tablespoons?|teaspoons?|tb?sp?s?\.?|cups?|sticks?/i)) || !unit ? 0 /* FRACTION */ : 1 /* DECIMAL */
+    format: str.includes("/") || (unit == null ? void 0 : unit.match(/tablespoons?|teaspoons?|tb?sp?s?\.?|cups?|sticks?/i)) || !unit && !str.includes(".") ? 0 /* FRACTION */ : 1 /* DECIMAL */
   };
 }
 function matchQuantities(str) {
@@ -3114,8 +3110,8 @@ function matchQuantities(str) {
     return {
       index: match.index,
       length: match[0].length,
-      value: numberStringToQuantityNumber(match.groups.number || match.groups.startnumber, match.groups.unit),
-      unit: match.groups.unit
+      value: quantityStringsToValue(match.groups.number || match.groups.startnumber, match.groups.unit),
+      unit: match.groups.unit || null
     };
   });
 }
@@ -3307,7 +3303,7 @@ function parseForQty(n, qtyScaleStore) {
   if (n.nodeType == Node.TEXT_NODE) {
     const parent = n.parentNode;
     let currentIndex = 0;
-    n.textContent = deUnicodeFractions(n.textContent);
+    n.textContent = n.textContent.normalize("NFKD").replaceAll("\u2044", "/");
     for (const match of matchQuantities(n.textContent)) {
       parent.insertBefore(
         document.createTextNode(
@@ -6061,7 +6057,7 @@ function instance10($$self, $$props, $$invalidate) {
     if ($$self.$$.dirty & /*parsedRecipe, qtyScale*/
     17) {
       $:
-        parsedRecipe === null || parsedRecipe === void 0 ? void 0 : parsedRecipe.qtyScaleStore.set(qtyScale);
+        parsedRecipe == null ? void 0 : parsedRecipe.qtyScaleStore.set(qtyScale);
     }
     if ($$self.$$.dirty & /*containerWidth, plugin*/
     40) {
@@ -6071,17 +6067,17 @@ function instance10($$self, $$props, $$invalidate) {
     if ($$self.$$.dirty & /*parsedRecipe*/
     1) {
       $:
-        $$invalidate(12, twoColumnSideComponents = (parsedRecipe === null || parsedRecipe === void 0 ? void 0 : parsedRecipe.sections.flatMap(({ sideComponents }) => sideComponents)) || []);
+        $$invalidate(12, twoColumnSideComponents = (parsedRecipe == null ? void 0 : parsedRecipe.sections.flatMap(({ sideComponents }) => sideComponents)) || []);
     }
     if ($$self.$$.dirty & /*parsedRecipe*/
     1) {
       $:
-        $$invalidate(11, twoColumnMainComponents = (parsedRecipe === null || parsedRecipe === void 0 ? void 0 : parsedRecipe.sections.map(({ mainComponents }) => mainComponents)) || []);
+        $$invalidate(11, twoColumnMainComponents = (parsedRecipe == null ? void 0 : parsedRecipe.sections.map(({ mainComponents }) => mainComponents)) || []);
     }
     if ($$self.$$.dirty & /*parsedRecipe*/
     1) {
       $:
-        $$invalidate(10, singleColumnSections = parsedRecipe === null || parsedRecipe === void 0 ? void 0 : parsedRecipe.sections.map((s) => s.sideComponents.concat(s.mainComponents).sort((a, b) => a.origIndex - b.origIndex)));
+        $$invalidate(10, singleColumnSections = parsedRecipe == null ? void 0 : parsedRecipe.sections.map((s) => s.sideComponents.concat(s.mainComponents).sort((a, b) => a.origIndex - b.origIndex)));
     }
     if ($$self.$$.dirty & /*parsedRecipe, file*/
     3) {
@@ -6091,7 +6087,7 @@ function instance10($$self, $$props, $$invalidate) {
     if ($$self.$$.dirty & /*metadata*/
     32768) {
       $:
-        $$invalidate(8, frontmatter = (metadata === null || metadata === void 0 ? void 0 : metadata.frontmatter) || {});
+        $$invalidate(8, frontmatter = (metadata == null ? void 0 : metadata.frontmatter) || {});
     }
   };
   return [
@@ -6147,6 +6143,8 @@ var VIEW_TYPE_RECIPE = "recipe-view";
 var RecipeView = class extends import_obsidian4.EditableFileView {
   constructor(leaf, plugin2) {
     super(leaf);
+    __publicField(this, "plugin");
+    __publicField(this, "content");
     this.plugin = plugin2;
   }
   getViewType() {
@@ -6225,7 +6223,7 @@ var DEFAULT_SETTINGS = {
 var RecipeViewPlugin = class extends import_obsidian5.Plugin {
   constructor() {
     super(...arguments);
-    this.settings = DEFAULT_SETTINGS;
+    __publicField(this, "settings", DEFAULT_SETTINGS);
   }
   async onload() {
     await this.loadSettings();
@@ -6288,6 +6286,7 @@ var RecipeViewPlugin = class extends import_obsidian5.Plugin {
 var RecipeViewSettingsTab = class extends import_obsidian5.PluginSettingTab {
   constructor(app, plugin2) {
     super(app, plugin2);
+    __publicField(this, "plugin");
     this.plugin = plugin2;
   }
   display() {

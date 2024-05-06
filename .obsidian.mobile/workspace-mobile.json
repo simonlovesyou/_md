@@ -23,11 +23,9 @@
             "id": "a0da7a453da0dbb0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "recipe-view",
               "state": {
-                "file": "Recipes/Pasta med Svamp och Vitt Vin.md",
-                "mode": "source",
-                "source": false
+                "file": "Recipes/Pasta med Svamp och Vitt Vin.md"
               }
             }
           }
@@ -143,10 +141,10 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "templater-obsidian:Templater": false,
-      "recipe-view:Toggle recipe view": false,
       "obsidian-read-it-later:ReadItLater: Save clipboard": false,
       "obsidian-media-db-plugin:Add new Media DB entry": false,
-      "custom-sort:Toggle custom sorting": false
+      "custom-sort:Toggle custom sorting": false,
+      "recipe-view:Toggle recipe view": false
     }
   },
   "active": "a0da7a453da0dbb0",
