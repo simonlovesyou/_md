@@ -25,14 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MOCs/People.md",
+                "file": "Sourmix.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a21d5bfd96379224",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Min personlighet.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "MOCs/People.md",
+            "file": "Min personlighet.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "MOCs/People.md",
+            "file": "Min personlighet.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -127,7 +139,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "MOCs/People.md"
+            "file": "Min personlighet.md"
           }
         }
       }
@@ -149,9 +161,12 @@
       "recipe-view:Toggle recipe view": false
     }
   },
-  "active": "a0da7a453da0dbb0",
+  "active": "a21d5bfd96379224",
   "lastOpenFiles": [
+    "Min personlighet.md",
+    "Sourmix.md",
     "MOCs/Books.md",
+    "MOCs/People.md",
     "Recipes/Pasta med Svamp och Vitt Vin.md",
     "Recipes/Potatisfritters.md",
     "Recipes/Japansk Kålsallad.md",
@@ -176,10 +191,7 @@
     "Journal/2024-04-28.md",
     "Recipes/Gin & Tonic.md",
     "Recipes/Focaccia med ramslök.md",
-    "Sourmix.md",
-    "Media DB/series/Din Personlighet.md",
     "Media DB/series",
-    "Journal/2024-04-25.md",
     "Untitled",
     "Places",
     "Matlagning",
