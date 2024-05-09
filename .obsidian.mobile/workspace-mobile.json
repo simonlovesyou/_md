@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Min personlighet.md",
+                "file": "Recipes/Japansk Kålsallad.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Min personlighet.md",
+            "file": "Recipes/Japansk Kålsallad.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Min personlighet.md",
+            "file": "Recipes/Japansk Kålsallad.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -139,7 +139,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Min personlighet.md"
+            "file": "Recipes/Japansk Kålsallad.md"
           }
         }
       }
@@ -163,6 +163,7 @@
   },
   "active": "a21d5bfd96379224",
   "lastOpenFiles": [
+    "MOCs/Recipes.md",
     "Min personlighet.md",
     "Sourmix.md",
     "MOCs/Books.md",
@@ -171,7 +172,6 @@
     "Recipes/Potatisfritters.md",
     "Recipes/Japansk Kålsallad.md",
     "Recipes/Vegetarisk Yakkiniku.md",
-    "MOCs/Recipes.md",
     "People/Viktor.md",
     "Journal/2024-05-01.md",
     "Journal/2024-05-02.md",
