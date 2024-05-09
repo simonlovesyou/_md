@@ -23,9 +23,11 @@
             "id": "a0da7a453da0dbb0",
             "type": "leaf",
             "state": {
-              "type": "recipe-view",
+              "type": "markdown",
               "state": {
-                "file": "Recipes/Pasta med Svamp och Vitt Vin.md"
+                "file": "MOCs/People.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -96,7 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Recipes/Pasta med Svamp och Vitt Vin.md",
+            "file": "MOCs/People.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -113,7 +115,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Recipes/Pasta med Svamp och Vitt Vin.md",
+            "file": "MOCs/People.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -125,7 +127,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Recipes/Pasta med Svamp och Vitt Vin.md"
+            "file": "MOCs/People.md"
           }
         }
       }
@@ -149,10 +151,11 @@
   },
   "active": "a0da7a453da0dbb0",
   "lastOpenFiles": [
+    "MOCs/Books.md",
+    "Recipes/Pasta med Svamp och Vitt Vin.md",
     "Recipes/Potatisfritters.md",
     "Recipes/Japansk Kålsallad.md",
     "Recipes/Vegetarisk Yakkiniku.md",
-    "Recipes/Pasta med Svamp och Vitt Vin.md",
     "MOCs/Recipes.md",
     "People/Viktor.md",
     "Journal/2024-05-01.md",
@@ -177,7 +180,6 @@
     "Media DB/series/Din Personlighet.md",
     "Media DB/series",
     "Journal/2024-04-25.md",
-    "Recipes/Ratatouille.md",
     "Untitled",
     "Places",
     "Matlagning",
