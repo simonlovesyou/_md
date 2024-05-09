@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Recipes/Japansk Kålsallad.md",
+                "file": "MOCs/Recipes.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Recipes/Japansk Kålsallad.md",
+            "file": "MOCs/Recipes.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Recipes/Japansk Kålsallad.md",
+            "file": "MOCs/Recipes.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -139,7 +139,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Recipes/Japansk Kålsallad.md"
+            "file": "MOCs/Recipes.md"
           }
         }
       }
@@ -163,6 +163,7 @@
   },
   "active": "a21d5bfd96379224",
   "lastOpenFiles": [
+    "Recipes/Japansk Kålsallad.md",
     "MOCs/Recipes.md",
     "Min personlighet.md",
     "Sourmix.md",
@@ -170,7 +171,6 @@
     "MOCs/People.md",
     "Recipes/Pasta med Svamp och Vitt Vin.md",
     "Recipes/Potatisfritters.md",
-    "Recipes/Japansk Kålsallad.md",
     "Recipes/Vegetarisk Yakkiniku.md",
     "People/Viktor.md",
     "Journal/2024-05-01.md",
