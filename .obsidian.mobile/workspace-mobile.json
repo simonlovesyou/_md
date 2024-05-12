@@ -35,9 +35,11 @@
             "id": "a21d5bfd96379224",
             "type": "leaf",
             "state": {
-              "type": "recipe-view",
+              "type": "markdown",
               "state": {
-                "file": "Recipes/Potatisfritters.md"
+                "file": "Recipes/Vitkålsallad.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -108,7 +110,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Recipes/Potatisfritters.md",
+            "file": "Recipes/Vitkålsallad.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -125,7 +127,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Recipes/Potatisfritters.md",
+            "file": "Recipes/Vitkålsallad.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -137,7 +139,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Recipes/Potatisfritters.md"
+            "file": "Recipes/Vitkålsallad.md"
           }
         }
       }
@@ -161,6 +163,7 @@
   },
   "active": "a21d5bfd96379224",
   "lastOpenFiles": [
+    "Recipes/Potatisfritters.md",
     "MOCs/Recipes.md",
     "Recipes/Vegetarisk Yakkiniku.md",
     "Journal/2024-05-08.md",
@@ -185,7 +188,6 @@
     "MOCs/Books.md",
     "MOCs/People.md",
     "Recipes/Pasta med Svamp och Vitt Vin.md",
-    "Recipes/Potatisfritters.md",
     "People/Viktor.md",
     "Presentations/eslint-plugin-2/Screenshot 2024-04-30 at 17.23.37.png",
     "Presentations/eslint-plugin-2",
