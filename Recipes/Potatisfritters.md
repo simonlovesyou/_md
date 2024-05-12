@@ -14,7 +14,7 @@ modified: 2024-05-06T22:39:26+02:00
 
 Dessa krispiga potatisfritters är ett utmärkt sätt att använda överbliven kokt potatis. Blandningen av potatis, ägg, ost, och purjolök skapar en utsökt smak, vilket gör dem till en perfekt sidorätt eller tilltugg.
 
-## Ingredienser
+## Ingredients
 
 - 400 g kokt kall potatis (gärna mjölig)
 - 2 ägg
@@ -30,7 +30,7 @@ Dessa krispiga potatisfritters är ett utmärkt sätt att använda överbliven k
 - Stekt korv
 - Gräddfil
 
-## Instruktioner
+## Directions
 
 1. Riv potatisen grovt.
 2. Blanda potatisrivet med ägg, ost, purjolök och persilja. Krydda med salt och peppar.
