@@ -152,10 +152,10 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "templater-obsidian:Templater": false,
       "obsidian-read-it-later:ReadItLater: Save clipboard": false,
       "obsidian-media-db-plugin:Add new Media DB entry": false,
       "custom-sort:Toggle custom sorting": false,
+      "templater-obsidian:Templater": false,
       "recipe-view:Toggle recipe view": false
     }
   },
