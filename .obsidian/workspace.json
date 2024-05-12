@@ -35,6 +35,43 @@
             }
           },
           {
+            "id": "7257c7c79653a6b9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Journal/2024-05-06.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "d238c9ffde822e44",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Journal/2024-05-08.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "70e6b3f1c1a06bae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Journal/2024-05-12.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
             "id": "b756ffc4d4ee8c87",
             "type": "leaf",
             "state": {
@@ -47,7 +84,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -113,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Recipes/Potatisfritters.md",
+                "file": "Journal/2024-05-12.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Recipes/Potatisfritters.md",
+                "file": "Journal/2024-05-12.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Recipes/Potatisfritters.md"
+                "file": "Journal/2024-05-12.md"
               }
             }
           },
@@ -190,37 +227,37 @@
       "obsidian-map-view:Open map view": false
     }
   },
-  "active": "53ab90221f433db5",
+  "active": "70e6b3f1c1a06bae",
   "lastOpenFiles": [
-    "MOCs/Recipes.md",
-    "Recipes/Potatisfritters.md",
+    "Journal/2024-05-11.md",
+    "Journal/2024-05-12.md",
+    "MOCs/Journal.md",
+    "Templates/Daily.md",
+    "Journal/2024-05-10.md",
+    "Journal/2024-05-09.md",
+    "Journal/2024-05-08.md",
     "Recipes/Vegetarisk Yakkiniku.md",
-    "Recipes/Japansk Kålsallad.md",
-    "Recipes/Pasta med Svamp och Vitt Vin.md",
+    "Journal/2024-05-07.md",
+    "MOCs/Books.md",
+    "MOCs/Recipes.md",
+    "MOCs/Places.md",
+    "Movies/Den Sista Resan.md",
+    "Places/Stockholm.md",
+    "Places/Illum.md",
+    "Places/Capitol.md",
+    "Places/Piteå.md",
+    "Places/Köpenhamn.md",
+    "Movies/Balancing Act.md",
+    "Media DB/movies/Balancing Act (2012).md",
     "MOCs/Movies.md",
-    "Presentations/eslint-plugin-2/presentation.md",
-    "Journal/2024-05-02.md",
-    "Journal/2024-05-01.md",
+    "Places/TKTK.md",
+    "MOCs/People.md",
     "Journal/2024-05-03.md",
-    "Journal/2024-04-30.md",
-    "Presentations/eslint-plugin/presentation.md",
+    "Journal/2024-05-04.md",
+    "Journal/2024-05-05.md",
     "Presentations/eslint-plugin/Screenshot 2024-03-29 at 22.18.22.png",
     "Presentations/eslint-plugin-2/Screenshot 2024-04-30 at 17.23.37.png",
     "Presentations/eslint-plugin-2",
-    "Presentations/eslint-plugin/Notes.md",
-    "MOCs/People.md",
-    "MOCs/Journal.md",
-    "People/David.md",
-    "People/Sofie.md",
-    "ReadItLater Inbox/The Art of Code Review.md",
-    "Journal/2024-04-29.md",
-    "Journal/2024-04-28.md",
-    "Todo.md",
-    "Journal/2024-03-29.md",
-    "Journal/2024-04-21.md",
-    "Journal/2024-04-26.md",
-    "Recipes/Gin & Tonic.md",
-    "Sourmix.md",
     "Media DB/series",
     "Timestamps/2024/04-April",
     "Timestamps/2024",

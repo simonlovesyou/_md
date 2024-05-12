@@ -2,7 +2,8 @@
 coordinates: 55.67952405,12.580250472419378
 tags:
   - places
-modified: 2024-04-21T19:02:46+02:00
+  - mall
+modified: 2024-05-06T23:39:50+02:00
 ---
 [[Places]] 
 

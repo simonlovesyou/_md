@@ -13,7 +13,8 @@ tags: [[MOCs/People|People]]
 
 ## Notes
 
+- Deras son heter [[Wilmer]] 
 - Går på föräldraledighet 28:e Mars 2024 och kommer tillbaka i Januari 2025
-  - Överlappar med Matilda med en månad
-    - Ska fiska lax med farfar
-    - Ska eventuellt till tällfjäll (?)
+	- Överlappar med Matilda med en månad
+	    - Ska fiska lax med farfar
+	    - Ska eventuellt till tällfjäll (?)
