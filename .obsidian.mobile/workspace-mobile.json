@@ -37,7 +37,7 @@
             "state": {
               "type": "recipe-view",
               "state": {
-                "file": "Recipes/Vegetarisk Yakkiniku.md"
+                "file": "Recipes/Potatisfritters.md"
               }
             }
           }
@@ -108,7 +108,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Recipes/Vegetarisk Yakkiniku.md",
+            "file": "Recipes/Potatisfritters.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Recipes/Vegetarisk Yakkiniku.md",
+            "file": "Recipes/Potatisfritters.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -137,7 +137,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Recipes/Vegetarisk Yakkiniku.md"
+            "file": "Recipes/Potatisfritters.md"
           }
         }
       }
@@ -162,6 +162,23 @@
   "active": "a21d5bfd96379224",
   "lastOpenFiles": [
     "MOCs/Recipes.md",
+    "Recipes/Vegetarisk Yakkiniku.md",
+    "Journal/2024-05-08.md",
+    "Places/Capitol.md",
+    "Journal/2024-05-09.md",
+    "Journal/2024-05-03.md",
+    "Journal/2024-05-04.md",
+    "Journal/2024-05-05.md",
+    "Journal/2024-05-06.md",
+    "Journal/2024-05-10.md",
+    "Movies/Den Sista Resan.md",
+    "Media DB/movies/Den Sista Resan (2024).md",
+    "Media DB/movies/Balancing Act (2012).md",
+    "Journal/2024-05-11.md",
+    "Inefficient expert.md",
+    "Journal/2024-05-07.md",
+    "Movies/Balancing Act.md",
+    "Journal/2024-05-12.md",
     "Recipes/Japansk Kålsallad.md",
     "Min personlighet.md",
     "Sourmix.md",
@@ -169,26 +186,9 @@
     "MOCs/People.md",
     "Recipes/Pasta med Svamp och Vitt Vin.md",
     "Recipes/Potatisfritters.md",
-    "Recipes/Vegetarisk Yakkiniku.md",
     "People/Viktor.md",
-    "Journal/2024-05-01.md",
-    "Journal/2024-05-02.md",
-    "People/David.md",
     "Presentations/eslint-plugin-2/Screenshot 2024-04-30 at 17.23.37.png",
     "Presentations/eslint-plugin-2",
-    "Presentations/eslint-plugin-2/presentation.md",
-    "MOCs/Movies.md",
-    "Journal/2024-04-29.md",
-    "MOCs/Journal.md",
-    "Recipes/Vitkålsallad.md",
-    "People/Sofie.md",
-    "ReadItLater Inbox/The Art of Code Review.md",
-    "Recipes/Korvstroganoff.md",
-    "Recipes/Vodkapasta.md",
-    "Journal/2024-04-26.md",
-    "Journal/2024-04-28.md",
-    "Recipes/Gin & Tonic.md",
-    "Recipes/Focaccia med ramslök.md",
     "Media DB/series",
     "Untitled",
     "Places",
