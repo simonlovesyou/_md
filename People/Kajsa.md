@@ -17,6 +17,7 @@ tags: [[MOCs/People|People]]
 - Vi blev tillsammans 28 Januari 2019
 - Kajsa sa "jag älskar dig" 3:e Juli 2020
 - Kajsa har "gått" friidrott som yngre, sprang 60m.
+- Kajsa vill ha en dior saddle bag 
 
 ### Önskelista inför 31 år gammal
 

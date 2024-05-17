@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Recipes/Vitkålsallad.md",
+                "file": "People/Kajsa.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Recipes/Vitkålsallad.md",
+            "file": "People/Kajsa.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Recipes/Vitkålsallad.md",
+            "file": "People/Kajsa.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -139,7 +139,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Recipes/Vitkålsallad.md"
+            "file": "People/Kajsa.md"
           }
         }
       }
@@ -163,6 +163,8 @@
   },
   "active": "a21d5bfd96379224",
   "lastOpenFiles": [
+    "MOCs/People.md",
+    "Recipes/Vitkålsallad.md",
     "Recipes/Potatisfritters.md",
     "MOCs/Recipes.md",
     "Recipes/Vegetarisk Yakkiniku.md",
@@ -186,9 +188,7 @@
     "Min personlighet.md",
     "Sourmix.md",
     "MOCs/Books.md",
-    "MOCs/People.md",
     "Recipes/Pasta med Svamp och Vitt Vin.md",
-    "People/Viktor.md",
     "Presentations/eslint-plugin-2/Screenshot 2024-04-30 at 17.23.37.png",
     "Presentations/eslint-plugin-2",
     "Media DB/series",
