@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "People/Kajsa.md",
+                "file": "Recipes/Tareq Taylors k*cklinggryta.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "People/Kajsa.md",
+            "file": "Recipes/Tareq Taylors k*cklinggryta.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "People/Kajsa.md",
+            "file": "Recipes/Tareq Taylors k*cklinggryta.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -139,7 +139,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "People/Kajsa.md"
+            "file": "Recipes/Tareq Taylors k*cklinggryta.md"
           }
         }
       }
@@ -163,10 +163,11 @@
   },
   "active": "a21d5bfd96379224",
   "lastOpenFiles": [
+    "MOCs/Recipes.md",
+    "People/Kajsa.md",
     "MOCs/People.md",
     "Recipes/Vitkålsallad.md",
     "Recipes/Potatisfritters.md",
-    "MOCs/Recipes.md",
     "Recipes/Vegetarisk Yakkiniku.md",
     "Journal/2024-05-08.md",
     "Places/Capitol.md",
@@ -188,7 +189,6 @@
     "Min personlighet.md",
     "Sourmix.md",
     "MOCs/Books.md",
-    "Recipes/Pasta med Svamp och Vitt Vin.md",
     "Presentations/eslint-plugin-2/Screenshot 2024-04-30 at 17.23.37.png",
     "Presentations/eslint-plugin-2",
     "Media DB/series",
