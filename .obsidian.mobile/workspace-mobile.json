@@ -35,9 +35,11 @@
             "id": "a21d5bfd96379224",
             "type": "leaf",
             "state": {
-              "type": "recipe-view",
+              "type": "markdown",
               "state": {
-                "file": "Recipes/Tareq Taylors k*cklinggryta.md"
+                "file": "MOCs/Recipes.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -108,7 +110,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Recipes/Tareq Taylors k*cklinggryta.md",
+            "file": "MOCs/Recipes.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -125,7 +127,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Recipes/Tareq Taylors k*cklinggryta.md",
+            "file": "MOCs/Recipes.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -137,7 +139,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Recipes/Tareq Taylors k*cklinggryta.md"
+            "file": "MOCs/Recipes.md"
           }
         }
       }
@@ -161,6 +163,7 @@
   },
   "active": "a21d5bfd96379224",
   "lastOpenFiles": [
+    "Recipes/Tareq Taylors k*cklinggryta.md",
     "MOCs/Recipes.md",
     "People/Kajsa.md",
     "MOCs/People.md",
@@ -186,7 +189,6 @@
     "Recipes/Japansk Kålsallad.md",
     "Min personlighet.md",
     "Sourmix.md",
-    "MOCs/Books.md",
     "Presentations/eslint-plugin-2/Screenshot 2024-04-30 at 17.23.37.png",
     "Presentations/eslint-plugin-2",
     "Media DB/series",
