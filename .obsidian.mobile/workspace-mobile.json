@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MOCs/Recipes.md",
+                "file": "MOCs/Journal.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "MOCs/Recipes.md",
+            "file": "MOCs/Journal.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "MOCs/Recipes.md",
+            "file": "MOCs/Journal.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -139,7 +139,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "MOCs/Recipes.md"
+            "file": "MOCs/Journal.md"
           }
         }
       }
@@ -163,9 +163,12 @@
   },
   "active": "a21d5bfd96379224",
   "lastOpenFiles": [
+    "Journal/2024-05-13.md",
+    "Journal/2024-05-14.md",
+    "Recipes/One pot kokosgryta med zucchini och havreris.md",
+    "MOCs/Recipes.md",
     "Movies/Sicario.md",
     "Recipes/Tareq Taylors k*cklinggryta.md",
-    "MOCs/Recipes.md",
     "People/Kajsa.md",
     "MOCs/People.md",
     "Recipes/Vitkålsallad.md",
@@ -186,9 +189,6 @@
     "Inefficient expert.md",
     "Journal/2024-05-07.md",
     "Movies/Balancing Act.md",
-    "Journal/2024-05-12.md",
-    "Recipes/Japansk Kålsallad.md",
-    "Min personlighet.md",
     "Presentations/eslint-plugin-2/Screenshot 2024-04-30 at 17.23.37.png",
     "Presentations/eslint-plugin-2",
     "Media DB/series",
