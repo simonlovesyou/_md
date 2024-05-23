@@ -36,7 +36,6 @@ if(!/\d{4}-\d{2}-\d{2}/.test(date)) {
 
 ### 🚀  Intentioner för idag
 _Vad vill jag åstadkomma? Vad vill jag känna, åstadkomma eller lära mig?_
-_Se [[Todo]] för inspiration_
 
 ### 🙏 Jag är tacksam för...
 
