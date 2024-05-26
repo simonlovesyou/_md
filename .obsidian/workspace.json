@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/2024-05-23.md",
+                "file": "Journal/2024-05-25.md",
                 "mode": "source",
                 "source": true
               }
@@ -25,8 +25,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mina intentioner.md",
+                "file": "Recipes/Nudelwork med sojafärs.md",
                 "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "95ceb074afd86bdd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Min personlighet.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -55,8 +67,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mina intentioner.md",
+                "file": "Journal/2024-05-25.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mina intentioner.md",
+                "file": "Journal/2024-05-25.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mina intentioner.md"
+                "file": "Journal/2024-05-25.md"
               }
             }
           },
@@ -199,34 +210,34 @@
       "obsidian-map-view:Open map view": false
     }
   },
-  "active": "491232798fe10208",
+  "active": "73354e8352a8d390",
   "lastOpenFiles": [
+    "Journal/2024-05-26.md",
+    "Journal/2024-05-25.md",
+    "Journal/2024-05-24.md",
+    "Journal/2024-05-23.md",
+    "Recipes/Nudelwork med sojafärs.md",
+    "MOCs/Recipes.md",
     "Min personlighet.md",
+    "Inefficient expert.md",
+    "Todo.md",
     "MOCs/Journal.md",
+    "Mina intentioner.md",
+    "ReadItLater Inbox/You might not need TypeScript project references – Turbo.md",
+    "ReadItLater Inbox/Tweet from Tanner Linsley (2024-05-25 01-32-58).md",
+    "ReadItLater Inbox/Tweet from Ryan Carniato (2024-05-25 01-37-13).md",
     "People/Jakob.md",
     "People/Sofie.md",
     "People/Oscar.md",
     "People/Jasmine.md",
     "MOCs/People.md",
-    "Mina intentioner.md",
     "MOCs/Restaurants.md",
-    "Journal/2024-05-23.md",
     "Templates/Daily.md",
     "Journal/2024-05-22.md",
     "Journal/2024-05-14.md",
     "Journal/2024-05-12.md",
     "Journal/2024-05-08.md",
     "Journal/2024-05-06.md",
-    "Recipes/Potatisfritters.md",
-    "Places/Stockholm.md",
-    "Journal/2024-05-21.md",
-    "Journal/2024-05-20.md",
-    "Restaurants/Cucina Povera.md",
-    "Restaurants/L'avventura.md",
-    "Restaurants/La Posata.md",
-    "Restaurants/Symbios.md",
-    "Journal/2024-05-19.md",
-    "Journal/2024-05-18.md",
     "Presentations/eslint-plugin/Screenshot 2024-03-29 at 22.18.22.png",
     "Presentations/eslint-plugin-2/Screenshot 2024-04-30 at 17.23.37.png",
     "Presentations/eslint-plugin-2",
