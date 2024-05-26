@@ -35,11 +35,9 @@
             "id": "a21d5bfd96379224",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "recipe-view",
               "state": {
-                "file": "MOCs/Journal.md",
-                "mode": "source",
-                "source": false
+                "file": "Recipes/Nudelwork med sojafärs.md"
               }
             }
           }
@@ -110,7 +108,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "MOCs/Journal.md",
+            "file": "Recipes/Nudelwork med sojafärs.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -127,7 +125,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "MOCs/Journal.md",
+            "file": "Recipes/Nudelwork med sojafärs.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -139,7 +137,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "MOCs/Journal.md"
+            "file": "Recipes/Nudelwork med sojafärs.md"
           }
         }
       }
@@ -163,6 +161,7 @@
   },
   "active": "a21d5bfd96379224",
   "lastOpenFiles": [
+    "MOCs/Journal.md",
     "ReadItLater Inbox/You might not need TypeScript project references – Turbo.md",
     "ReadItLater Inbox/Tweet from Ryan Carniato (2024-05-25 01-37-13).md",
     "ReadItLater Inbox/Tweet from Tanner Linsley (2024-05-25 01-32-58).md",
@@ -188,7 +187,6 @@
     "Recipes/Potatisfritters.md",
     "Recipes/Vegetarisk Yakkiniku.md",
     "Journal/2024-05-08.md",
-    "Places/Capitol.md",
     "Presentations/eslint-plugin-2/Screenshot 2024-04-30 at 17.23.37.png",
     "Presentations/eslint-plugin-2",
     "Media DB/series",
