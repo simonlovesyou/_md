@@ -1,8 +1,8 @@
 ---
 title: Nudelwok med sojafärs, ingefära, chili, lime
 tags:
-	- vegetarisk
-	- nudlar
+- vegetarisk
+- nudlar
 portions: 4
 source: https://undertian.com/recept/nudelwok-med-sojafars-ingefara-chili-lime/
 duration: >40min
@@ -12,7 +12,7 @@ modified: 2024-05-26T12:04:01+02:00
 En smakrik nudelwok med torkad sojafärs, nudlar och säsongsgrönsaker som kål och morötter. Marinaden av sojasås, vitlök, ingefära, chili och lime lyfter rätten.
 
 ### Ingredients
-- 125 g torkad sojafärs
+- 300 g fryst sojafärs
 - 2 dl hett vatten
 - 200 g rödkål
 - 2 morötter
@@ -33,3 +33,6 @@ En smakrik nudelwok med torkad sojafärs, nudlar och säsongsgrönsaker som kål
 5. Hetta upp en stekpanna, fräs sojafärsen med marinaden tills den får yta, ställ åt sidan.
 6. Fräs morötterna och kålen i olja tills de mjuknar, tillsätt sojafärsen och nudlarna. Blanda väl.
 7. Servera eventuellt med sesamfrön, nötter och extra soja.
+
+### Notes
+- Lite torr, glömde dock oljan till marinaden.
