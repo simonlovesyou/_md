@@ -35,9 +35,11 @@
             "id": "a21d5bfd96379224",
             "type": "leaf",
             "state": {
-              "type": "recipe-view",
+              "type": "markdown",
               "state": {
-                "file": "Recipes/Nudelwork med sojafärs.md"
+                "file": "Movies/Untitled.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -108,7 +110,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Recipes/Nudelwork med sojafärs.md",
+            "file": "Movies/Untitled.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -125,7 +127,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Recipes/Nudelwork med sojafärs.md",
+            "file": "Movies/Untitled.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -137,7 +139,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Recipes/Nudelwork med sojafärs.md"
+            "file": "Movies/Untitled.md"
           }
         }
       }
@@ -161,8 +163,10 @@
   },
   "active": "a21d5bfd96379224",
   "lastOpenFiles": [
-    "Recipes/Vegetarisk Yakkiniku.md",
     "Recipes/Nudelwork med sojafärs.md",
+    "Movies/Untitled.md",
+    "Journal/2024-05-27.md",
+    "Recipes/Vegetarisk Yakkiniku.md",
     "Recipes/Vegetarisk Tikka Masala.md",
     "MOCs/Journal.md",
     "ReadItLater Inbox/You might not need TypeScript project references – Turbo.md",
@@ -185,8 +189,6 @@
     "Movies/Sicario.md",
     "Recipes/Tareq Taylors k*cklinggryta.md",
     "People/Kajsa.md",
-    "MOCs/People.md",
-    "Recipes/Vitkålsallad.md",
     "Presentations/eslint-plugin-2/Screenshot 2024-04-30 at 17.23.37.png",
     "Presentations/eslint-plugin-2",
     "Media DB/series",
