@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Movies/Good boy.md",
+                "file": "People/Jasmine.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Movies/Good boy.md",
+            "file": "People/Jasmine.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Movies/Good boy.md",
+            "file": "People/Jasmine.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -139,7 +139,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Movies/Good boy.md"
+            "file": "People/Jasmine.md"
           }
         }
       }
@@ -163,8 +163,9 @@
   },
   "active": "a21d5bfd96379224",
   "lastOpenFiles": [
-    "Recipes/Nudelwork med sojafärs.md",
+    "MOCs/People.md",
     "Movies/Good boy.md",
+    "Recipes/Nudelwork med sojafärs.md",
     "Journal/2024-05-27.md",
     "Recipes/Vegetarisk Yakkiniku.md",
     "Recipes/Vegetarisk Tikka Masala.md",
@@ -188,7 +189,6 @@
     "MOCs/Recipes.md",
     "Movies/Sicario.md",
     "Recipes/Tareq Taylors k*cklinggryta.md",
-    "People/Kajsa.md",
     "Presentations/eslint-plugin-2/Screenshot 2024-04-30 at 17.23.37.png",
     "Presentations/eslint-plugin-2",
     "Media DB/series",

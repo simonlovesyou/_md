@@ -15,3 +15,6 @@ tags: [[MOCs/People|People]]
 ## Notes
 
 - Tillsammans med [[Oscar]]
+- Gravid
+	- BF 17 November
+	- Pojke
