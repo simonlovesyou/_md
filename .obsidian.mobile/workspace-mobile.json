@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Places/Capridue.md",
+                "file": "Matlagning/Vita bönor.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Places/Capridue.md",
+            "file": "Matlagning/Vita bönor.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Places/Capridue.md",
+            "file": "Matlagning/Vita bönor.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -139,7 +139,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Places/Capridue.md"
+            "file": "Matlagning/Vita bönor.md"
           }
         }
       }
@@ -163,6 +163,7 @@
   },
   "active": "a21d5bfd96379224",
   "lastOpenFiles": [
+    "Places/Capridue.md",
     "Recipes/Nudelwok med sojafärs.md",
     "Recipes/Vita bönor med massor av vitlök.md",
     "Matlagning/Vita bönor.md",
@@ -173,7 +174,6 @@
     "Journal/2024-05-31.md",
     "Journal/2024-06-01.md",
     "MOCs/Places.md",
-    "Places/Capridue.md",
     "People/Jasmine.md",
     "MOCs/People.md",
     "Movies/Good boy.md",
