@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Matlagning/Vita bönor.md",
+                "file": "Recipes/Kryddig linsgryta med spenat och kokos.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Matlagning/Vita bönor.md",
+            "file": "Recipes/Kryddig linsgryta med spenat och kokos.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Matlagning/Vita bönor.md",
+            "file": "Recipes/Kryddig linsgryta med spenat och kokos.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -139,7 +139,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Matlagning/Vita bönor.md"
+            "file": "Recipes/Kryddig linsgryta med spenat och kokos.md"
           }
         }
       }
@@ -163,12 +163,12 @@
   },
   "active": "a21d5bfd96379224",
   "lastOpenFiles": [
+    "Matlagning/Vita bönor.md",
     "Recipes/Kryddig linsgryta med spenat och kokos.md",
     "Recipes/Krämig zucchini- och svamppasta.md",
     "Places/Capridue.md",
     "Recipes/Nudelwok med sojafärs.md",
     "Recipes/Vita bönor med massor av vitlök.md",
-    "Matlagning/Vita bönor.md",
     "Restaurants/Arc rooftop.md",
     "Movies/My thoughts are quiet.md",
     "Media DB/movies/My Thoughts Are Silent (2019).md",
