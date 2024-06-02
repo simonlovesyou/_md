@@ -4,7 +4,7 @@ tags:
 portions: 4
 source: https://undertian.com/recept/vita-bonor-med-massor-av-vitlok-tomat-och-basilika/
 duration: 30 min
-modified: 2024-06-02T17:03:09+02:00
+modified: 2024-06-02T17:10:33+02:00
 ---
 
 En riktigt smarrig rätt som passar bra med bröd eller som en del av en buffé. Den är lika god varm som kall!
