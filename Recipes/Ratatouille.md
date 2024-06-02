@@ -32,7 +32,7 @@ Ett klassiskt franskt recept på ratatouille som innehåller aubergine, zucchini
 - Rivet skal av 1 citron + 2 tsk fänkålsfrön
 - Rivet skal av 1 apelsin + 2 msk ajvar relish
 
-## Instruktioner
+## Directions
 1. Skala och hacka rödlöken och vitlöksklyftorna.
 2. Grovhacka auberginen, zucchinin och paprikan.
 3. Fräs lök och vitlök i en stor stekpanna med hälften av olivoljan på medelvärme i ca 10 minuter.
@@ -42,3 +42,4 @@ Ett klassiskt franskt recept på ratatouille som innehåller aubergine, zucchini
 7. Välj en kryddkombination och tillsätt den. Smaka av med salt.
 
 ## Notes
+- 
