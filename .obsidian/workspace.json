@@ -25,8 +25,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/2024-05-27.md",
-                "mode": "preview",
+                "file": "Recipes/Vita bönor med massor av vitlök.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Recipes/Ratatouille.md",
+                "file": "Matlagning/Vita bönor.md",
                 "mode": "source",
                 "source": true
               }
@@ -92,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -158,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Recipes/Ratatouille.md",
+                "file": "Recipes/Vita bönor med massor av vitlök.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Recipes/Ratatouille.md",
+                "file": "Recipes/Vita bönor med massor av vitlök.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Recipes/Ratatouille.md"
+                "file": "Recipes/Vita bönor med massor av vitlök.md"
               }
             }
           },
@@ -232,15 +232,23 @@
       "obsidian-media-db-plugin:Add new Media DB entry": false,
       "templater-obsidian:Templater": false,
       "custom-sort:Toggle custom sorting": false,
-      "obsidian-map-view:Open map view": false
+      "obsidian-map-view:Open map view": false,
+      "random-note:Open random note": false
     }
   },
-  "active": "eff04241cc483033",
+  "active": "5ae23d1d31c1990e",
   "lastOpenFiles": [
+    "Matlagning/Vita bönor.md",
+    "Recipes/Vita bönor med massor av vitlök.md",
+    "Journal/2024-05-27.md",
+    "Matlagning/Kikärtor.md",
+    "Matlagning/Vitkål.md",
+    "Journal/2024-05-24.md",
+    "Recipes/Nudelwok med sojafärs.md",
+    "Journal/2024-05-06.md",
+    "Recipes/Ratatouille.md",
     "Recipes/Japansk Kålsallad.md",
     "Recipes/Gin & Tonic.md",
-    "Recipes/Nudelwok med sojafärs.md",
-    "Recipes/RecipeName.md",
     "MOCs/Recipes.md",
     "Journal/2024-06-02.md",
     "MOCs/Journal.md",
@@ -252,17 +260,10 @@
     "Journal/2024-06-01.md",
     "Restaurants/Arc rooftop.md",
     "MOCs/Restaurants.md",
-    "Journal/2024-05-27.md",
     "Journal/TKTK.md",
     "Movies/My thoughts are quiet.md",
     "Movies/Good boy.md",
     "Media DB/movies/My Thoughts Are Silent (2019).md",
-    "Journal/2024-05-26.md",
-    "Journal/2024-05-25.md",
-    "Journal/2024-05-24.md",
-    "Journal/2024-05-23.md",
-    "Min personlighet.md",
-    "Inefficient expert.md",
     "Presentations/eslint-plugin/Screenshot 2024-03-29 at 22.18.22.png",
     "Presentations/eslint-plugin-2/Screenshot 2024-04-30 at 17.23.37.png",
     "Presentations/eslint-plugin-2",

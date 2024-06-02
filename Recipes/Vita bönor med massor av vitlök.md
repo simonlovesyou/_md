@@ -15,7 +15,7 @@ En riktigt smarrig rätt som passar bra med bröd eller som en del av en buffé.
 - 1 st grönsaksbuljongtärning
 - 1 tsk spiskummin
 - 0.5 tsk svartpeppar
-- 6 dl vita bönor, kokta (Alt. 2.5 dl torkade vita bönor)
+- 6 dl [[Vita bönor]], kokta
 - 2.5 dl torkade vita bönor, blötlagda och kokta
 - 2 dl vatten
 - 1 burk körsbärstomater, konserverade (ca 4 dl)
