@@ -22,14 +22,11 @@ En riktigt smarrig rätt som passar bra med bröd eller som en del av en buffé.
 - 2 msk basilika, färsk eller fryst
 - 1 näve riven smakrik ost, tex. parmesan eller präst
 - Bröd eller pasta till servering
-
 ## Directions
 1. Finhacka vitlöken och stek i olja på medelvärme.
 2. Tillsätt buljongtärningen, spiskummin och peppar. Rör om.
 3. Häll i bönorna, vattnet och tomaterna. Låt puttra på låg värme i 10-15 minuter.
 4. Tillsätt basilika och smaka av med salt.
 5. Riv ost över precis innan servering.
-
 ### Vegansk variant
-
 Använd en växtbaserad ost eller näringsjäst.
