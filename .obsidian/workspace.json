@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Recipes/Krämig zucchini- och svamppasta.md",
+                "file": "Recipes/Kryddig linsgryta med spenat och kokos.md",
                 "mode": "source",
                 "source": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Recipes/Krämig zucchini- och svamppasta.md",
+                "file": "Recipes/Kryddig linsgryta med spenat och kokos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Recipes/Krämig zucchini- och svamppasta.md",
+                "file": "Recipes/Kryddig linsgryta med spenat och kokos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Recipes/Krämig zucchini- och svamppasta.md"
+                "file": "Recipes/Kryddig linsgryta med spenat och kokos.md"
               }
             }
           },
@@ -239,6 +239,7 @@
   "active": "5ae23d1d31c1990e",
   "lastOpenFiles": [
     "MOCs/Recipes.md",
+    "Recipes/Kryddig linsgryta med spenat och kokos.md",
     "Recipes/Krämig zucchini- och svamppasta.md",
     "Recipes/Vita bönor med massor av vitlök.md",
     "Matlagning/Vita bönor.md",
@@ -263,7 +264,6 @@
     "MOCs/Restaurants.md",
     "Journal/TKTK.md",
     "Movies/My thoughts are quiet.md",
-    "Movies/Good boy.md",
     "Presentations/eslint-plugin/Screenshot 2024-03-29 at 22.18.22.png",
     "Presentations/eslint-plugin-2/Screenshot 2024-04-30 at 17.23.37.png",
     "Presentations/eslint-plugin-2",
