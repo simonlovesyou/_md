@@ -35,9 +35,11 @@
             "id": "a21d5bfd96379224",
             "type": "leaf",
             "state": {
-              "type": "recipe-view",
+              "type": "markdown",
               "state": {
-                "file": "Recipes/Krämig zucchini- och svamppasta.md"
+                "file": "Recipes/Kryddig linsgryta med spenat och kokos.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -108,7 +110,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Recipes/Krämig zucchini- och svamppasta.md",
+            "file": "Recipes/Kryddig linsgryta med spenat och kokos.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -125,7 +127,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Recipes/Krämig zucchini- och svamppasta.md",
+            "file": "Recipes/Kryddig linsgryta med spenat och kokos.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -137,7 +139,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Recipes/Krämig zucchini- och svamppasta.md"
+            "file": "Recipes/Kryddig linsgryta med spenat och kokos.md"
           }
         }
       }
@@ -161,10 +163,10 @@
   },
   "active": "a21d5bfd96379224",
   "lastOpenFiles": [
+    "Recipes/Krämig zucchini- och svamppasta.md",
     "Recipes/Vita bönor med massor av vitlök.md",
     "Matlagning/Vita bönor.md",
     "Recipes/Kryddig linsgryta med spenat och kokos.md",
-    "Recipes/Krämig zucchini- och svamppasta.md",
     "Places/Capridue.md",
     "Recipes/Nudelwok med sojafärs.md",
     "Restaurants/Arc rooftop.md",
