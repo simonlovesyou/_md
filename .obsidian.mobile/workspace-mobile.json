@@ -37,7 +37,7 @@
             "state": {
               "type": "recipe-view",
               "state": {
-                "file": "Recipes/Vita bönor med massor av vitlök.md"
+                "file": "Recipes/Krämig zucchini- och svamppasta.md"
               }
             }
           }
@@ -108,7 +108,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Recipes/Vita bönor med massor av vitlök.md",
+            "file": "Recipes/Krämig zucchini- och svamppasta.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Recipes/Vita bönor med massor av vitlök.md",
+            "file": "Recipes/Krämig zucchini- och svamppasta.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -137,7 +137,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Recipes/Vita bönor med massor av vitlök.md"
+            "file": "Recipes/Krämig zucchini- och svamppasta.md"
           }
         }
       }
@@ -161,8 +161,8 @@
   },
   "active": "a21d5bfd96379224",
   "lastOpenFiles": [
-    "Matlagning/Vita bönor.md",
     "Recipes/Vita bönor med massor av vitlök.md",
+    "Matlagning/Vita bönor.md",
     "Recipes/Kryddig linsgryta med spenat och kokos.md",
     "Recipes/Krämig zucchini- och svamppasta.md",
     "Places/Capridue.md",
