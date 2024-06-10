@@ -11,7 +11,7 @@ modified: 2024-06-09T17:25:38+02:00
 ![](https://undertian.com/wp-content/uploads/2021/01/Yipin-bild-5-1308x1308.jpg)
 En god pasta med svartkål och knaperstekt alspånsrökt tofu, perfekt för höst och vinter.
 
-## Ingredienser
+## Ingredients
 - 200 g svart- eller grönkål
 - 2 vitlöksklyftor
 - Olja att steka i
@@ -23,7 +23,7 @@ En god pasta med svartkål och knaperstekt alspånsrökt tofu, perfekt för hös
 - Salt och svartpeppar
 - Eventuellt lite riven ost att toppa med
 
-## Instruktioner
+## Directions
 1. Koka upp vatten till pasta.
 2. Hacka tofun i små bitar och stek i olja och soja tills knaperstekt. Ställ åt sidan.
 3. Koka pastan enligt anvisningar på paketet.
