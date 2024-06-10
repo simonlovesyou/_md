@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Recipes/Kryddig linsgryta med spenat och kokos.md",
+                "file": "Recipes/Vegansk billig jordnötssåsgryta.md",
                 "mode": "source",
                 "source": true
               }
@@ -121,7 +121,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "vegan",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -138,7 +138,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -158,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Recipes/Kryddig linsgryta med spenat och kokos.md",
+                "file": "Recipes/Vegansk billig jordnötssåsgryta.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +176,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Recipes/Kryddig linsgryta med spenat och kokos.md",
+                "file": "Recipes/Vegansk billig jordnötssåsgryta.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +199,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Recipes/Kryddig linsgryta med spenat och kokos.md"
+                "file": "Recipes/Vegansk billig jordnötssåsgryta.md"
               }
             }
           },
@@ -238,9 +239,15 @@
   },
   "active": "5ae23d1d31c1990e",
   "lastOpenFiles": [
-    "Places/Capridue.md",
-    "MOCs/Recipes.md",
+    "Recipes/One pot kokosgryta med zucchini och havreris.md",
     "Recipes/Kryddig linsgryta med spenat och kokos.md",
+    "Recipes/Vegansk billig jordnötssåsgryta.md",
+    "MOCs/Recipes.md",
+    "Recipes/Svartkålspasta med knaperstekt alspånsrökt tofu.md",
+    "MOCs/Journal.md",
+    "MOCs/People.md",
+    "Journal/2024-06-02.md",
+    "Places/Capridue.md",
     "Recipes/Krämig zucchini- och svamppasta.md",
     "Recipes/Vita bönor med massor av vitlök.md",
     "Matlagning/Vita bönor.md",
@@ -253,17 +260,11 @@
     "Recipes/Ratatouille.md",
     "Recipes/Japansk Kålsallad.md",
     "Recipes/Gin & Tonic.md",
-    "Journal/2024-06-02.md",
-    "MOCs/Journal.md",
     "MOCs/Books.md",
-    "MOCs/People.md",
     "MOCs/Movies.md",
     "Restaurants/Cucina Povera.md",
     "Journal/2024-05-31.md",
     "Journal/2024-06-01.md",
-    "Restaurants/Arc rooftop.md",
-    "MOCs/Restaurants.md",
-    "Journal/TKTK.md",
     "Presentations/eslint-plugin/Screenshot 2024-03-29 at 22.18.22.png",
     "Presentations/eslint-plugin-2/Screenshot 2024-04-30 at 17.23.37.png",
     "Presentations/eslint-plugin-2",

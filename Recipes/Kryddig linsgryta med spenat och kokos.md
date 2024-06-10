@@ -1,7 +1,6 @@
 ---
 tags:
-  - vegetariskt
-  - veganskt
+  - vegan
   - linsgryta
   - spenat
   - kokos
@@ -9,7 +8,7 @@ tags:
 portions: 4
 source: https://undertian.com/recept/kryddig-linsgryta-med-spenat-och-kokos/
 duration: 30 min
-modified: 2024-06-02T18:15:50+02:00
+modified: 2024-06-09T17:26:27+02:00
 ---
 ![](https://undertian.com/wp-content/uploads/2022/01/Linsgryta-med-krdemumma-och-citron-1308x1308.jpg)
 

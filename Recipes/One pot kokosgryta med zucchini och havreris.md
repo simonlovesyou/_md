@@ -1,13 +1,12 @@
 ---
 tags:
-  - vegetariskt
-  - veganskt
+  - vegan
   - gryta
   - one-pot
 portioner: 4
 källa: https://undertian.com/recept/one-pot-kokosgryta-med-zucchini-och-havreris/
 tid: 30 min
-modified: 2024-05-18T14:49:45+02:00
+modified: 2024-06-09T17:26:44+02:00
 ---
 
 En smarrig one pot där allt tillagas i en och samma gryta. Perfekt för en snabb och enkel måltid.
