@@ -35,9 +35,11 @@
             "id": "a21d5bfd96379224",
             "type": "leaf",
             "state": {
-              "type": "recipe-view",
+              "type": "markdown",
               "state": {
-                "file": "Recipes/Svartkålspasta med knaperstekt alspånsrökt tofu.md"
+                "file": "Matlagning/Kikärtor.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -108,7 +110,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Recipes/Svartkålspasta med knaperstekt alspånsrökt tofu.md",
+            "file": "Matlagning/Kikärtor.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -125,7 +127,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Recipes/Svartkålspasta med knaperstekt alspånsrökt tofu.md",
+            "file": "Matlagning/Kikärtor.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -137,7 +139,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Recipes/Svartkålspasta med knaperstekt alspånsrökt tofu.md"
+            "file": "Matlagning/Kikärtor.md"
           }
         }
       }
@@ -161,9 +163,9 @@
   },
   "active": "a21d5bfd96379224",
   "lastOpenFiles": [
-    "Matlagning/Vita bönor.md",
     "Recipes/Vegansk billig jordnötssåsgryta.md",
     "Recipes/Svartkålspasta med knaperstekt alspånsrökt tofu.md",
+    "Matlagning/Vita bönor.md",
     "Recipes/One pot kokosgryta med zucchini och havreris.md",
     "Recipes/Kryddig linsgryta med spenat och kokos.md",
     "Recipes/Krämig zucchini- och svamppasta.md",
