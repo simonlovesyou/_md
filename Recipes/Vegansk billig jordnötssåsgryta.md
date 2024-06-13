@@ -11,7 +11,7 @@ modified: 2024-06-09T17:27:04+02:00
 ![](https://undertian.com/wp-content/uploads/2019/03/IMG_5287-1-1308x1308.jpg)
 En smakrik och lättlagad gryta med jordnötssås och grönsaker, perfekt för budgetvänlig matlagning.
 
-## Ingredienser
+## Ingredients
 - 4 port ris
 - 2 morötter
 - 0.5 zucchini
@@ -26,7 +26,7 @@ En smakrik och lättlagad gryta med jordnötssås och grönsaker, perfekt för b
 - Salt & svartpeppar
 - Eventuellt soja
 
-## Instruktioner
+## Directions
 1. Koka riset enligt anvisningarna på paketet.
 2. Skala och strimla morötterna och zucchinin. Skär paprikan i tunna längder.
 3. Hetta upp oljan i en gryta och fräs currypastan snabbt.
