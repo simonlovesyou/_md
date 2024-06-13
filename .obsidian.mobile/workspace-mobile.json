@@ -35,11 +35,9 @@
             "id": "a21d5bfd96379224",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "recipe-view",
               "state": {
-                "file": "Matlagning/Kikärtor.md",
-                "mode": "source",
-                "source": false
+                "file": "Recipes/Vegansk billig jordnötssåsgryta.md"
               }
             }
           }
@@ -110,7 +108,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Matlagning/Kikärtor.md",
+            "file": "Recipes/Vegansk billig jordnötssåsgryta.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -127,7 +125,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Matlagning/Kikärtor.md",
+            "file": "Recipes/Vegansk billig jordnötssåsgryta.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -139,7 +137,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Matlagning/Kikärtor.md"
+            "file": "Recipes/Vegansk billig jordnötssåsgryta.md"
           }
         }
       }
@@ -163,8 +161,8 @@
   },
   "active": "a21d5bfd96379224",
   "lastOpenFiles": [
-    "Recipes/Vegansk billig jordnötssåsgryta.md",
     "Matlagning/Kikärtor.md",
+    "Recipes/Vegansk billig jordnötssåsgryta.md",
     "Recipes/Svartkålspasta med knaperstekt alspånsrökt tofu.md",
     "Matlagning/Vita bönor.md",
     "Recipes/One pot kokosgryta med zucchini och havreris.md",
