@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "tag:#journal  ",
@@ -27,6 +27,13 @@
         "a": 1,
         "rgb": 11392604
       }
+    },
+    {
+      "query": "tag:#city",
+      "color": {
+        "a": 1,
+        "rgb": 6084188
+      }
     }
   ],
   "collapse-display": true,
@@ -39,6 +46,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 1.759561875006689,
-  "close": true
+  "scale": 1.3610675371807013,
+  "close": false
 }

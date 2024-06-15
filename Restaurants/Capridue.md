@@ -19,5 +19,3 @@ modified: 2024-06-15T19:01:21+02:00
 
 ## Notes
 - Tips av [[Oscar]] och [[Jasmine]]
-
-tags: [[Restaurants]]

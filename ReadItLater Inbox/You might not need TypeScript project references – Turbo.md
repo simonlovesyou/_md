@@ -1,4 +1,11 @@
-[[ReadItLater]] [[Article]]
+---
+tags:
+  - article
+  - turborepo
+  - typescript
+modified: 2024-06-15T19:57:08+02:00
+---
+
 
 # [You might not need TypeScript project references – Turbo](https://turbo.build/blog/you-might-not-need-typescript-project-references)
 

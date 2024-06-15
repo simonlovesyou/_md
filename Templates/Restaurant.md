@@ -11,5 +11,3 @@ visited:
 tags:
   - restaurant
 ---
-
-tags: [[Restaurants]]

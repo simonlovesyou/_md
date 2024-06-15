@@ -1,8 +1,7 @@
 ---
 tags:
-  - places
   - city
-modified: 2024-06-15T19:39:27+02:00
+modified: 2024-06-15T19:58:29+02:00
 prefer-view: read
 ---
 ## 📝 Notes

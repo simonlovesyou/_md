@@ -1,4 +1,10 @@
-[[ReadItLater]] [[Article]]
+---
+tags:
+  - article
+  - code
+modified: 2024-06-15T19:57:22+02:00
+---
+
 
 # [Your code style does matter actually](https://www.epicweb.dev/your-code-style-does-matter-actually)
 

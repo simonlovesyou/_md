@@ -15,7 +15,7 @@ personalRating: 0
 tags:
  - book
 ---
-tags: [[Books]] <% await tp.file.move("/Books/TKTK")%>
+<% await tp.file.move("/Books/TKTK")%>
 
 ## 📝 Notes
 - <% tp.file.cursor() %>

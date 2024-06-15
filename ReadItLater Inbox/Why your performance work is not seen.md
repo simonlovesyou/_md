@@ -1,4 +1,10 @@
-[[ReadItLater]] [[Article]]
+---
+tags:
+  - article
+  - performance
+modified: 2024-06-15T19:56:36+02:00
+---
+
 
 # [Why your performance work is not seen](https://dev.to/viniciusdallacqua/why-your-performance-work-is-not-seen-11of)
 

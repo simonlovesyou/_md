@@ -1,4 +1,6 @@
-[[ReadItLater]] [[Article]]
+---
+modified: 2024-06-15T19:55:16+02:00
+---
 
 # [require(esm) in Node.js](https://joyeecheung.github.io/blog/2024/03/18/require-esm-in-node-js/)
 

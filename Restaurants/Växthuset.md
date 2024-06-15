@@ -16,7 +16,5 @@ tags:
   - restaurant
   - vegetarian
   - vegan
-modified: 2024-06-15T19:24:16+02:00
+modified: 2024-06-15T20:01:48+02:00
 ---
-
-tags: [[Restaurants]]

@@ -1,8 +1,7 @@
 ---
 tags:
-  - places
   - city
-modified: 2024-06-15T19:39:27+02:00
+modified: 2024-06-15T19:58:26+02:00
 coordinates: 59.3251172,18.0710935
 prefer-view: read
 ---
