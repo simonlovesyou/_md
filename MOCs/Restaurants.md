@@ -2,7 +2,7 @@
 prefer-view: read
 tags:
   - moc
-modified: 2024-03-29T18:55:24+01:00
+modified: 2024-06-15T19:51:57+02:00
 ---
 ```meta-bind-button
 label: New Restaurant
@@ -15,7 +15,7 @@ actions:
   - type: templaterCreateNote
     templateFile: Templates/Restaurant.md
     folderPath: Restaurants
-    fileName: TKTK
+    fileName: Untitled
     openNote: true
 
 ```

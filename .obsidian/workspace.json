@@ -13,86 +13,61 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/2024-05-26.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "5ae23d1d31c1990e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Recipes/Vegansk billig jordnötssåsgryta.md",
+                "file": "Journal/2024-06-02.md",
                 "mode": "source",
                 "source": true
               }
             }
           },
           {
-            "id": "eff04241cc483033",
+            "id": "6da0d96c348233be",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Matlagning/Vita bönor.md",
+                "file": "Places/Eden.md",
                 "mode": "source",
                 "source": true
               }
             }
           },
           {
-            "id": "491232798fe10208",
+            "id": "73c8106c3754b244",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Recipes/Nudelwok med sojafärs.md",
+                "file": "Restaurants/Växthuset.md",
                 "mode": "source",
                 "source": true
               }
             }
           },
           {
-            "id": "95ceb074afd86bdd",
+            "id": "d6443776d536c634",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Min personlighet.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "1a3bec983014d66c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "People/Sofie.md",
+                "file": "Restaurants/Arc rooftop.md",
                 "mode": "source",
                 "source": true
               }
             }
           },
           {
-            "id": "b756ffc4d4ee8c87",
+            "id": "46c62125a0161bf4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Recipes/Gin & Tonic.md",
+                "file": "Restaurants/Symbios.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -121,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "vegan",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -138,8 +113,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -159,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Recipes/Vegansk billig jordnötssåsgryta.md",
+                "file": "Journal/2024-06-02.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Recipes/Vegansk billig jordnötssåsgryta.md",
+                "file": "Journal/2024-06-02.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -199,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Recipes/Vegansk billig jordnötssåsgryta.md"
+                "file": "Journal/2024-06-02.md"
               }
             }
           },
@@ -237,34 +211,35 @@
       "random-note:Open random note": false
     }
   },
-  "active": "5ae23d1d31c1990e",
+  "active": "73354e8352a8d390",
   "lastOpenFiles": [
-    "Recipes/One pot kokosgryta med zucchini och havreris.md",
-    "Recipes/Kryddig linsgryta med spenat och kokos.md",
-    "Recipes/Vegansk billig jordnötssåsgryta.md",
-    "MOCs/Recipes.md",
-    "Recipes/Svartkålspasta med knaperstekt alspånsrökt tofu.md",
-    "MOCs/Journal.md",
+    "Inefficient expert.md",
     "MOCs/People.md",
-    "Journal/2024-06-02.md",
-    "Places/Capridue.md",
-    "Recipes/Krämig zucchini- och svamppasta.md",
-    "Recipes/Vita bönor med massor av vitlök.md",
-    "Matlagning/Vita bönor.md",
-    "Journal/2024-05-27.md",
-    "Matlagning/Kikärtor.md",
-    "Matlagning/Vitkål.md",
-    "Journal/2024-05-24.md",
-    "Recipes/Nudelwok med sojafärs.md",
-    "Journal/2024-05-06.md",
-    "Recipes/Ratatouille.md",
-    "Recipes/Japansk Kålsallad.md",
-    "Recipes/Gin & Tonic.md",
+    "People/Lol.md",
+    "MOCs/Recipes.md",
     "MOCs/Books.md",
+    "MOCs/Journal.md",
     "MOCs/Movies.md",
+    "MOCs/Cities.md",
+    "MOCs/Restaurants.md",
+    "MOCs/Places.md",
+    "Templates/People.md",
+    "Templates/Movie.md",
+    "Templates/Daily.md",
+    "Templates/Book.md",
+    "Templates/City.md",
+    "Cities/Umeå.md",
+    "Cities/Name.md",
+    "Cities/Stockholm.md",
+    "Places/Capitol.md",
+    "Places/Illum.md",
+    "Places/Eden.md",
+    "Templates/Place.md",
+    "Cities/Piteå.md",
+    "Cities/Köpenhamn.md",
+    "Restaurants/La Posata.md",
     "Restaurants/Cucina Povera.md",
-    "Journal/2024-05-31.md",
-    "Journal/2024-06-01.md",
+    "Cities",
     "Presentations/eslint-plugin/Screenshot 2024-03-29 at 22.18.22.png",
     "Presentations/eslint-plugin-2/Screenshot 2024-04-30 at 17.23.37.png",
     "Presentations/eslint-plugin-2",
@@ -276,7 +251,6 @@
     "Matlagning",
     "Movies",
     "Projects",
-    "Media DB/books",
     "Pasted image 20240323215939.png",
     "Recipes/Pasted image 20240323223215.png"
   ]

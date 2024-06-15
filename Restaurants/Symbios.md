@@ -1,6 +1,7 @@
 ---
 name: Symbios
-location: "[[Stockholm]]"
+city: "[[Stockholm]]"
+location: "[[Södermalm]]"
 address: Skånegatan 80, 116 37 Stockholm
 coordinates: 59.312257785932886,18.079762743688562
 contact:
@@ -14,7 +15,7 @@ summary: Symbios är en restaurang belägen ett stenkast från Nytorget på Söd
 visited: false
 tags:
   - restaurant
-modified: 2024-04-21T19:23:01+02:00
+modified: 2024-06-15T19:22:15+02:00
 ---
 
 tags: [[Restaurants]]

@@ -2,7 +2,7 @@
 prefer-view: read
 tags:
   - moc
-modified: 2024-04-01T22:10:58+02:00
+modified: 2024-06-15T19:51:44+02:00
 ---
 ```meta-bind-button
 label: New Person
@@ -15,7 +15,7 @@ actions:
   - type: templaterCreateNote
     templateFile: Templates/People.md
     folderPath: People
-    fileName: Name
+    fileName: Untitled
     openNote: true
 
 ```

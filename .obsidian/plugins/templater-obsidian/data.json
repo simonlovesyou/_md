@@ -25,6 +25,10 @@
     {
       "folder": "Restaurants",
       "template": "Templates/Restaurant.md"
+    },
+    {
+      "folder": "Cities",
+      "template": "Templates/City.md"
     }
   ],
   "syntax_highlighting": true,

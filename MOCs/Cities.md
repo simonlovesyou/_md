@@ -2,10 +2,10 @@
 prefer-view: read
 tags:
   - moc
-modified: 2024-06-15T19:51:48+02:00
+modified: 2024-06-15T19:48:39+02:00
 ---
 ```meta-bind-button
-label: New Place
+label: New City
 hidden: false
 class: ""
 tooltip: ""
@@ -13,23 +13,23 @@ id: ""
 style: primary
 actions:
   - type: templaterCreateNote
-    templateFile: Templates/Place.md
-    folderPath: Places
+    templateFile: Templates/City.md
+    folderPath: Cities
     fileName: Untitled
     openNote: true
 
 ```
 
-# Places MOC
-A personal CRM. Places Notes are about jotting down notable information about people.
+# City MOC
+A personal CRM. Places Notes are about jotting down notable information about cities.
 
 ---
 ### Templates
-- [[Place]]
+- [[City]]
 
 # Places
 ```dataview
 table
-from "Places"
+from "Cities"
 sort file.name asc
 ```

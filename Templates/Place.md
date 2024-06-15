@@ -1,7 +1,8 @@
 ---
 tags:
  - places
-coordinates:
+city:
+location:
 ---
 [[Places]] <% await tp.file.move("/Places/TKTK")%>
 
@@ -11,7 +12,3 @@ coordinates:
 ## Highlights
 -
 
-## Related
-```dataview
-LIST WITHOUT ID "[["+file.path+"]]" WHERE contains(city, "<% tp.file.title %>")
-```

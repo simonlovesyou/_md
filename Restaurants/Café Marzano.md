@@ -2,7 +2,8 @@
 date: 2024-04-21 18:31
 name: Café Marzano
 summary: Marzano, a café situated in a centuries-old building in Østerbro, serves  South Italian cuisine and specialties. It offers a romantic atmosphere with velvet-colored walls and classic craftsmanship. Marzano has an extensive menu that includes everything from pasta dishes to coffee with cake.
-location: "[[Copenhagen]]"
+city: "[[Köpenhamn]]"
+location: Østerport
 address: Lundsgade 7, 2100 København, Denmark
 contact: 4540254125
 reservations: https://cafemarzano.dk/bordbestilling/
@@ -10,7 +11,7 @@ menu: https://cafemarzano.dk/menukort/
 visited: yes
 tags:
   - restaurant
-modified: 2024-04-21T19:12:28+02:00
+modified: 2024-06-15T19:31:38+02:00
 coordinates: 55.6915064,12.5773252
 ---
 

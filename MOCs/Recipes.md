@@ -2,7 +2,7 @@
 prefer-view: read
 tags:
   - moc
-modified: 2024-04-28T11:58:41+02:00
+modified: 2024-06-15T19:51:53+02:00
 ---
 ```meta-bind-button
 label: New Recipe
@@ -15,7 +15,7 @@ actions:
   - type: templaterCreateNote
     templateFile: Templates/Recipe.md
     folderPath: Recipes
-    fileName: RecipeName
+    fileName: Untitled
     openNote: true
 
 ```

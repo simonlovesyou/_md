@@ -5,14 +5,12 @@ tags:
   - eslint
 duration: 10–20min
 theme: simple
-modified: 2024-05-03T11:53:39+02:00
+modified: 2024-06-12T09:43:53+02:00
 ---
 
 # Custom eslint plugins
 
 _or how to translate domain/team/company practices to eslint plugins_
-
-note: 
 
 ---
 
@@ -23,9 +21,7 @@ _Why would you need a custom eslint plugin when there's a huge eslint-plugin com
 + Company specific rules
 
 note:
-There are vast eslint plugins that can help you keep consistent code style and or to avoid confusing code, like sorting import statements or using confusing javascript syntax.
-
-But there are certain things that may not be easily expressable with off the shelf eslint plugins, like domain & company specific rules.
+There are vast eslint plugins that can help you keep consistent code style and or to avoid confusing code, like sorting import statements or using confusing javascript syntax. But there are certain things that may not be easily expressable with off the shelf eslint plugins, like domain & company specific rules.
 
 ---
 

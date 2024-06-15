@@ -1,6 +1,7 @@
 ---
 name: Växthuset
-location: "[[Stockholm]]"
+location: "[[Södermalm]]"
+city: "[[Stockholm]]"
 address: Hammarby Slussväg 2, 118 60 Stockholm
 coordinates: 59.30456367500004,18.07872869718211
 contact:
@@ -15,7 +16,7 @@ tags:
   - restaurant
   - vegetarian
   - vegan
-modified: 2024-04-21T19:19:15+02:00
+modified: 2024-06-15T19:24:16+02:00
 ---
 
 tags: [[Restaurants]]
