@@ -35,9 +35,11 @@
             "id": "a21d5bfd96379224",
             "type": "leaf",
             "state": {
-              "type": "recipe-view",
+              "type": "markdown",
               "state": {
-                "file": "Recipes/Vegansk billig jordnötssåsgryta.md"
+                "file": "Recipes/Fermenterad chilipeppar.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -108,7 +110,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Recipes/Vegansk billig jordnötssåsgryta.md",
+            "file": "Recipes/Fermenterad chilipeppar.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -125,7 +127,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Recipes/Vegansk billig jordnötssåsgryta.md",
+            "file": "Recipes/Fermenterad chilipeppar.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -137,7 +139,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Recipes/Vegansk billig jordnötssåsgryta.md"
+            "file": "Recipes/Fermenterad chilipeppar.md"
           }
         }
       }
@@ -161,6 +163,7 @@
   },
   "active": "a21d5bfd96379224",
   "lastOpenFiles": [
+    "Recipes/Vegansk billig jordnötssåsgryta.md",
     "Recipes/Fermenterad chilipeppar.md",
     "MOCs/Cities.md",
     "Places/Eden.md",
@@ -178,7 +181,6 @@
     "Journal/2024-06-14.md",
     "ReadItLater Inbox/Your code style does matter actually.md",
     "Matlagning/Kikärtor.md",
-    "Recipes/Vegansk billig jordnötssåsgryta.md",
     "Recipes/Svartkålspasta med knaperstekt alspånsrökt tofu.md",
     "Matlagning/Vita bönor.md",
     "Recipes/One pot kokosgryta med zucchini och havreris.md",
