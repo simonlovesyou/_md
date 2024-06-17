@@ -35,9 +35,11 @@
             "id": "a21d5bfd96379224",
             "type": "leaf",
             "state": {
-              "type": "recipe-view",
+              "type": "markdown",
               "state": {
-                "file": "Recipes/Krämig kålsås.md"
+                "file": "Recipes/Potatismos.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -108,7 +110,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Recipes/Krämig kålsås.md",
+            "file": "Recipes/Potatismos.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -125,7 +127,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Recipes/Krämig kålsås.md",
+            "file": "Recipes/Potatismos.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -137,7 +139,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Recipes/Krämig kålsås.md"
+            "file": "Recipes/Potatismos.md"
           }
         }
       }
@@ -161,9 +163,9 @@
   },
   "active": "a21d5bfd96379224",
   "lastOpenFiles": [
+    "Recipes/Krämig kålsås.md",
     "MOCs/Recipes.md",
     "Custom ChatGPTs.md",
-    "Recipes/Krämig kålsås.md",
     "Journal/2024-06-17.md",
     "Journal/2024-06-16.md",
     "Recipes/Krämig morots- och paprikapasta.md",
