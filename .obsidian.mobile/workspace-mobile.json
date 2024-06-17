@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MOCs/Recipes.md",
+                "file": "Recipes/Krämig kålsås.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "MOCs/Recipes.md",
+            "file": "Recipes/Krämig kålsås.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "MOCs/Recipes.md",
+            "file": "Recipes/Krämig kålsås.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -139,7 +139,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "MOCs/Recipes.md"
+            "file": "Recipes/Krämig kålsås.md"
           }
         }
       }
@@ -163,8 +163,12 @@
   },
   "active": "a21d5bfd96379224",
   "lastOpenFiles": [
-    "Recipes/Krämig morots- och paprikapasta.md",
     "MOCs/Recipes.md",
+    "Custom ChatGPTs.md",
+    "Recipes/Krämig kålsås.md",
+    "Journal/2024-06-17.md",
+    "Journal/2024-06-16.md",
+    "Recipes/Krämig morots- och paprikapasta.md",
     "Recipes/Fermenterad chilipeppar.md",
     "Recipes/Vegansk billig jordnötssåsgryta.md",
     "MOCs/Cities.md",
@@ -186,10 +190,6 @@
     "Recipes/Svartkålspasta med knaperstekt alspånsrökt tofu.md",
     "Matlagning/Vita bönor.md",
     "Recipes/One pot kokosgryta med zucchini och havreris.md",
-    "Recipes/Kryddig linsgryta med spenat och kokos.md",
-    "Recipes/Krämig zucchini- och svamppasta.md",
-    "Recipes/Vita bönor med massor av vitlök.md",
-    "Places/Capridue.md",
     "Presentations/eslint-plugin-2/Screenshot 2024-04-30 at 17.23.37.png",
     "Presentations/eslint-plugin-2",
     "Media DB/series",
