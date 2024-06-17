@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/2024-03-23.md",
+                "file": "Journal/2024-06-17.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "54603eb4e4811519",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Recipes/Krämig kålsås.md",
                 "mode": "source",
                 "source": true
               }
@@ -43,7 +55,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -109,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/2024-03-23.md",
+                "file": "Recipes/Krämig kålsås.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/2024-03-23.md",
+                "file": "Recipes/Krämig kålsås.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/2024-03-23.md"
+                "file": "Recipes/Krämig kålsås.md"
               }
             }
           },
@@ -187,11 +200,19 @@
       "random-note:Open random note": false
     }
   },
-  "active": "73c8106c3754b244",
+  "active": "54603eb4e4811519",
   "lastOpenFiles": [
+    "MOCs/Recipes.md",
+    "Recipes/Krämig kålsås.md",
+    "MOCs/Journal.md",
+    "Custom ChatGPTs.md",
+    "Journal/2024-06-17.md",
+    "Journal/2024-06-16.md",
+    "Journal/2024-06-15.md",
+    "Journal/2024-06-14.md",
+    "Journal/2024-03-23.md",
     "Restaurants/Capridue.md",
     "Recipes/Fermenterad chilipeppar.md",
-    "MOCs/Recipes.md",
     "Templates/Book.md",
     "Templates/City.md",
     "Templates/Daily.md",
@@ -207,14 +228,6 @@
     "Restaurants/Växthuset.md",
     "Places/Eden.md",
     "Journal/2024-03-22.md",
-    "Journal/2024-03-23.md",
-    "Journal/2024-03-24.md",
-    "Journal/2024-03-25.md",
-    "Cities/Köpenhamn.md",
-    "Cities/Umeå.md",
-    "Cities/Stockholm.md",
-    "Cities/Piteå.md",
-    "Journal/2024-05-05.md",
     "Cities",
     "Presentations/eslint-plugin/Screenshot 2024-03-29 at 22.18.22.png",
     "Presentations/eslint-plugin-2/Screenshot 2024-04-30 at 17.23.37.png",
