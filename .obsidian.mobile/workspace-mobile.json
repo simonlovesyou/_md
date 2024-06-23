@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "People/Lars.md",
+                "file": "People/Mia.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "People/Lars.md",
+            "file": "People/Mia.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "People/Lars.md",
+            "file": "People/Mia.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -139,7 +139,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "People/Lars.md"
+            "file": "People/Mia.md"
           }
         }
       }
@@ -164,6 +164,8 @@
   "active": "a21d5bfd96379224",
   "lastOpenFiles": [
     "MOCs/People.md",
+    "People/Mia.md",
+    "People/Lars.md",
     "Recipes/Potatismos.md",
     "Recipes/Krämig kålsås.md",
     "MOCs/Recipes.md",
@@ -188,8 +190,6 @@
     "Journal/2024-03-25.md",
     "Journal/2024-06-14.md",
     "ReadItLater Inbox/Your code style does matter actually.md",
-    "Matlagning/Kikärtor.md",
-    "Recipes/Svartkålspasta med knaperstekt alspånsrökt tofu.md",
     "Presentations/eslint-plugin-2/Screenshot 2024-04-30 at 17.23.37.png",
     "Presentations/eslint-plugin-2",
     "Media DB/series",
