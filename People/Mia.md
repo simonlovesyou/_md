@@ -11,4 +11,4 @@ birthday:
 ---
  ## Notes
 
-- 
+- född 1962
