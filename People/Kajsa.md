@@ -18,6 +18,10 @@ tags: [[MOCs/People|People]]
 - Kajsa sa "jag älskar dig" 3:e Juli 2020
 - Kajsa har "gått" friidrott som yngre, sprang 60m.
 - Kajsa vill ha en dior saddle bag 
+- Opie har bra, men för stora förpackningar
+- Essie watermelon är favoritnagellacket
+- Använder alltid gelsetter (essie)
+- Essie strong start är favorit base coat
 
 ### Önskelista inför 31 år gammal
 
