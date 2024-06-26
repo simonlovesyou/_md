@@ -19,7 +19,7 @@ Denna veganska potatissallad med belugalinser är en smakrik och mättande rätt
 - 2 st tomater
 - Salt
 
-## Tillagning
+## Directions
 1. Koka potatisen och belugalinserna separat. Låt svalna.
 2. Ta bort blad från persilja, spara stjälkarna för annat bruk.
 3. Pressa lime och blanda saften med spiskummin och olja.
