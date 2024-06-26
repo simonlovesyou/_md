@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Recipes/Potatissallad med belugalinser.md",
+                "file": "Mental health/Tankefällor och hur man bryter dem.md",
                 "mode": "source",
                 "source": true
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Recipes/Potatissallad med belugalinser.md",
+                "file": "Mental health/Tankefällor och hur man bryter dem.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Recipes/Potatissallad med belugalinser.md",
+                "file": "Mental health/Tankefällor och hur man bryter dem.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Recipes/Potatissallad med belugalinser.md"
+                "file": "Mental health/Tankefällor och hur man bryter dem.md"
               }
             }
           },
@@ -202,9 +202,14 @@
   },
   "active": "54603eb4e4811519",
   "lastOpenFiles": [
+    "Matlagning/Lime.md",
+    "Mental health/Tankefällor och hur man bryter dem.md",
+    "Mental health",
+    "Matlagning/Vitkål.md",
+    "MOCs/Books.md",
+    "Recipes/Potatissallad med belugalinser.md",
     "People/Mia.md",
     "MOCs/Recipes.md",
-    "Recipes/Potatissallad med belugalinser.md",
     "Recipes/Krämig kålsås.md",
     "MOCs/Journal.md",
     "Custom ChatGPTs.md",
@@ -224,10 +229,6 @@
     "Templates/Recipe.md",
     "Templates/Restaurant.md",
     "Restaurants/L'avventura.md",
-    "Restaurants/Cucina Povera.md",
-    "Restaurants/Café Marzano.md",
-    "Restaurants/Arc rooftop.md",
-    "Restaurants/Växthuset.md",
     "Cities",
     "Presentations/eslint-plugin/Screenshot 2024-03-29 at 22.18.22.png",
     "Presentations/eslint-plugin-2/Screenshot 2024-04-30 at 17.23.37.png",
@@ -239,7 +240,6 @@
     "Places",
     "Matlagning",
     "Movies",
-    "Projects",
     "Pasted image 20240323215939.png",
     "Recipes/Pasted image 20240323223215.png"
   ]

@@ -4,7 +4,7 @@ tags:
 portions: 4
 source: https://undertian.com/recept/potatissallad-med-belugalinser/
 duration: 30min
-modified: 2024-06-26T20:50:31+02:00
+modified: 2024-06-26T20:55:28+02:00
 ---
 
 Denna veganska potatissallad med belugalinser är en smakrik och mättande rätt, perfekt för sommar och höst. Med färskpotatis, rikligt med persilja och en lime-spiskummin dressing, blir det en favorit för alla. Belugalinserna håller sig fasta och ger en fin konsistens till salladen. Servera gärna med smulad fetaost för extra lyx.
