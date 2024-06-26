@@ -5,7 +5,7 @@ tags:
 portions: 4
 source: https://undertian.com/recept/kramig-kalsas/
 duration: 30 min
-modified: 2024-06-17T19:48:48+02:00
+modified: 2024-06-24T09:23:52+02:00
 ---
 
 Krämig kålsås är en enkel och läcker rätt som kan serveras med olika tillbehör som kokt potatis, havreris eller potatismos. Missa inte lingon till!

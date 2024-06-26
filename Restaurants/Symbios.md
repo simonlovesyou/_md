@@ -15,7 +15,7 @@ summary: Symbios är en restaurang belägen ett stenkast från Nytorget på Söd
 visited: false
 tags:
   - restaurant
-modified: 2024-06-15T19:22:15+02:00
+modified: 2024-06-24T09:23:52+02:00
 ---
 
 tags: [[Restaurants]]
