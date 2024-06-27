@@ -35,9 +35,11 @@
             "id": "a21d5bfd96379224",
             "type": "leaf",
             "state": {
-              "type": "recipe-view",
+              "type": "markdown",
               "state": {
-                "file": "Recipes/Potatissallad med belugalinser.md"
+                "file": "Mental health/Tankefällor och hur man bryter dem.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -108,7 +110,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Recipes/Potatissallad med belugalinser.md",
+            "file": "Mental health/Tankefällor och hur man bryter dem.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -125,7 +127,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Recipes/Potatissallad med belugalinser.md",
+            "file": "Mental health/Tankefällor och hur man bryter dem.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -137,7 +139,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Recipes/Potatissallad med belugalinser.md"
+            "file": "Mental health/Tankefällor och hur man bryter dem.md"
           }
         }
       }
@@ -161,11 +163,11 @@
   },
   "active": "a21d5bfd96379224",
   "lastOpenFiles": [
+    "Recipes/Potatissallad med belugalinser.md",
     "Mental health/Tankefällor och hur man bryter dem.md",
     "Mental health",
     "Matlagning/Lime.md",
     "People/Kajsa.md",
-    "Recipes/Potatissallad med belugalinser.md",
     "People/Mia.md",
     "MOCs/People.md",
     "People/Lars.md",
