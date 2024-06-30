@@ -20,7 +20,7 @@
           "type": "group",
           "ctime": 1713260316855,
           "items": [],
-          "title": "Matlagning"
+          "title": "Cooking"
         },
         {
           "type": "group",
@@ -125,9 +125,45 @@
           "title": "ReadItLater Inbox"
         },
         {
+          "type": "group",
+          "ctime": 1719767287760,
+          "items": [],
+          "title": "Mental health"
+        },
+        {
           "type": "file",
           "ctime": 1711744155415,
           "path": "Todo.md",
+          "subpath": "#^-"
+        },
+        {
+          "type": "file",
+          "ctime": 1719767287760,
+          "path": "Custom ChatGPTs.md",
+          "subpath": "#^-"
+        },
+        {
+          "type": "file",
+          "ctime": 1719767287760,
+          "path": "Inefficient expert.md",
+          "subpath": "#^-"
+        },
+        {
+          "type": "file",
+          "ctime": 1719767287760,
+          "path": "Min personlighet.md",
+          "subpath": "#^-"
+        },
+        {
+          "type": "file",
+          "ctime": 1719767287760,
+          "path": "Mina intentioner.md",
+          "subpath": "#^-"
+        },
+        {
+          "type": "file",
+          "ctime": 1719767287760,
+          "path": "Sourmix.md",
           "subpath": "#^-"
         }
       ],

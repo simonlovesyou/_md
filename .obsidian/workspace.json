@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mental health/Tankefällor och hur man bryter dem.md",
+                "file": "Recipes/Snabb pasta med soltorkade tomater, tahini och vita bönor.md",
                 "mode": "source",
                 "source": true
               }
@@ -54,9 +54,21 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "52cac60b3d7afd1d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mental health/Plan.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -122,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mental health/Tankefällor och hur man bryter dem.md",
+                "file": "Mental health/Plan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mental health/Tankefällor och hur man bryter dem.md",
+                "file": "Mental health/Plan.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mental health/Tankefällor och hur man bryter dem.md"
+                "file": "Mental health/Plan.md"
               }
             }
           },
@@ -200,16 +212,22 @@
       "random-note:Open random note": false
     }
   },
-  "active": "54603eb4e4811519",
+  "active": "52cac60b3d7afd1d",
   "lastOpenFiles": [
-    "Matlagning/Lime.md",
     "Mental health/Tankefällor och hur man bryter dem.md",
+    "Recipes/Vegetarisk Biff Stroganoff.md",
+    "MOCs/Recipes.md",
+    "Recipes/Vita bönor med massor av vitlök.md",
+    "Recipes/Tahini.md",
+    "Recipes/Snabb pasta med soltorkade tomater, tahini och vita bönor.md",
+    "Mental health/Plan.md",
+    "Untitled.md",
+    "Cooking/Lime.md",
     "Mental health",
-    "Matlagning/Vitkål.md",
+    "Cooking/Vitkål.md",
     "MOCs/Books.md",
     "Recipes/Potatissallad med belugalinser.md",
     "People/Mia.md",
-    "MOCs/Recipes.md",
     "Recipes/Krämig kålsås.md",
     "MOCs/Journal.md",
     "Custom ChatGPTs.md",
@@ -223,12 +241,6 @@
     "Templates/Book.md",
     "Templates/City.md",
     "Templates/Daily.md",
-    "Templates/Movie.md",
-    "Templates/People.md",
-    "Templates/Place.md",
-    "Templates/Recipe.md",
-    "Templates/Restaurant.md",
-    "Restaurants/L'avventura.md",
     "Cities",
     "Presentations/eslint-plugin/Screenshot 2024-03-29 at 22.18.22.png",
     "Presentations/eslint-plugin-2/Screenshot 2024-04-30 at 17.23.37.png",
@@ -238,7 +250,7 @@
     "Timestamps/2024",
     "Timestamps",
     "Places",
-    "Matlagning",
+    "Cooking",
     "Movies",
     "Pasted image 20240323215939.png",
     "Recipes/Pasted image 20240323223215.png"
