@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mental health/Tankefällor och hur man bryter dem.md",
+                "file": "People/Viktor.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Mental health/Tankefällor och hur man bryter dem.md",
+            "file": "People/Viktor.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Mental health/Tankefällor och hur man bryter dem.md",
+            "file": "People/Viktor.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -139,7 +139,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Mental health/Tankefällor och hur man bryter dem.md"
+            "file": "People/Viktor.md"
           }
         }
       }
@@ -163,13 +163,13 @@
   },
   "active": "a21d5bfd96379224",
   "lastOpenFiles": [
-    "Recipes/Potatissallad med belugalinser.md",
+    "MOCs/People.md",
     "Mental health/Tankefällor och hur man bryter dem.md",
+    "Recipes/Potatissallad med belugalinser.md",
     "Mental health",
     "Matlagning/Lime.md",
     "People/Kajsa.md",
     "People/Mia.md",
-    "MOCs/People.md",
     "People/Lars.md",
     "Recipes/Potatismos.md",
     "Recipes/Krämig kålsås.md",
