@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "People/Viktor.md",
+                "file": "Cooking/Vita bönor.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "",
+            "query": "Vita bönor",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -98,7 +98,7 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 1
   },
   "right": {
     "id": "aab90dcd7ebe7c87",
@@ -110,7 +110,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "People/Viktor.md",
+            "file": "Cooking/Vita bönor.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "People/Viktor.md",
+            "file": "Cooking/Vita bönor.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -139,7 +139,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "People/Viktor.md"
+            "file": "Cooking/Vita bönor.md"
           }
         }
       }
@@ -163,6 +163,18 @@
   },
   "active": "a21d5bfd96379224",
   "lastOpenFiles": [
+    "Recipes/Vita bönor med massor av vitlök.md",
+    "Cooking/Kikärtor.md",
+    "Cooking/Vitkål.md",
+    "People/Viktor.md",
+    "Matlagning/Vita bönor.md",
+    "Recipes/Vegetarisk Biff Stroganoff.md",
+    "Recipes/Tahini.md",
+    "Recipes/Snabb pasta med soltorkade tomater, tahini och vita bönor.md",
+    "Cooking",
+    "Mental health/Plan.md",
+    "Cooking/Lime.md",
+    "Cooking/Vita bönor.md",
     "MOCs/People.md",
     "Mental health/Tankefällor och hur man bryter dem.md",
     "Recipes/Potatissallad med belugalinser.md",
@@ -179,18 +191,7 @@
     "Journal/2024-06-17.md",
     "Journal/2024-06-16.md",
     "Recipes/Krämig morots- och paprikapasta.md",
-    "Recipes/Vegansk billig jordnötssåsgryta.md",
-    "MOCs/Cities.md",
-    "Places/Eden.md",
-    "Restaurants/Capridue.md",
-    "Cities/Umeå.md",
-    "Cities/Piteå.md",
-    "Cities/Stockholm.md",
-    "Cities/Köpenhamn.md",
     "Cities",
-    "Templates/City.md",
-    "Journal/2024-03-22.md",
-    "Journal/2024-03-23.md",
     "Presentations/eslint-plugin-2/Screenshot 2024-04-30 at 17.23.37.png",
     "Presentations/eslint-plugin-2",
     "Media DB/series",
@@ -199,7 +200,6 @@
     "Matlagning",
     "Movies",
     "Presentations/eslint-plugin/Screenshot 2024-03-29 at 22.18.22.png",
-    "Projects/tsests",
-    "Projects/Metada"
+    "Projects/tsests"
   ]
 }
