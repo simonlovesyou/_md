@@ -35,11 +35,9 @@
             "id": "a21d5bfd96379224",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "recipe-view",
               "state": {
-                "file": "Cooking/Vita bönor.md",
-                "mode": "source",
-                "source": false
+                "file": "Recipes/Tahini.md"
               }
             }
           }
@@ -110,7 +108,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Cooking/Vita bönor.md",
+            "file": "Recipes/Tahini.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -127,7 +125,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Cooking/Vita bönor.md",
+            "file": "Recipes/Tahini.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -139,7 +137,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Cooking/Vita bönor.md"
+            "file": "Recipes/Tahini.md"
           }
         }
       }
@@ -161,8 +159,10 @@
       "recipe-view:Toggle recipe view": false
     }
   },
-  "active": "cbeb0d54691ec412",
+  "active": "a21d5bfd96379224",
   "lastOpenFiles": [
+    "Recipes/Snabb pasta med soltorkade tomater, tahini och vita bönor.md",
+    "Cooking/Vita bönor.md",
     "Recipes/Vita bönor med massor av vitlök.md",
     "Cooking/Kikärtor.md",
     "Cooking/Vitkål.md",
@@ -170,11 +170,9 @@
     "Matlagning/Vita bönor.md",
     "Recipes/Vegetarisk Biff Stroganoff.md",
     "Recipes/Tahini.md",
-    "Recipes/Snabb pasta med soltorkade tomater, tahini och vita bönor.md",
     "Cooking",
     "Mental health/Plan.md",
     "Cooking/Lime.md",
-    "Cooking/Vita bönor.md",
     "MOCs/People.md",
     "Mental health/Tankefällor och hur man bryter dem.md",
     "Recipes/Potatissallad med belugalinser.md",
