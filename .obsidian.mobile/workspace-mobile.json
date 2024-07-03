@@ -35,11 +35,9 @@
             "id": "a21d5bfd96379224",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "recipe-view",
               "state": {
-                "file": "Recipes/Fermenterad chilipeppar.md",
-                "mode": "source",
-                "source": false
+                "file": "Recipes/Vegetarisk Biff Stroganoff.md"
               }
             }
           }
@@ -110,7 +108,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Recipes/Fermenterad chilipeppar.md",
+            "file": "Recipes/Vegetarisk Biff Stroganoff.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -127,7 +125,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Recipes/Fermenterad chilipeppar.md",
+            "file": "Recipes/Vegetarisk Biff Stroganoff.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -139,7 +137,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Recipes/Fermenterad chilipeppar.md"
+            "file": "Recipes/Vegetarisk Biff Stroganoff.md"
           }
         }
       }
@@ -163,6 +161,7 @@
   },
   "active": "a21d5bfd96379224",
   "lastOpenFiles": [
+    "Recipes/Fermenterad chilipeppar.md",
     "Recipes/Snabb pasta med soltorkade tomater, tahini och vita bönor.md",
     "Movies/Sicario.md",
     "Recipes/Tahini.md",
@@ -187,7 +186,6 @@
     "Recipes/Potatismos.md",
     "Recipes/Krämig kålsås.md",
     "MOCs/Recipes.md",
-    "Recipes/Fermenterad chilipeppar.md",
     "Custom ChatGPTs.md",
     "Journal/2024-06-17.md",
     "Journal/2024-06-16.md",
