@@ -35,9 +35,11 @@
             "id": "a21d5bfd96379224",
             "type": "leaf",
             "state": {
-              "type": "recipe-view",
+              "type": "markdown",
               "state": {
-                "file": "Recipes/Vegetarisk Biff Stroganoff.md"
+                "file": "People/David.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -108,7 +110,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Recipes/Vegetarisk Biff Stroganoff.md",
+            "file": "People/David.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -125,7 +127,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Recipes/Vegetarisk Biff Stroganoff.md",
+            "file": "People/David.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -137,7 +139,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Recipes/Vegetarisk Biff Stroganoff.md"
+            "file": "People/David.md"
           }
         }
       }
@@ -161,8 +163,9 @@
   },
   "active": "a21d5bfd96379224",
   "lastOpenFiles": [
-    "Recipes/Fermenterad chilipeppar.md",
+    "MOCs/People.md",
     "Recipes/Vegetarisk Biff Stroganoff.md",
+    "Recipes/Fermenterad chilipeppar.md",
     "Recipes/Snabb pasta med soltorkade tomater, tahini och vita bönor.md",
     "Movies/Sicario.md",
     "Recipes/Tahini.md",
@@ -175,7 +178,6 @@
     "Cooking",
     "Mental health/Plan.md",
     "Cooking/Lime.md",
-    "MOCs/People.md",
     "Mental health/Tankefällor och hur man bryter dem.md",
     "Recipes/Potatissallad med belugalinser.md",
     "Mental health",
