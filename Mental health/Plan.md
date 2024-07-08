@@ -1,5 +1,5 @@
 ---
-modified: 2024-06-30T23:00:52+02:00
+modified: 2024-07-08T08:33:01+02:00
 ---
 
 Generellt: jag har köpt boken "Ta kontrollen över ditt liv" och ämnar att läsa ut den innan nä. Det är en kortare bok på 137 sidor, så tänker a

@@ -2,7 +2,7 @@
 prefer-view: read
 tags:
   - moc
-modified: 2024-06-15T19:51:48+02:00
+modified: 2024-07-08T08:52:23+02:00
 ---
 ```meta-bind-button
 label: New Place
@@ -20,14 +20,11 @@ actions:
 
 ```
 
-# Places MOC
 A personal CRM. Places Notes are about jotting down notable information about people.
 
----
-### Templates
-- [[Place]]
+[[Place|Template]].
 
-# Places
+## Places
 ```dataview
 table
 from "Places"

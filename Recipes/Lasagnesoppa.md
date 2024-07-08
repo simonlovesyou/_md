@@ -1,14 +1,15 @@
 ---
-tags: [lasagne, soup, färs, middag]
+tags:
+  - lasagne
+  - soppa
+  - middag
 portions: 4-6
 source: https://www.instagram.com/reel/Cz6pscsodOr/?igsh=MmF6eW1zaWlwZjl4
-duration: 40 min
+duration: 40min
+modified: 2024-07-08T08:53:42+02:00
 ---
 
-Denna hemtrevliga soppa kombinerar smakerna av en klassisk lasagne i en värmande och mättande soppa. Perfekt för kyliga dagar.
-
-## Ingredienser
-
+## Ingredients
 - ½ gul lök, finhackad
 - 2 selleristjälkar, finhackad
 - 1 röd paprika, i bitar
@@ -23,8 +24,7 @@ Denna hemtrevliga soppa kombinerar smakerna av en klassisk lasagne i en värmand
 - 2 msk smör
 - 5 lasagneplattor, brutna i bitar
 
-## Instruktioner
-
+## Directions
 1. Börja med att finhacka lök, selleri och paprika. Fräs i smör i en stor kastrull på medelvärme i ca 2 minuter.
 2. Tillsätt nötfärsen och stek tills den är genomstekt och har fått färg.
 3. Rör ner paprikapulver, salt, peppar, passerade tomater, vatten, buljongtärning, crème fraîche och smör i kastrullen. Blanda väl.
