@@ -1,6 +1,6 @@
 ---
 prefer-view: read
-modified: 2024-04-21T18:40:42+02:00
+modified: 2024-07-08T08:36:06+02:00
 tags:
   - moc
 ---
@@ -15,7 +15,7 @@ actions:
   - type: templaterCreateNote
     templateFile: Templates/Daily.md
     folderPath: Journal
-    fileName: TKTK
+    fileName: Untitled
     openNote: true
 
 ```
