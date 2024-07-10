@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "People/David.md",
+                "file": "Recipes/Fermenterad chilipeppar.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "People/David.md",
+            "file": "Recipes/Fermenterad chilipeppar.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "People/David.md",
+            "file": "Recipes/Fermenterad chilipeppar.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -139,7 +139,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "People/David.md"
+            "file": "Recipes/Fermenterad chilipeppar.md"
           }
         }
       }
@@ -163,6 +163,7 @@
   },
   "active": "a21d5bfd96379224",
   "lastOpenFiles": [
+    "People/David.md",
     "MOCs/People.md",
     "Recipes/Vegetarisk Biff Stroganoff.md",
     "Recipes/Fermenterad chilipeppar.md",
@@ -190,7 +191,6 @@
     "MOCs/Recipes.md",
     "Custom ChatGPTs.md",
     "Journal/2024-06-17.md",
-    "Journal/2024-06-16.md",
     "Cities",
     "Presentations/eslint-plugin-2/Screenshot 2024-04-30 at 17.23.37.png",
     "Presentations/eslint-plugin-2",
