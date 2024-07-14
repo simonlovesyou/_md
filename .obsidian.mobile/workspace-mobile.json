@@ -35,9 +35,11 @@
             "id": "a21d5bfd96379224",
             "type": "leaf",
             "state": {
-              "type": "recipe-view",
+              "type": "markdown",
               "state": {
-                "file": "Recipes/Ratatouille.md"
+                "file": "Recipes/Krämig belugapastasås med paprika.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -108,7 +110,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Recipes/Ratatouille.md",
+            "file": "Recipes/Krämig belugapastasås med paprika.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -125,7 +127,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Recipes/Ratatouille.md",
+            "file": "Recipes/Krämig belugapastasås med paprika.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -137,7 +139,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Recipes/Ratatouille.md"
+            "file": "Recipes/Krämig belugapastasås med paprika.md"
           }
         }
       }
@@ -161,6 +163,7 @@
   },
   "active": "a21d5bfd96379224",
   "lastOpenFiles": [
+    "Recipes/Ratatouille.md",
     "Recipes/Krämig belugapastasås med paprika.md",
     "MOCs/Recipes.md",
     "Recipes/Fermenterad chilipeppar.md",
@@ -188,7 +191,6 @@
     "People/Kajsa.md",
     "People/Mia.md",
     "People/Lars.md",
-    "Recipes/Potatismos.md",
     "Cities",
     "Presentations/eslint-plugin-2/Screenshot 2024-04-30 at 17.23.37.png",
     "Presentations/eslint-plugin-2",
