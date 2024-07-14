@@ -37,7 +37,7 @@
             "state": {
               "type": "recipe-view",
               "state": {
-                "file": "Recipes/Krämig belugapastasås med paprika.md"
+                "file": "Recipes/Ratatouille.md"
               }
             }
           }
@@ -108,7 +108,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Recipes/Krämig belugapastasås med paprika.md",
+            "file": "Recipes/Ratatouille.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Recipes/Krämig belugapastasås med paprika.md",
+            "file": "Recipes/Ratatouille.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -137,7 +137,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Recipes/Krämig belugapastasås med paprika.md"
+            "file": "Recipes/Ratatouille.md"
           }
         }
       }
@@ -161,11 +161,11 @@
   },
   "active": "a21d5bfd96379224",
   "lastOpenFiles": [
+    "Recipes/Krämig belugapastasås med paprika.md",
     "MOCs/Recipes.md",
     "Recipes/Fermenterad chilipeppar.md",
     "Mental health/Vad är medkänsla?.md",
     "Journal/2024-07-10.md",
-    "Recipes/Krämig belugapastasås med paprika.md",
     "People/David.md",
     "MOCs/People.md",
     "Recipes/Vegetarisk Biff Stroganoff.md",

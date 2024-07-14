@@ -3,11 +3,10 @@ tags:
   - Ratatouille
   - Fransk mat
   - Vegetarisk
-  - Glutenfri
   - Laktosfri
 portions: 4
 source: ICA
-duration: >60 min
+duration: >60min
 modified: 2024-04-22T18:11:26+02:00
 ---
 
