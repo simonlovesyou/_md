@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/2024-05-27.md",
+                "file": "Recipes/Krämig belugapastasås med paprika.md",
                 "mode": "source",
                 "source": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/2024-05-27.md",
+                "file": "Recipes/Krämig belugapastasås med paprika.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/2024-05-27.md",
+                "file": "Recipes/Krämig belugapastasås med paprika.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/2024-05-27.md"
+                "file": "Recipes/Krämig belugapastasås med paprika.md"
               }
             }
           },
@@ -226,8 +226,14 @@
   },
   "active": "52cac60b3d7afd1d",
   "lastOpenFiles": [
-    "Journal/2024-05-26.md",
+    "MOCs/Recipes.md",
+    "Recipes/Krämig belugapastasås med paprika.md",
+    "Custom ChatGPTs.md",
+    "Mental health/Vad är medkänsla?.md",
+    "Journal/Untitled.md",
+    "MOCs/Journal.md",
     "Journal/2024-05-27.md",
+    "Journal/2024-05-26.md",
     "Journal/2024-05-23.md",
     "Journal/2024-05-22.md",
     "Journal/2024-05-21.md",
@@ -246,12 +252,6 @@
     "Movies/Dune 2.md",
     "Movies/Den Sista Resan.md",
     "Media DB/series/Din Personlighet.md",
-    "Journal/2024-07-08.md",
-    "MOCs/Journal.md",
-    "Templates/Daily.md",
-    "Journal/TKTK.md",
-    "Mental health/Plan.md",
-    "Mental health/Tankefällor och hur man bryter dem.md",
     "Mental health",
     "Cities",
     "Presentations/eslint-plugin/Screenshot 2024-03-29 at 22.18.22.png",
