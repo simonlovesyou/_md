@@ -61,8 +61,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Recipes/Krämig belugapastasås med paprika.md",
-                "mode": "source",
+                "file": "Journal/2024-07-10.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Recipes/Krämig belugapastasås med paprika.md",
+                "file": "Journal/2024-07-10.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Recipes/Krämig belugapastasås med paprika.md",
+                "file": "Journal/2024-07-10.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Recipes/Krämig belugapastasås med paprika.md"
+                "file": "Journal/2024-07-10.md"
               }
             }
           },
@@ -226,11 +226,11 @@
   },
   "active": "52cac60b3d7afd1d",
   "lastOpenFiles": [
-    "MOCs/Recipes.md",
     "Recipes/Krämig belugapastasås med paprika.md",
+    "MOCs/Recipes.md",
     "Custom ChatGPTs.md",
     "Mental health/Vad är medkänsla?.md",
-    "Journal/Untitled.md",
+    "Journal/2024-07-10.md",
     "MOCs/Journal.md",
     "Journal/2024-05-27.md",
     "Journal/2024-05-26.md",
