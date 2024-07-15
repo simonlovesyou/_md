@@ -7,7 +7,7 @@ duration: 40 min
 modified: 2024-07-14T12:41:37+02:00
 ---
 
-Den här krämiga belugapastasåsen med paprika  har jag lite haft dille på det senaste, jag tycker att det blir så gott att göra en riktigt krämig pastasås med grillad paprika som smaksättare (och lite annat). När paprika är i säsong kan du använda färsk, men merparten på året blir den här  varianten riktigt god! Vill du laga en annan god pastasås med belugalinser, så är ju [[Belugabolognese|Belugabolognesen]] en klassiker.
+Den här krämiga belugapastasåsen med paprika har jag lite haft dille på det senaste, jag tycker att det blir så gott att göra en riktigt krämig pastasås med grillad paprika som smaksättare (och lite annat). När paprika är i säsong kan du använda färsk, men merparten på året blir den här  varianten riktigt god! Vill du laga en annan god pastasås med belugalinser, så är ju [[Belugabolognese|Belugabolognesen]] en klassiker.
 
 ## Ingredients
 - 2 dl torkade belugalinser
