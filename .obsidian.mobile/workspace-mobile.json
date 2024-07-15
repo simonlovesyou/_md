@@ -35,11 +35,9 @@
             "id": "a21d5bfd96379224",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "recipe-view",
               "state": {
-                "file": "Recipes/Krämig belugapastasås med paprika.md",
-                "mode": "source",
-                "source": false
+                "file": "Recipes/Krämig belugapastasås med paprika.md"
               }
             }
           }
