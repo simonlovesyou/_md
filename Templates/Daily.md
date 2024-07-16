@@ -27,7 +27,7 @@ const fileName = tp.file.title
 const date = fileName === 'Untitled'
 	? tp.date.now("YYYY-MM-DD", 0)
 	: tp.date.now("YYYY-MM-DD", 0, tp.file.title)
-if(!/\d{4}-\d{2}-\d{2}/.test(date)) {
+if(!/\d{4}-\d{2}-\d{2}/.test(fileName)) {
   await tp.file.rename(date)
 }
 -%><< [[Journal/<% tp.date.now("YYYY-MM-DD", -1, date) %>|Yesterday]] | [[Journal/<% tp.date.now("YYYY-MM-DD", 1, date) %>|Tomorrow]] >>
