@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/2024-07-22.md",
+                "file": "People/Lars.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Journal/2024-07-22.md",
+            "file": "People/Lars.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Journal/2024-07-22.md",
+            "file": "People/Lars.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -139,7 +139,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Journal/2024-07-22.md"
+            "file": "People/Lars.md"
           }
         }
       }
@@ -163,8 +163,9 @@
   },
   "active": "a21d5bfd96379224",
   "lastOpenFiles": [
-    "MOCs/Journal.md",
+    "People/Sofie.md",
     "Journal/2024-07-22.md",
+    "MOCs/Journal.md",
     "Recipes/Ratatouille.md",
     "Mental health/Att Utveckla självmedkänsla.md",
     "Journal/2024-07-16.md",
@@ -189,7 +190,6 @@
     "Mental health/Plan.md",
     "Cooking/Lime.md",
     "Mental health/Tankefällor och hur man bryter dem.md",
-    "Recipes/Potatissallad med belugalinser.md",
     "Mental health",
     "Cities",
     "Presentations/eslint-plugin-2/Screenshot 2024-04-30 at 17.23.37.png",
