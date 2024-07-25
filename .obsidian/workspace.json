@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Recipes/Krämig belugapastasås med paprika.md",
+                "file": "Journal/2024-05-27.md",
                 "mode": "source",
                 "source": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Recipes/Krämig belugapastasås med paprika.md",
+                "file": "Journal/2024-05-27.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Recipes/Krämig belugapastasås med paprika.md",
+                "file": "Journal/2024-05-27.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Recipes/Krämig belugapastasås med paprika.md"
+                "file": "Journal/2024-05-27.md"
               }
             }
           },
@@ -226,6 +226,9 @@
   },
   "active": "52cac60b3d7afd1d",
   "lastOpenFiles": [
+    "People/Kajsa.md",
+    "Recipes/Vodkapasta.md",
+    "Recipes/Krämig belugapastasås med paprika.md",
     "Journal/2024-06-01.md",
     "Journal/2024-06-14.md",
     "Journal/2024-06-02.md",
@@ -235,7 +238,6 @@
     "Journal/2024-07-16.md",
     "Templates/Daily.md",
     "Mental health/Att Utveckla självmedkänsla.md",
-    "Recipes/Krämig belugapastasås med paprika.md",
     "MOCs/Recipes.md",
     "Custom ChatGPTs.md",
     "MOCs/Journal.md",
@@ -250,8 +252,6 @@
     "Journal/2024-04-29.md",
     "Journal/2024-05-19.md",
     "Journal/2024-05-16.md",
-    "Journal/2024-05-17.md",
-    "Journal/2024-05-18.md",
     "Mental health",
     "Cities",
     "Presentations/eslint-plugin/Screenshot 2024-03-29 at 22.18.22.png",
