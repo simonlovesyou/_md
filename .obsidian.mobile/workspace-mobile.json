@@ -35,11 +35,9 @@
             "id": "a21d5bfd96379224",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "recipe-view",
               "state": {
-                "file": "Cooking/Lime.md",
-                "mode": "source",
-                "source": false
+                "file": "Recipes/Vegetarisk Yakkiniku.md"
               }
             }
           }
@@ -110,7 +108,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Cooking/Lime.md",
+            "file": "Recipes/Vegetarisk Yakkiniku.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -127,7 +125,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Cooking/Lime.md",
+            "file": "Recipes/Vegetarisk Yakkiniku.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -139,7 +137,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Cooking/Lime.md"
+            "file": "Recipes/Vegetarisk Yakkiniku.md"
           }
         }
       }
@@ -163,6 +161,7 @@
   },
   "active": "a21d5bfd96379224",
   "lastOpenFiles": [
+    "Cooking/Lime.md",
     "Recipes/Vegetarisk Yakkiniku.md",
     "People/Lars.md",
     "People/Sofie.md",
@@ -189,7 +188,6 @@
     "People/Viktor.md",
     "Matlagning/Vita bönor.md",
     "Cooking",
-    "Mental health/Plan.md",
     "Mental health",
     "Cities",
     "Presentations/eslint-plugin-2/Screenshot 2024-04-30 at 17.23.37.png",
