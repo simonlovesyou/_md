@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "People/Lars.md",
+                "file": "Recipes/Vegetarisk Yakkiniku.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "People/Lars.md",
+            "file": "Recipes/Vegetarisk Yakkiniku.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "People/Lars.md",
+            "file": "Recipes/Vegetarisk Yakkiniku.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -139,7 +139,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "People/Lars.md"
+            "file": "Recipes/Vegetarisk Yakkiniku.md"
           }
         }
       }
@@ -163,6 +163,7 @@
   },
   "active": "a21d5bfd96379224",
   "lastOpenFiles": [
+    "People/Lars.md",
     "People/Sofie.md",
     "Journal/2024-07-22.md",
     "MOCs/Journal.md",
@@ -189,7 +190,6 @@
     "Cooking",
     "Mental health/Plan.md",
     "Cooking/Lime.md",
-    "Mental health/Tankefällor och hur man bryter dem.md",
     "Mental health",
     "Cities",
     "Presentations/eslint-plugin-2/Screenshot 2024-04-30 at 17.23.37.png",
