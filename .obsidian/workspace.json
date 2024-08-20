@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/2024-05-27.md",
+                "file": "Restaurants/Rex.md",
                 "mode": "source",
                 "source": true
               }
@@ -73,14 +73,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/2024-05-20.md",
+                "file": "Recipes/Varm bulgur med ugnsbakade rödbetor, grönkål och basilikakräm.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/2024-05-27.md",
+                "file": "Recipes/Varm bulgur med ugnsbakade rödbetor, grönkål och basilikakräm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/2024-05-27.md",
+                "file": "Recipes/Varm bulgur med ugnsbakade rödbetor, grönkål och basilikakräm.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/2024-05-27.md"
+                "file": "Recipes/Varm bulgur med ugnsbakade rödbetor, grönkål och basilikakräm.md"
               }
             }
           },
@@ -224,8 +224,19 @@
       "random-note:Open random note": false
     }
   },
-  "active": "52cac60b3d7afd1d",
+  "active": "97a570b25c363084",
   "lastOpenFiles": [
+    "Recipes/Vegetarisk Yakkiniku.md",
+    "Recipes/Varm bulgur med ugnsbakade rödbetor, grönkål och basilikakräm.md",
+    "Recipes/Krämig kålsås.md",
+    "Journal/2024-07-25.md",
+    "Journal/2024-07-24.md",
+    "Journal/2024-05-20.md",
+    "Restaurants/Rex.md",
+    "Restaurants/Symbios.md",
+    "Restaurants/La Posata.md",
+    "Journal/2024-07-22.md",
+    "Journal/2024-05-27.md",
     "People/Kajsa.md",
     "Recipes/Vodkapasta.md",
     "Recipes/Krämig belugapastasås med paprika.md",
@@ -241,17 +252,6 @@
     "MOCs/Recipes.md",
     "Custom ChatGPTs.md",
     "MOCs/Journal.md",
-    "Journal/2024-05-27.md",
-    "Journal/2024-05-26.md",
-    "Journal/2024-05-23.md",
-    "Journal/2024-05-22.md",
-    "Journal/2024-05-21.md",
-    "Journal/2024-05-20.md",
-    "Journal/2024-05-14.md",
-    "Journal/2024-05-15.md",
-    "Journal/2024-04-29.md",
-    "Journal/2024-05-19.md",
-    "Journal/2024-05-16.md",
     "Mental health",
     "Cities",
     "Presentations/eslint-plugin/Screenshot 2024-03-29 at 22.18.22.png",
