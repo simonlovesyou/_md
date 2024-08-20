@@ -37,7 +37,7 @@
             "state": {
               "type": "recipe-view",
               "state": {
-                "file": "Recipes/Vegetarisk Yakkiniku.md"
+                "file": "Recipes/Varm bulgur med ugnsbakade rödbetor, grönkål och basilikakräm.md"
               }
             }
           }
@@ -108,7 +108,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Recipes/Vegetarisk Yakkiniku.md",
+            "file": "Recipes/Varm bulgur med ugnsbakade rödbetor, grönkål och basilikakräm.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Recipes/Vegetarisk Yakkiniku.md",
+            "file": "Recipes/Varm bulgur med ugnsbakade rödbetor, grönkål och basilikakräm.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -137,7 +137,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Recipes/Vegetarisk Yakkiniku.md"
+            "file": "Recipes/Varm bulgur med ugnsbakade rödbetor, grönkål och basilikakräm.md"
           }
         }
       }
@@ -161,8 +161,12 @@
   },
   "active": "a21d5bfd96379224",
   "lastOpenFiles": [
-    "Cooking/Lime.md",
     "Recipes/Vegetarisk Yakkiniku.md",
+    "Recipes/Varm bulgur med ugnsbakade rödbetor, grönkål och basilikakräm.md",
+    "Restaurants/Rex.md",
+    "Journal/2024-07-24.md",
+    "Journal/2024-07-25.md",
+    "Cooking/Lime.md",
     "People/Lars.md",
     "People/Sofie.md",
     "Journal/2024-07-22.md",
@@ -183,10 +187,6 @@
     "Recipes/Tahini.md",
     "Cooking/Vita bönor.md",
     "Recipes/Vita bönor med massor av vitlök.md",
-    "Cooking/Kikärtor.md",
-    "Cooking/Vitkål.md",
-    "People/Viktor.md",
-    "Matlagning/Vita bönor.md",
     "Cooking",
     "Mental health",
     "Cities",
