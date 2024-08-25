@@ -35,9 +35,11 @@
             "id": "a21d5bfd96379224",
             "type": "leaf",
             "state": {
-              "type": "recipe-view",
+              "type": "markdown",
               "state": {
-                "file": "Recipes/Varm bulgur med ugnsbakade rödbetor, grönkål och basilikakräm.md"
+                "file": "Recipes/Korvstroganoff.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -108,7 +110,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Recipes/Varm bulgur med ugnsbakade rödbetor, grönkål och basilikakräm.md",
+            "file": "Recipes/Korvstroganoff.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -125,7 +127,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Recipes/Varm bulgur med ugnsbakade rödbetor, grönkål och basilikakräm.md",
+            "file": "Recipes/Korvstroganoff.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -137,7 +139,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Recipes/Varm bulgur med ugnsbakade rödbetor, grönkål och basilikakräm.md"
+            "file": "Recipes/Korvstroganoff.md"
           }
         }
       }
@@ -161,8 +163,9 @@
   },
   "active": "a21d5bfd96379224",
   "lastOpenFiles": [
-    "Recipes/Vegetarisk Yakkiniku.md",
+    "Recipes/Halloumistroganoff.md",
     "Recipes/Varm bulgur med ugnsbakade rödbetor, grönkål och basilikakräm.md",
+    "Recipes/Vegetarisk Yakkiniku.md",
     "Restaurants/Rex.md",
     "Journal/2024-07-24.md",
     "Journal/2024-07-25.md",
@@ -186,7 +189,6 @@
     "Movies/Sicario.md",
     "Recipes/Tahini.md",
     "Cooking/Vita bönor.md",
-    "Recipes/Vita bönor med massor av vitlök.md",
     "Cooking",
     "Mental health",
     "Cities",
