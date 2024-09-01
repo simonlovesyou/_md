@@ -1,10 +1,10 @@
 ---
 tags:
-- recipe
-- cooking
-- beans
-- mexican
-- tacos
+  - recipe
+  - cooking
+  - beans
+  - mexican
+  - tacos
 portions: 4
 source: https://www.landleyskok.se/recept/fried-black-beans
 ---
@@ -14,7 +14,7 @@ source: https://www.landleyskok.se/recept/fried-black-beans
 ## Ingredients
 - 1 gul lök
 - ﻿﻿2 vitlök
-- ﻿﻿800g svarta bönor
+- ﻿﻿480g svarta bönor
 - 1 dl rapsolja
 - 3 dl vatten
 ### Kryddor
