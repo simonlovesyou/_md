@@ -35,11 +35,9 @@
             "id": "a21d5bfd96379224",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "recipe-view",
               "state": {
-                "file": "MOCs/Recipes.md",
-                "mode": "source",
-                "source": false
+                "file": "Recipes/Refried beans.md"
               }
             }
           }
@@ -110,7 +108,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "MOCs/Recipes.md",
+            "file": "Recipes/Refried beans.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -127,7 +125,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "MOCs/Recipes.md",
+            "file": "Recipes/Refried beans.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -139,7 +137,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "MOCs/Recipes.md"
+            "file": "Recipes/Refried beans.md"
           }
         }
       }
@@ -163,6 +161,7 @@
   },
   "active": "a21d5bfd96379224",
   "lastOpenFiles": [
+    "MOCs/Recipes.md",
     "Mental health/Att Utveckla självmedkänsla.md",
     "Recipes/Korvstroganoff.md",
     "Recipes/Halloumistroganoff.md",
@@ -179,7 +178,6 @@
     "Recipes/Ratatouille.md",
     "Journal/2024-07-16.md",
     "Recipes/Krämig belugapastasås med paprika.md",
-    "MOCs/Recipes.md",
     "Recipes/Fermenterad chilipeppar.md",
     "Mental health/Vad är medkänsla?.md",
     "Journal/2024-07-10.md",
