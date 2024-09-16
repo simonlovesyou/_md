@@ -3,13 +3,9 @@ phone: "46702794628"
 location: "[[Piteå]]"
 address: Backevägen 14, 94148 Piteå
 lastname: Johansson
-birthday: 13/4
-modified: 2024-04-04T08:09:28+02:00
+birthday: 1962-04-13
+modified: 2024-09-15T17:00:20+02:00
 ---
-
-tags: [[MOCs/People|People]]
-
-# [[Maggan]]
 
 ## Notes
 

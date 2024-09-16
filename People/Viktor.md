@@ -1,11 +1,11 @@
 ---
 phone: 46735017098
 location: "[[Stockholm]]"
-address:
+address: 
 met: 2012
 lastname: Gustafsson
-birthday: 01/04
-modified: 2024-04-07T12:43:23+02:00
+birthday: 1992-04-01
+modified: 2024-09-15T17:11:12+02:00
 ---
 
 tags: [[MOCs/People|People]]

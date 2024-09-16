@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Recipes/Varm bulgur med ugnsbakade rödbetor, grönkål och basilikakräm.md",
+                "file": "Goals/Köpa lägenhet.md",
                 "mode": "source",
                 "source": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Recipes/Varm bulgur med ugnsbakade rödbetor, grönkål och basilikakräm.md",
+                "file": "Goals/Köpa lägenhet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Recipes/Varm bulgur med ugnsbakade rödbetor, grönkål och basilikakräm.md",
+                "file": "Goals/Köpa lägenhet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,15 +186,15 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Recipes/Varm bulgur med ugnsbakade rödbetor, grönkål och basilikakräm.md"
+                "file": "Goals/Köpa lägenhet.md"
               }
             }
           },
           {
-            "id": "1dba694cee12f502",
+            "id": "6a8cfcf4b0904b2f",
             "type": "leaf",
             "state": {
-              "type": "copilot-chat-view",
+              "type": "advanced-tables-toolbar",
               "state": {}
             }
           }
@@ -203,8 +203,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 648.5,
-    "collapsed": true
+    "width": 320.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -221,37 +220,41 @@
       "templater-obsidian:Templater": false,
       "custom-sort:Toggle custom sorting": false,
       "obsidian-map-view:Open map view": false,
-      "random-note:Open random note": false
+      "random-note:Open random note": false,
+      "obsidian-contacts:Contacts": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
   "active": "97a570b25c363084",
   "lastOpenFiles": [
-    "Recipes/Vegetarisk Yakkiniku.md",
-    "Recipes/Varm bulgur med ugnsbakade rödbetor, grönkål och basilikakräm.md",
-    "Recipes/Krämig kålsås.md",
-    "Journal/2024-07-25.md",
-    "Journal/2024-07-24.md",
-    "Journal/2024-05-20.md",
-    "Restaurants/Rex.md",
-    "Restaurants/Symbios.md",
-    "Restaurants/La Posata.md",
-    "Journal/2024-07-22.md",
-    "Journal/2024-05-27.md",
+    "Goals/Köpa lägenhet.md",
+    "Journal/2024-09-15.md",
+    "Goals",
+    "MOCs/People.md",
+    "People/Hojte.md",
+    "People/Esra.md",
+    "People/Marcus.md",
+    "Templates/People.md",
+    "Journal/2024-03-22.md",
+    "People/Viktor.md",
+    "People/Mia.md",
+    "MOCs/Places.md",
+    "People/Jasmine.md",
+    "People/David.md",
+    "People/Sofie.md",
+    "People/Oscar.md",
+    "People/Stina.md",
+    "People/Nicole.md",
+    "People/Matilda.md",
+    "People/Maggan.md",
+    "People/Lena.md",
+    "People/Lars.md",
     "People/Kajsa.md",
-    "Recipes/Vodkapasta.md",
-    "Recipes/Krämig belugapastasås med paprika.md",
-    "Journal/2024-06-01.md",
-    "Journal/2024-06-14.md",
-    "Journal/2024-06-02.md",
-    "Journal/2024-06-16.md",
+    "People/Josephine.md",
+    "People/Jakob.md",
+    "People/Contact .md",
     "Journal/2024-06-17.md",
-    "Journal/2024-07-10.md",
-    "Journal/2024-07-16.md",
-    "Templates/Daily.md",
-    "Mental health/Att Utveckla självmedkänsla.md",
-    "MOCs/Recipes.md",
-    "Custom ChatGPTs.md",
-    "MOCs/Journal.md",
+    "Media DB/books",
     "Mental health",
     "Cities",
     "Presentations/eslint-plugin/Screenshot 2024-03-29 at 22.18.22.png",
@@ -262,8 +265,6 @@
     "Timestamps/2024",
     "Timestamps",
     "Places",
-    "Cooking",
-    "Movies",
     "Pasted image 20240323215939.png",
     "Recipes/Pasted image 20240323223215.png"
   ]

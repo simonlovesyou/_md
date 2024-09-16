@@ -1,5 +1,5 @@
 ---
-modified: 2024-07-08T08:33:01+02:00
+modified: 2024-09-04T21:19:23+02:00
 ---
 
 Generellt: jag har köpt boken "Ta kontrollen över ditt liv" och ämnar att läsa ut den innan nä. Det är en kortare bok på 137 sidor, så tänker a
@@ -36,3 +36,11 @@ Generellt: jag har köpt boken "Ta kontrollen över ditt liv" och ämnar att lä
 ## Kommunikation
 - **Pågående**: Går igenom minst en fråga ur "Dialogdyk" när vi lägger oss.
 	- Antingen varje kväll eller varannankväll beroende på vad vi tycker (efter energi).
+
+
+# Plan v2
+* går ned mer i djupet i "Varför man har sex" nästa vecka. Vi planerar in en kväll på Söndagsplaneringen.
+* Veckan efter det går vi igenom "Nå ut nå fram", kanske eventuellt att du också läser den. Kanske att vi plockar ut någon övning ur boken att göra i framtiden.
+* "Varför har man sex" eller "Dialogdyk" spelar vi två middagar tillsammans varje vecka. Exakt vilken dag planerar vi in tillsammans.
+* Jag fortsätter med att planera in dejter och att umgås med vänner.
+* Jag vill mer fortfarande mot hösten planera något större för oss, om det så är en resa, weekend eller så. Självklart att jag bollar med dig, men jag ser till att det sker samt sköter majoriteten av planerandet. 

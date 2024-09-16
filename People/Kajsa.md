@@ -1,11 +1,13 @@
 ---
+tags:
+  - people
 location: "[[Stockholm]]"
 address: Barkarbyvägen 20A
 met: 16/11/2018
 lastname: Nordin
 phone: 46738073167
-birthday: 1993-03-04
-modified: 2024-07-25T11:54:27+02:00
+birthday: 1993-04-14
+modified: 2024-09-15T16:53:33+02:00
 ---
 
 ## Notes

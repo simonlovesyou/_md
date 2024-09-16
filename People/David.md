@@ -1,15 +1,12 @@
 ---
-phone:+4676-0042348
-met:
+phone: +4676-0042348
+birthday: 1990-10-23
+met: 
 address: Sättragatan 23D, 741 46 Knivsta
 location: "[[Knivsta]]"
 lastname: Bergvik
-birthday: 1990-10-23
+modified: 2024-09-15T17:03:16+02:00
 ---
-
-tags: [[MOCs/People|People]]
-
-# [[David]]
 
 ## Notes
 
