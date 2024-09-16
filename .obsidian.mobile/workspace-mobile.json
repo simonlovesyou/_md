@@ -35,9 +35,11 @@
             "id": "a21d5bfd96379224",
             "type": "leaf",
             "state": {
-              "type": "recipe-view",
+              "type": "markdown",
               "state": {
-                "file": "Recipes/Refried beans.md"
+                "file": "Journal/2024-09-16.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -108,7 +110,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Recipes/Refried beans.md",
+            "file": "Journal/2024-09-16.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -125,7 +127,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Recipes/Refried beans.md",
+            "file": "Journal/2024-09-16.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -137,7 +139,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Recipes/Refried beans.md"
+            "file": "Journal/2024-09-16.md"
           }
         }
       }
@@ -161,6 +163,20 @@
   },
   "active": "a21d5bfd96379224",
   "lastOpenFiles": [
+    "MOCs/Journal.md",
+    "Journal/2024-09-16.md",
+    "Journal/2024-09-15.md",
+    "Journal/2024-09-16.md",
+    "Recipes/Refried beans.md",
+    "Goals/Köpa lägenhet.md",
+    "Goals",
+    "Media DB/books/I Who Have Never Known Men (2024).md",
+    "Media DB/books",
+    "People/Hojte.md",
+    "People/Esra.md",
+    "People/Stina.md",
+    "People/Marcus.md",
+    "Books/I who have never known men.md",
     "MOCs/Recipes.md",
     "Mental health/Att Utveckla självmedkänsla.md",
     "Recipes/Korvstroganoff.md",
@@ -174,19 +190,7 @@
     "People/Lars.md",
     "People/Sofie.md",
     "Journal/2024-07-22.md",
-    "MOCs/Journal.md",
     "Recipes/Ratatouille.md",
-    "Journal/2024-07-16.md",
-    "Recipes/Krämig belugapastasås med paprika.md",
-    "Recipes/Fermenterad chilipeppar.md",
-    "Mental health/Vad är medkänsla?.md",
-    "Journal/2024-07-10.md",
-    "People/David.md",
-    "MOCs/People.md",
-    "Recipes/Vegetarisk Biff Stroganoff.md",
-    "Recipes/Snabb pasta med soltorkade tomater, tahini och vita bönor.md",
-    "Movies/Sicario.md",
-    "Recipes/Tahini.md",
     "Cooking",
     "Mental health",
     "Cities",
@@ -196,8 +200,6 @@
     "Untitled",
     "Places",
     "Matlagning",
-    "Movies",
-    "Presentations/eslint-plugin/Screenshot 2024-03-29 at 22.18.22.png",
-    "Projects/tsests"
+    "Presentations/eslint-plugin/Screenshot 2024-03-29 at 22.18.22.png"
   ]
 }
