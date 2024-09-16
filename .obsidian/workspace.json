@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Goals/Köpa lägenhet.md",
+                "file": "Recipes/Krämig pasta med svampragu.md",
                 "mode": "source",
                 "source": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Goals/Köpa lägenhet.md",
+                "file": "Recipes/Krämig pasta med svampragu.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Goals/Köpa lägenhet.md",
+                "file": "Recipes/Krämig pasta med svampragu.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Goals/Köpa lägenhet.md"
+                "file": "Recipes/Krämig pasta med svampragu.md"
               }
             }
           },
@@ -203,7 +203,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 320.5
+    "width": 320.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -228,6 +229,7 @@
   "active": "97a570b25c363084",
   "lastOpenFiles": [
     "Goals/Köpa lägenhet.md",
+    "Recipes/Krämig pasta med svampragu.md",
     "Journal/2024-09-15.md",
     "Goals",
     "MOCs/People.md",
@@ -253,7 +255,6 @@
     "People/Josephine.md",
     "People/Jakob.md",
     "People/Contact .md",
-    "Journal/2024-06-17.md",
     "Media DB/books",
     "Mental health",
     "Cities",
