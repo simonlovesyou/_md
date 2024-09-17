@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/2024-09-16.md",
+                "file": "Journal/2024-09-15.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Journal/2024-09-16.md",
+            "file": "Journal/2024-09-15.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Journal/2024-09-16.md",
+            "file": "Journal/2024-09-15.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -139,7 +139,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Journal/2024-09-16.md"
+            "file": "Journal/2024-09-15.md"
           }
         }
       }
@@ -163,9 +163,9 @@
   },
   "active": "a21d5bfd96379224",
   "lastOpenFiles": [
+    "Journal/2024-09-16.md",
     "Journal/2024-09-17.md",
     "MOCs/Journal.md",
-    "Journal/2024-09-16.md",
     "Recipes/Krämig pasta med svampragu.md",
     "Journal/2024-09-15.md",
     "Recipes/Refried beans.md",
