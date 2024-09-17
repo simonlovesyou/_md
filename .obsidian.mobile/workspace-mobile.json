@@ -35,11 +35,9 @@
             "id": "a21d5bfd96379224",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "recipe-view",
               "state": {
-                "file": "Journal/2024-09-15.md",
-                "mode": "source",
-                "source": false
+                "file": "Recipes/Krämig pasta med svampragu.md"
               }
             }
           }
@@ -110,7 +108,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Journal/2024-09-15.md",
+            "file": "Recipes/Krämig pasta med svampragu.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -127,7 +125,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Journal/2024-09-15.md",
+            "file": "Recipes/Krämig pasta med svampragu.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -139,7 +137,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Journal/2024-09-15.md"
+            "file": "Recipes/Krämig pasta med svampragu.md"
           }
         }
       }
@@ -163,11 +161,12 @@
   },
   "active": "a21d5bfd96379224",
   "lastOpenFiles": [
+    "MOCs/Recipes.md",
+    "Journal/2024-09-15.md",
     "Journal/2024-09-16.md",
     "Journal/2024-09-17.md",
     "MOCs/Journal.md",
     "Recipes/Krämig pasta med svampragu.md",
-    "Journal/2024-09-15.md",
     "Recipes/Refried beans.md",
     "Goals/Köpa lägenhet.md",
     "Goals",
@@ -178,7 +177,6 @@
     "People/Stina.md",
     "People/Marcus.md",
     "Books/I who have never known men.md",
-    "MOCs/Recipes.md",
     "Mental health/Att Utveckla självmedkänsla.md",
     "Recipes/Korvstroganoff.md",
     "Recipes/Halloumistroganoff.md",
