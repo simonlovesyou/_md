@@ -35,9 +35,11 @@
             "id": "a21d5bfd96379224",
             "type": "leaf",
             "state": {
-              "type": "recipe-view",
+              "type": "markdown",
               "state": {
-                "file": "Recipes/Potatismos.md"
+                "file": "Recipes/Vegansk Gräddsås.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -108,7 +110,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Recipes/Potatismos.md",
+            "file": "Recipes/Vegansk Gräddsås.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -125,7 +127,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Recipes/Potatismos.md",
+            "file": "Recipes/Vegansk Gräddsås.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -137,7 +139,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Recipes/Potatismos.md"
+            "file": "Recipes/Vegansk Gräddsås.md"
           }
         }
       }
@@ -159,8 +161,22 @@
       "recipe-view:Toggle recipe view": false
     }
   },
-  "active": "cbeb0d54691ec412",
+  "active": "a21d5bfd96379224",
   "lastOpenFiles": [
+    "Recipes/Potatismos.md",
+    "Journal/2024-09-18.md",
+    "Travel",
+    "Recipes/Vegansk Gräddsås.md",
+    "Travel/Destinationer.md",
+    "Restaurants/Raca Maca.md",
+    "Restaurants/Florentine Urban Italian Trattoria.md",
+    "Restaurants/Capri due.md",
+    "Locations/Kungsholmen.md",
+    "Locations",
+    "Locations/Södermalm.md",
+    "Places/Bergianska trädgårdarna.md",
+    "Date idéer.md",
+    "Locations/Vasastan.md",
     "MOCs/Recipes.md",
     "Recipes/Krämig pasta med svampragu.md",
     "Journal/2024-09-15.md",
@@ -177,17 +193,6 @@
     "People/Stina.md",
     "People/Marcus.md",
     "Books/I who have never known men.md",
-    "Mental health/Att Utveckla självmedkänsla.md",
-    "Recipes/Korvstroganoff.md",
-    "Recipes/Halloumistroganoff.md",
-    "Recipes/Varm bulgur med ugnsbakade rödbetor, grönkål och basilikakräm.md",
-    "Recipes/Vegetarisk Yakkiniku.md",
-    "Restaurants/Rex.md",
-    "Journal/2024-07-24.md",
-    "Journal/2024-07-25.md",
-    "Cooking/Lime.md",
-    "People/Lars.md",
-    "People/Sofie.md",
     "Cooking",
     "Mental health",
     "Cities",
@@ -195,8 +200,6 @@
     "Presentations/eslint-plugin-2",
     "Media DB/series",
     "Untitled",
-    "Places",
-    "Matlagning",
     "Presentations/eslint-plugin/Screenshot 2024-03-29 at 22.18.22.png"
   ]
 }
