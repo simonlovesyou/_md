@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MOCs/Recipes.md",
+                "file": "Recipes/Potatismos.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "MOCs/Recipes.md",
+            "file": "Recipes/Potatismos.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "MOCs/Recipes.md",
+            "file": "Recipes/Potatismos.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -139,7 +139,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "MOCs/Recipes.md"
+            "file": "Recipes/Potatismos.md"
           }
         }
       }
@@ -163,8 +163,8 @@
   },
   "active": "a21d5bfd96379224",
   "lastOpenFiles": [
-    "Recipes/Krämig pasta med svampragu.md",
     "MOCs/Recipes.md",
+    "Recipes/Krämig pasta med svampragu.md",
     "Journal/2024-09-15.md",
     "Journal/2024-09-16.md",
     "Journal/2024-09-17.md",
