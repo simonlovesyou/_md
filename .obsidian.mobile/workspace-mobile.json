@@ -35,9 +35,11 @@
             "id": "a21d5bfd96379224",
             "type": "leaf",
             "state": {
-              "type": "recipe-view",
+              "type": "markdown",
               "state": {
-                "file": "Recipes/Krämig pasta med svampragu.md"
+                "file": "MOCs/Recipes.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -108,7 +110,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Recipes/Krämig pasta med svampragu.md",
+            "file": "MOCs/Recipes.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -125,7 +127,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Recipes/Krämig pasta med svampragu.md",
+            "file": "MOCs/Recipes.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -137,7 +139,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Recipes/Krämig pasta med svampragu.md"
+            "file": "MOCs/Recipes.md"
           }
         }
       }
@@ -161,12 +163,12 @@
   },
   "active": "a21d5bfd96379224",
   "lastOpenFiles": [
+    "Recipes/Krämig pasta med svampragu.md",
     "MOCs/Recipes.md",
     "Journal/2024-09-15.md",
     "Journal/2024-09-16.md",
     "Journal/2024-09-17.md",
     "MOCs/Journal.md",
-    "Recipes/Krämig pasta med svampragu.md",
     "Recipes/Refried beans.md",
     "Goals/Köpa lägenhet.md",
     "Goals",
