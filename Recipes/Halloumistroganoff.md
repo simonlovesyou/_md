@@ -1,7 +1,7 @@
 ---
 title: Halloumistroganoff
 portions: 4
-duration: <45 min
+duration: 45 min
 tags:
   - rice
 source: https://www.ica.se/recept/halloumistroganoff-722769/

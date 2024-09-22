@@ -12,9 +12,27 @@
         },
         {
           "type": "group",
-          "ctime": 1718473521042,
+          "ctime": 1726510545140,
           "items": [],
-          "title": "Cities"
+          "title": "Goals"
+        },
+        {
+          "type": "group",
+          "ctime": 1711744155415,
+          "items": [],
+          "title": "Journal"
+        },
+        {
+          "type": "group",
+          "ctime": 1711744155415,
+          "items": [],
+          "title": "People"
+        },
+        {
+          "type": "group",
+          "ctime": 1711744155415,
+          "items": [],
+          "title": "Recipes"
         },
         {
           "type": "group",
@@ -24,9 +42,27 @@
         },
         {
           "type": "group",
+          "ctime": 1718473521042,
+          "items": [],
+          "title": "Cities"
+        },
+        {
+          "type": "group",
           "ctime": 1713260187143,
           "items": [],
           "title": "Places"
+        },
+        {
+          "type": "group",
+          "ctime": 1726683050059,
+          "items": [],
+          "title": "Locations"
+        },
+        {
+          "type": "group",
+          "ctime": 1711744155415,
+          "items": [],
+          "title": "Restaurants"
         },
         {
           "type": "group",
@@ -48,18 +84,6 @@
         },
         {
           "type": "group",
-          "ctime": 1711891908055,
-          "items": [],
-          "title": "Movies"
-        },
-        {
-          "type": "group",
-          "ctime": 1711744155415,
-          "items": [],
-          "title": "Journal"
-        },
-        {
-          "type": "group",
           "ctime": 1713260187143,
           "items": [],
           "title": "Places"
@@ -74,19 +98,7 @@
           "type": "group",
           "ctime": 1711744155415,
           "items": [],
-          "title": "People"
-        },
-        {
-          "type": "group",
-          "ctime": 1711744155415,
-          "items": [],
           "title": "Presentations"
-        },
-        {
-          "type": "group",
-          "ctime": 1711744155415,
-          "items": [],
-          "title": "Recipes"
         },
         {
           "type": "group",
@@ -98,25 +110,13 @@
           "type": "group",
           "ctime": 1711744155415,
           "items": [],
-          "title": "Restaurants"
-        },
-        {
-          "type": "group",
-          "ctime": 1713260316855,
-          "items": [],
-          "title": "Matlagning"
-        },
-        {
-          "type": "group",
-          "ctime": 1711744155415,
-          "items": [],
           "title": "Templates"
         },
         {
           "type": "group",
-          "ctime": 1711744155415,
+          "ctime": 1719767287760,
           "items": [],
-          "title": "Media DB"
+          "title": "Mental health"
         },
         {
           "type": "group",
@@ -126,9 +126,15 @@
         },
         {
           "type": "group",
-          "ctime": 1719767287760,
+          "ctime": 1726510545140,
           "items": [],
-          "title": "Mental health"
+          "title": "Goals"
+        },
+        {
+          "type": "group",
+          "ctime": 1711744155415,
+          "items": [],
+          "title": "Media DB"
         },
         {
           "type": "file",

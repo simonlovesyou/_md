@@ -3,7 +3,7 @@ title: Vegansk belugabolognese
 tags:
 - recipe
 - pasta
-duration: <45 min
+duration: 45 min
 portions: 4
 source: https://undertian.com/recept/vegansk-belugabolognese/
 ---

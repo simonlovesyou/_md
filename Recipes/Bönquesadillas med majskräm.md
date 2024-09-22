@@ -5,7 +5,7 @@ tags:
   - quesadillas
   - beans
   - corn
-duration: <30 min
+duration: 30 min
 source: https://undertian.com/recept/bonquesadillas-med-majskram/
 ---
 ![](https://undertian.com/wp-content/uploads/2019/03/IMG_5327-1308x1308.jpg)

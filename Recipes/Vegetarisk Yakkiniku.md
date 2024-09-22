@@ -4,7 +4,7 @@ tags:
   - rice
 portions: 4
 source: https://henrietta.metromode.se/2017/09/30/henriettas-vegetariska-yakiniku-med-quorn/
-duration: 45min
+duration: 45 min
 modified: 2024-05-12T13:21:39+02:00
 ---
 

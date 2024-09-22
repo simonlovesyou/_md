@@ -3,7 +3,7 @@ tags:
   - potatis
 portions: 4
 source: https://undertian.com/recept/potatissallad-med-belugalinser/
-duration: 30min
+duration: 30 min
 modified: 2024-06-26T20:55:28+02:00
 ---
 

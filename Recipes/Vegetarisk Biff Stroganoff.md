@@ -4,7 +4,7 @@ tags:
   - svamp
 portions: 4
 source: https://javligtgott.se/recept/biff-stroganoff-2/
-duration: 30 minutes
+duration: 30 min
 modified: 2024-06-30T19:32:23+02:00
 ---
 En välsmakande vegetarisk variant av den klassiska Biff Stroganoff, tillagad med sojabitar, smetana och skogschampinjoner. Perfekt för en snabb och mättande middag.

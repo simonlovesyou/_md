@@ -5,8 +5,8 @@ tags:
   - "[[Vita bönor]]"
 portions: 4
 source: https://undertian.com/recept/snabb-pasta-med-soltorkade-tomater-tahini-och-vita-bonor/
-duration: 30min
-modified: 2024-06-30T19:07:53+02:00
+duration: 30 min
+modified: 2024-09-22T16:19:38+02:00
 ---
 En snabb och smakrik pasta med soltorkade tomater och tahini där vita bönor mixats ner i pastasåsen som gör den lite extra krämig. Kombinationen av tahini, soltorkade tomater och citron ger en fyllig och fräsch smak – enligt mig. Enkelt och gott!
 
