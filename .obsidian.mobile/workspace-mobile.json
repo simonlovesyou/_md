@@ -67,7 +67,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "",
+            "query": "Gräddsås",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -96,7 +96,7 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 1
   },
   "right": {
     "id": "aab90dcd7ebe7c87",
@@ -159,7 +159,7 @@
       "recipe-view:Toggle recipe view": false
     }
   },
-  "active": "a21d5bfd96379224",
+  "active": "cbeb0d54691ec412",
   "lastOpenFiles": [
     "MOCs/Recipes.md",
     "Recipes/Krämig pasta med svampragu.md",
