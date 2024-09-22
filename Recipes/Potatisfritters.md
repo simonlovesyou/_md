@@ -6,8 +6,8 @@ tags:
   - snabblagat
 portions: 4
 source: https://www.ica.se/recept/potatisfritters-721658/
-duration: Under 45 min
-modified: 2024-05-20T08:44:59+02:00
+duration: 45 min
+modified: 2024-09-22T16:17:46+02:00
 ---
 
 ![](https://assets.icanet.se/e_sharpen:80,q_auto,dpr_1.25,w_718,h_718,c_lfill/imagevaultfiles/id_249831/cf_259/potatisfritters.jpg)

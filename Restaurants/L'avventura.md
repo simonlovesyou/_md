@@ -1,7 +1,7 @@
 ---
 name: L'avventura
 city: "[[Stockholm]]"
-location: "[[Odenplan]]"
+location: "[[Vasastan]]"
 address: Sveavägen 77, 113 50 Stockholm
 contact: +468-519 422 74
 reservations: lavventura.se/boka-bord

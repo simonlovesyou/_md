@@ -6,7 +6,7 @@ tags:
   - Laktosfri
 portions: 4
 source: ICA
-duration: >60min
+duration: >60 min
 modified: 2024-04-22T18:11:26+02:00
 ---
 

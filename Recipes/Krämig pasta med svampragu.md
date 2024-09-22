@@ -5,7 +5,7 @@ tags:
   - svamp
   - vegetarisk
 portions: 6
-duration: <45 min
+duration: 45 min
 source: https://www.ica.se/recept/kramig-pasta-med-svampragu-729476/
 modified: 2024-09-16T20:12:30+02:00
 ---

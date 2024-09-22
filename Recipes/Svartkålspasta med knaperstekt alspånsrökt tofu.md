@@ -5,7 +5,7 @@ tags:
   - tofu
 portions: 4
 source: https://undertian.com/recept/svartkalspasta-med-knaperstekt-alspansrokt-tofu/
-duration: 30min
+duration: 30 min
 modified: 2024-06-09T17:25:38+02:00
 ---
 ![](https://undertian.com/wp-content/uploads/2021/01/Yipin-bild-5-1308x1308.jpg)

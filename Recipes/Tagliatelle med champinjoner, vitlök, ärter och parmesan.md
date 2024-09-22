@@ -5,7 +5,7 @@ tags:
   - snabblagat
 portions: 4
 source: https://www.ica.se/recept/tagliatelle-med-champinjoner-vitlok-arter-och-parmesan-713256/
-duration: <30min
+duration: 30 min
 modified: 2024-03-29T21:23:56+01:00
 ---
 ![](https://assets.icanet.se/e_sharpen:80,q_auto,dpr_1.25,w_718,h_718,c_lfill/imagevaultfiles/id_32573/cf_259/tagliatelle_med_champinjoner__vitlok__arter_och_parmesan.jpg)

@@ -5,7 +5,7 @@ tags:
   - rice
 portions: 4
 source: https://undertian.com/recept/vegansk-billig-jordnotssasgryta/
-duration: 30min
+duration: 30 min
 modified: 2024-06-09T17:27:04+02:00
 ---
 ![](https://undertian.com/wp-content/uploads/2019/03/IMG_5287-1-1308x1308.jpg)

@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Recipes/Krämig pasta med svampragu.md",
+                "file": "Recipes/Vegansk Gräddsås.md",
                 "mode": "source",
                 "source": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Recipes/Krämig pasta med svampragu.md",
+                "file": "Recipes/Vegansk Gräddsås.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Recipes/Krämig pasta med svampragu.md",
+                "file": "Recipes/Vegansk Gräddsås.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Recipes/Krämig pasta med svampragu.md"
+                "file": "Recipes/Vegansk Gräddsås.md"
               }
             }
           },
@@ -222,39 +222,41 @@
       "custom-sort:Toggle custom sorting": false,
       "obsidian-map-view:Open map view": false,
       "random-note:Open random note": false,
-      "obsidian-contacts:Contacts": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a79c087fc72f2ae8",
+  "active": "97a570b25c363084",
   "lastOpenFiles": [
-    "Journal/2024-09-16.md",
-    "Goals/Köpa lägenhet.md",
-    "Recipes/Krämig pasta med svampragu.md",
-    "Journal/2024-09-15.md",
-    "Goals",
+    "Places/Bergianska trädgårdarna.md",
+    "MOCs/Recipes.md",
+    "MOCs/Restaurants.md",
+    "Recipes/Krämig belugapastasås med paprika.md",
+    "Recipes/Potatisfritters.md",
+    "Journal/2024-09-17.md",
+    "Recipes/Gin & Tonic.md",
+    "MOCs/Movies.md",
+    "MOCs/Journal.md",
     "MOCs/People.md",
-    "People/Hojte.md",
-    "People/Esra.md",
-    "People/Marcus.md",
-    "Templates/People.md",
-    "Journal/2024-03-22.md",
-    "People/Viktor.md",
-    "People/Mia.md",
-    "MOCs/Places.md",
-    "People/Jasmine.md",
-    "People/David.md",
-    "People/Sofie.md",
-    "People/Oscar.md",
-    "People/Stina.md",
-    "People/Nicole.md",
-    "People/Matilda.md",
-    "People/Maggan.md",
-    "People/Lena.md",
-    "People/Lars.md",
-    "People/Kajsa.md",
-    "People/Josephine.md",
-    "People/Jakob.md",
+    "MOCs/Cities.md",
+    "MOCs/Books.md",
+    "Recipes/Vegansk Gräddsås.md",
+    "Travel/Destinationer.md",
+    "Date idéer.md",
+    "Travel",
+    "Places/Eden.md",
+    "Places/Illum.md",
+    "Places/Capitol.md",
+    "Journal/2024-09-18.md",
+    "Restaurants/Raca Maca.md",
+    "Restaurants/Capri due.md",
+    "Templates/Restaurant.md",
+    "Locations/Kungsholmen.md",
+    "Restaurants/Florentine Urban Italian Trattoria.md",
+    "Restaurants/Capridue.md",
+    "Locations/Vasastan.md",
+    "Locations",
+    "Goals",
     "Media DB/books",
     "Mental health",
     "Cities",
@@ -264,8 +266,6 @@
     "Media DB/series",
     "Timestamps/2024/04-April",
     "Timestamps/2024",
-    "Timestamps",
-    "Places",
     "Pasted image 20240323215939.png",
     "Recipes/Pasted image 20240323223215.png"
   ]

@@ -5,7 +5,7 @@ tags:
   - mushrooms
 portions: 4
 source: https://www.godare.se/recept/a/66an43/pasta-med-svamp-och-vitt-vin
-duration: 45min
+duration: 45 min
 modified: 2024-05-06T22:18:10+02:00
 ---
 ![](https://shared.cdn.smp.schibsted.com/v2/images/e71730ab-9758-4039-9e5a-8b01c00ab091?fit=crop&h=668&w=1000&s=223dc10952a10658c60f072f470eab6052eeb7ce)

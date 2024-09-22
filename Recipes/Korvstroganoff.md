@@ -3,7 +3,7 @@ tags:
   - rice
 portions: 4
 source: https://www.ica.se/recept/korvstroganoff-med-ris-533512/
-duration: <30 min
+duration: 30 min
 modified: 2024-04-25T09:13:51+02:00
 cover: 
 ---

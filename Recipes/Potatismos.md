@@ -2,7 +2,7 @@
 tags:
 - recipe
 - potatis
-duration: <30 min
+duration: 30 min
 portions: 4
 source: https://www.ica.se/recept/potatismos-grundrecept-399/
 ---

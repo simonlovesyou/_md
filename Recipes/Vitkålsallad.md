@@ -4,7 +4,7 @@ tags:
   - "[[Vitkål]]"
 portions: 4
 source: https://fredriksfika.allas.se/fredriks-middagstips/vitkalssallad/
-duration: <15 min
+duration: 15 min
 modified: 2024-04-22T18:48:16+02:00
 ---
 

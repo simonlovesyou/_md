@@ -5,7 +5,7 @@ tags:
   - middag
 portions: 4-6
 source: https://www.instagram.com/reel/Cz6pscsodOr/?igsh=MmF6eW1zaWlwZjl4
-duration: 40min
+duration: 40 min
 modified: 2024-07-08T08:53:42+02:00
 ---
 

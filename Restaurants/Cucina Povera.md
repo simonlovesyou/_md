@@ -1,7 +1,7 @@
 ---
 date: 2024-03-31 15:38
 name: Cucina Povera
-location: "[[Odenplan]]"
+location: "[[Vasastan]]"
 city: "[[Stockholm]]"
 address: Odengatan 62, 113 22 Stockholm
 contact: 46704782474

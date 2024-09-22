@@ -2,7 +2,7 @@
 title: Japansk Kålsallad
 tags:
   - recipe
-duration: 15min
+duration: 15 min
 portions: 4
 source: https://www.arla.se/recept/yakiniku/
 modified: 2024-05-06T22:29:54+02:00

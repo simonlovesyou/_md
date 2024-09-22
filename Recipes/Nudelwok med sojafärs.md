@@ -5,7 +5,7 @@ tags:
 - nudlar
 portions: 4
 source: https://undertian.com/recept/nudelwok-med-sojafars-ingefara-chili-lime/
-duration: >40min
+duration: >40 min
 modified: 2024-05-26T12:04:01+02:00
 ---
 

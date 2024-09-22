@@ -2,7 +2,7 @@
 prefer-view: read
 tags:
   - moc
-modified: 2024-06-15T19:51:57+02:00
+modified: 2024-09-18T20:17:49+02:00
 ---
 ```meta-bind-button
 label: New Restaurant
@@ -27,7 +27,7 @@ actions:
 ## Restaurants
 
 ```dataview
-TABLE summary as Summary
+TABLE WITHOUT ID file.link as Name, location as Location, summary as Summary 
 FROM "Restaurants" and -#MOC
 SORT file.cday DESC
 ```

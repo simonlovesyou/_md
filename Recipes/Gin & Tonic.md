@@ -5,10 +5,8 @@ tags:
   - tonic
 portions: 1
 source: https://drinkoteket.se/recept/gin-tonic/
-duration:
-  prep: 2 minuter
-  cook: 2 minuter
-modified: 2024-04-28T12:00:25+02:00
+duration: 2 min
+modified: 2024-09-22T16:17:33+02:00
 ---
 
 # Gin & Tonic
