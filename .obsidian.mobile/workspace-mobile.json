@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Recipes/Naan.md",
+                "file": "Recipes/Potatiscurry med paprika – aloo simla mirch.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "naan",
+            "query": "aloo",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -110,7 +110,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Recipes/Naan.md",
+            "file": "Recipes/Potatiscurry med paprika – aloo simla mirch.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Recipes/Naan.md",
+            "file": "Recipes/Potatiscurry med paprika – aloo simla mirch.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -139,7 +139,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Recipes/Naan.md"
+            "file": "Recipes/Potatiscurry med paprika – aloo simla mirch.md"
           }
         }
       }
@@ -163,10 +163,10 @@
   },
   "active": "a21d5bfd96379224",
   "lastOpenFiles": [
+    "Recipes/Naan.md",
     "Recipes/Vegansk Gräddsås.md",
     "Recipes/Potatiscurry med paprika – aloo simla mirch.md",
     "Recipes/Kryddig potatisgryta med naan.md",
-    "Recipes/Naan.md",
     "Recipes/Potatismos.md",
     "Journal/2024-09-18.md",
     "Travel",
