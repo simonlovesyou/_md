@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Recipes/Vegansk Gräddsås.md",
+                "file": "Recipes/Naan.md",
                 "mode": "source",
                 "source": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Recipes/Vegansk Gräddsås.md",
+                "file": "Recipes/Naan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Recipes/Vegansk Gräddsås.md",
+                "file": "Recipes/Naan.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Recipes/Vegansk Gräddsås.md"
+                "file": "Recipes/Naan.md"
               }
             }
           },
@@ -228,8 +228,13 @@
   },
   "active": "97a570b25c363084",
   "lastOpenFiles": [
-    "Places/Bergianska trädgårdarna.md",
     "MOCs/Recipes.md",
+    "Recipes/Naan.md",
+    "Recipes/Potatiscurry med paprika – aloo simla mirch.md",
+    "Recipes/Kryddig potatisgryta med naan.md",
+    "Recipes/Belugabolognese.md",
+    "Recipes/Vegansk Gräddsås.md",
+    "Places/Bergianska trädgårdarna.md",
     "MOCs/Restaurants.md",
     "Recipes/Krämig belugapastasås med paprika.md",
     "Recipes/Potatisfritters.md",
@@ -240,7 +245,6 @@
     "MOCs/People.md",
     "MOCs/Cities.md",
     "MOCs/Books.md",
-    "Recipes/Vegansk Gräddsås.md",
     "Travel/Destinationer.md",
     "Date idéer.md",
     "Travel",
@@ -251,10 +255,6 @@
     "Restaurants/Raca Maca.md",
     "Restaurants/Capri due.md",
     "Templates/Restaurant.md",
-    "Locations/Kungsholmen.md",
-    "Restaurants/Florentine Urban Italian Trattoria.md",
-    "Restaurants/Capridue.md",
-    "Locations/Vasastan.md",
     "Locations",
     "Goals",
     "Media DB/books",
