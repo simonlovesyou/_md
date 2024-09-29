@@ -11,7 +11,6 @@ modified: 2024-09-29T18:54:53+02:00
 ---
 
 Ett mjukt och smakrikt naan som passar perfekt som tillbehör till indiska rätter. Gräddas i stekpanna och penslas med smält smör för extra smak.
-
 ### Ingredienser
 - 4 dl yoghurt (fingervarm)
 - 25 g jäst
