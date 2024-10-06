@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MOCs/Recipes.md",
+                "file": "Recipes/Kryddig linsgryta med spenat och kokos.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "MOCs/Recipes.md",
+            "file": "Recipes/Kryddig linsgryta med spenat och kokos.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "MOCs/Recipes.md",
+            "file": "Recipes/Kryddig linsgryta med spenat och kokos.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -139,7 +139,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "MOCs/Recipes.md"
+            "file": "Recipes/Kryddig linsgryta med spenat och kokos.md"
           }
         }
       }
@@ -163,6 +163,7 @@
   },
   "active": "a21d5bfd96379224",
   "lastOpenFiles": [
+    "MOCs/Recipes.md",
     "Recipes/Potatiscurry med paprika – aloo simla mirch.md",
     "Recipes/Persisk linsgryta med rotselleri och mandel.md",
     "Recipes/Pasta med pumpa och chili.md",
@@ -182,7 +183,6 @@
     "Places/Bergianska trädgårdarna.md",
     "Date idéer.md",
     "Locations/Vasastan.md",
-    "MOCs/Recipes.md",
     "Recipes/Krämig pasta med svampragu.md",
     "Journal/2024-09-15.md",
     "Journal/2024-09-16.md",
