@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Recipes/Naan.md",
+                "file": "Recipes/Persisk linsgryta med rotselleri och mandel.md",
                 "mode": "source",
                 "source": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Recipes/Naan.md",
+                "file": "Recipes/Persisk linsgryta med rotselleri och mandel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Recipes/Naan.md",
+                "file": "Recipes/Persisk linsgryta med rotselleri och mandel.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Recipes/Naan.md"
+                "file": "Recipes/Persisk linsgryta med rotselleri och mandel.md"
               }
             }
           },
@@ -229,6 +229,9 @@
   "active": "97a570b25c363084",
   "lastOpenFiles": [
     "MOCs/Recipes.md",
+    "Recipes/Persisk linsgryta med rotselleri och mandel.md",
+    "Recipes/Pasta med pumpa och chili.md",
+    "Date idéer.md",
     "Recipes/Naan.md",
     "Recipes/Potatiscurry med paprika – aloo simla mirch.md",
     "Recipes/Kryddig potatisgryta med naan.md",
@@ -246,15 +249,12 @@
     "MOCs/Cities.md",
     "MOCs/Books.md",
     "Travel/Destinationer.md",
-    "Date idéer.md",
     "Travel",
     "Places/Eden.md",
     "Places/Illum.md",
     "Places/Capitol.md",
     "Journal/2024-09-18.md",
     "Restaurants/Raca Maca.md",
-    "Restaurants/Capri due.md",
-    "Templates/Restaurant.md",
     "Locations",
     "Goals",
     "Media DB/books",
