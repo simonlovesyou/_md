@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Recipes/Kryddig linsgryta med spenat och kokos.md",
+                "file": "Recipes/Persisk linsgryta med rotselleri och mandel.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Recipes/Kryddig linsgryta med spenat och kokos.md",
+            "file": "Recipes/Persisk linsgryta med rotselleri och mandel.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Recipes/Kryddig linsgryta med spenat och kokos.md",
+            "file": "Recipes/Persisk linsgryta med rotselleri och mandel.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -139,7 +139,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Recipes/Kryddig linsgryta med spenat och kokos.md"
+            "file": "Recipes/Persisk linsgryta med rotselleri och mandel.md"
           }
         }
       }
@@ -164,6 +164,7 @@
   "active": "a21d5bfd96379224",
   "lastOpenFiles": [
     "MOCs/Recipes.md",
+    "Recipes/Kryddig linsgryta med spenat och kokos.md",
     "Recipes/Potatiscurry med paprika – aloo simla mirch.md",
     "Recipes/Persisk linsgryta med rotselleri och mandel.md",
     "Recipes/Pasta med pumpa och chili.md",
@@ -191,7 +192,6 @@
     "Recipes/Refried beans.md",
     "Goals/Köpa lägenhet.md",
     "Goals",
-    "Media DB/books/I Who Have Never Known Men (2024).md",
     "Media DB/books",
     "Cooking",
     "Mental health",
