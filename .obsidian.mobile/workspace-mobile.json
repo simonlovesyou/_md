@@ -37,7 +37,7 @@
             "state": {
               "type": "recipe-view",
               "state": {
-                "file": "Recipes/Persisk linsgryta med rotselleri och mandel.md"
+                "file": "Recipes/Pasta med pumpa och chili.md"
               }
             }
           }
@@ -108,7 +108,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Recipes/Persisk linsgryta med rotselleri och mandel.md",
+            "file": "Recipes/Pasta med pumpa och chili.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Recipes/Persisk linsgryta med rotselleri och mandel.md",
+            "file": "Recipes/Pasta med pumpa och chili.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -137,7 +137,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Recipes/Persisk linsgryta med rotselleri och mandel.md"
+            "file": "Recipes/Pasta med pumpa och chili.md"
           }
         }
       }
@@ -162,9 +162,9 @@
   "active": "a21d5bfd96379224",
   "lastOpenFiles": [
     "MOCs/Recipes.md",
+    "Recipes/Persisk linsgryta med rotselleri och mandel.md",
     "Recipes/Kryddig linsgryta med spenat och kokos.md",
     "Recipes/Potatiscurry med paprika – aloo simla mirch.md",
-    "Recipes/Persisk linsgryta med rotselleri och mandel.md",
     "Recipes/Pasta med pumpa och chili.md",
     "Recipes/Naan.md",
     "Recipes/Vegansk Gräddsås.md",
