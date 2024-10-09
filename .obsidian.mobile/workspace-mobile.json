@@ -35,9 +35,11 @@
             "id": "a21d5bfd96379224",
             "type": "leaf",
             "state": {
-              "type": "recipe-view",
+              "type": "markdown",
               "state": {
-                "file": "Recipes/Pasta med pumpa och chili.md"
+                "file": "People/Kajsa.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -108,7 +110,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Recipes/Pasta med pumpa och chili.md",
+            "file": "People/Kajsa.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -125,7 +127,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Recipes/Pasta med pumpa och chili.md",
+            "file": "People/Kajsa.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -137,7 +139,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Recipes/Pasta med pumpa och chili.md"
+            "file": "People/Kajsa.md"
           }
         }
       }
@@ -161,11 +163,12 @@
   },
   "active": "a21d5bfd96379224",
   "lastOpenFiles": [
+    "MOCs/People.md",
+    "Recipes/Pasta med pumpa och chili.md",
     "MOCs/Recipes.md",
     "Recipes/Persisk linsgryta med rotselleri och mandel.md",
     "Recipes/Kryddig linsgryta med spenat och kokos.md",
     "Recipes/Potatiscurry med paprika – aloo simla mirch.md",
-    "Recipes/Pasta med pumpa och chili.md",
     "Recipes/Naan.md",
     "Recipes/Vegansk Gräddsås.md",
     "Recipes/Kryddig potatisgryta med naan.md",
@@ -188,7 +191,6 @@
     "Journal/2024-09-17.md",
     "MOCs/Journal.md",
     "Recipes/Refried beans.md",
-    "Goals/Köpa lägenhet.md",
     "Goals",
     "Media DB/books",
     "Cooking",

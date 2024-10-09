@@ -16,6 +16,7 @@ modified: 2024-09-15T16:53:33+02:00
 - Kajsa sa "jag älskar dig" 3:e Juli 2020
 - Kajsa har "gått" friidrott som yngre, sprang 60m.
 - Kajsa vill ha en dior saddle bag
+- Vill gå på Mr. Cake
 
 ### Nagellack
 - Opie har bra, men för stora förpackningar
