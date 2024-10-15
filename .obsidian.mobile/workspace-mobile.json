@@ -35,9 +35,11 @@
             "id": "a21d5bfd96379224",
             "type": "leaf",
             "state": {
-              "type": "recipe-view",
+              "type": "markdown",
               "state": {
-                "file": "Recipes/Paneer Butter Masala.md"
+                "file": "Recipes/Naan.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -108,7 +110,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Recipes/Paneer Butter Masala.md",
+            "file": "Recipes/Naan.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -125,7 +127,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Recipes/Paneer Butter Masala.md",
+            "file": "Recipes/Naan.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -137,7 +139,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Recipes/Paneer Butter Masala.md"
+            "file": "Recipes/Naan.md"
           }
         }
       }
@@ -161,16 +163,16 @@
   },
   "active": "a21d5bfd96379224",
   "lastOpenFiles": [
+    "Recipes/Paneer Butter Masala.md",
     "MOCs/Recipes.md",
+    "Recipes/Naan.md",
     "People/Kajsa.md",
     "Resa med Kajsa.md",
-    "Recipes/Paneer Butter Masala.md",
     "MOCs/People.md",
     "Recipes/Pasta med pumpa och chili.md",
     "Recipes/Persisk linsgryta med rotselleri och mandel.md",
     "Recipes/Kryddig linsgryta med spenat och kokos.md",
     "Recipes/Potatiscurry med paprika – aloo simla mirch.md",
-    "Recipes/Naan.md",
     "Recipes/Vegansk Gräddsås.md",
     "Recipes/Kryddig potatisgryta med naan.md",
     "Recipes/Potatismos.md",
