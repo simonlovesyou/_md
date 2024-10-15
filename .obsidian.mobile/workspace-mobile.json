@@ -35,11 +35,9 @@
             "id": "a21d5bfd96379224",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "recipe-view",
               "state": {
-                "file": "People/Kajsa.md",
-                "mode": "source",
-                "source": false
+                "file": "Recipes/Paneer Butter Masala.md"
               }
             }
           }
@@ -110,7 +108,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "People/Kajsa.md",
+            "file": "Recipes/Paneer Butter Masala.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -127,7 +125,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "People/Kajsa.md",
+            "file": "Recipes/Paneer Butter Masala.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -139,7 +137,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "People/Kajsa.md"
+            "file": "Recipes/Paneer Butter Masala.md"
           }
         }
       }
@@ -163,9 +161,12 @@
   },
   "active": "a21d5bfd96379224",
   "lastOpenFiles": [
+    "MOCs/Recipes.md",
+    "People/Kajsa.md",
+    "Resa med Kajsa.md",
+    "Recipes/Paneer Butter Masala.md",
     "MOCs/People.md",
     "Recipes/Pasta med pumpa och chili.md",
-    "MOCs/Recipes.md",
     "Recipes/Persisk linsgryta med rotselleri och mandel.md",
     "Recipes/Kryddig linsgryta med spenat och kokos.md",
     "Recipes/Potatiscurry med paprika – aloo simla mirch.md",
@@ -188,9 +189,6 @@
     "Recipes/Krämig pasta med svampragu.md",
     "Journal/2024-09-15.md",
     "Journal/2024-09-16.md",
-    "Journal/2024-09-17.md",
-    "MOCs/Journal.md",
-    "Recipes/Refried beans.md",
     "Goals",
     "Media DB/books",
     "Cooking",
