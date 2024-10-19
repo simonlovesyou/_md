@@ -6,4 +6,6 @@ modified: 2024-10-06T20:17:03+02:00
 - Bowla med Minna och Anton.
 	- Minna fyller år om 1.5 månad.
 - Fotografiska
-- 
+- Baka något tillsammans
+- Skåla och Måla
+- Dreja och 
