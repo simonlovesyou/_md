@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Recipes/Naan.md",
+                "file": "Date idéer.md",
                 "mode": "source",
                 "source": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Recipes/Naan.md",
+                "file": "Date idéer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Recipes/Naan.md",
+                "file": "Date idéer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Recipes/Naan.md"
+                "file": "Date idéer.md"
               }
             }
           },
@@ -240,13 +240,19 @@
   },
   "active": "99ba9cff14d05800",
   "lastOpenFiles": [
+    "Journal/2024-10-23.md",
+    "Journal/2024-10-22.md",
+    "Journal/2024-10-21.md",
+    "People/Kajsa.md",
+    "Journal/2024-10-20.md",
+    "MOCs/Journal.md",
+    "Recipes/Naan.md",
     "Recipes/Paneer Butter Masala.md",
     "MOCs/Recipes.md",
     "Resa med Kajsa.md",
     "Recipes/Persisk linsgryta med rotselleri och mandel.md",
     "Recipes/Pasta med pumpa och chili.md",
     "Date idéer.md",
-    "Recipes/Naan.md",
     "Recipes/Potatiscurry med paprika – aloo simla mirch.md",
     "Recipes/Kryddig potatisgryta med naan.md",
     "Recipes/Belugabolognese.md",
@@ -258,15 +264,9 @@
     "Journal/2024-09-17.md",
     "Recipes/Gin & Tonic.md",
     "MOCs/Movies.md",
-    "MOCs/Journal.md",
     "MOCs/People.md",
     "MOCs/Cities.md",
-    "MOCs/Books.md",
-    "Travel/Destinationer.md",
     "Travel",
-    "Places/Eden.md",
-    "Places/Illum.md",
-    "Places/Capitol.md",
     "Locations",
     "Goals",
     "Media DB/books",

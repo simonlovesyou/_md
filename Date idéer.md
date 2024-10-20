@@ -1,11 +1,12 @@
 ---
-modified: 2024-10-06T20:17:03+02:00
+modified: 2024-10-20T17:48:06+02:00
 ---
-- Big ben standup
+- Standup
 - Besöka [[Bergianska trädgårdarna]]
 - Bowla med Minna och Anton.
 	- Minna fyller år om 1.5 månad.
 - Fotografiska
 - Baka något tillsammans
-- Skåla och Måla
 - Dreja och 
+- Måla och skåla
+- 

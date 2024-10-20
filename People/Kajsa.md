@@ -7,7 +7,7 @@ met: 16/11/2018
 lastname: Nordin
 phone: 46738073167
 birthday: 1993-04-14
-modified: 2024-09-15T16:53:33+02:00
+modified: 2024-10-20T17:43:31+02:00
 ---
 
 ## Notes
@@ -17,6 +17,7 @@ modified: 2024-09-15T16:53:33+02:00
 - Kajsa har "gått" friidrott som yngre, sprang 60m.
 - Kajsa vill ha en dior saddle bag
 - Vill gå på Mr. Cake
+- Främsta gåvospråk är gåvor.
 
 ### Nagellack
 - Opie har bra, men för stora förpackningar
