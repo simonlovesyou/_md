@@ -35,11 +35,9 @@
             "id": "a21d5bfd96379224",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "recipe-view",
               "state": {
-                "file": "Date idéer.md",
-                "mode": "source",
-                "source": false
+                "file": "Recipes/Belugabolognese.md"
               }
             }
           }
@@ -110,7 +108,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Date idéer.md",
+            "file": "Recipes/Belugabolognese.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -127,7 +125,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Date idéer.md",
+            "file": "Recipes/Belugabolognese.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -139,7 +137,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Date idéer.md"
+            "file": "Recipes/Belugabolognese.md"
           }
         }
       }
@@ -163,9 +161,14 @@
   },
   "active": "a21d5bfd96379224",
   "lastOpenFiles": [
+    "MOCs/Recipes.md",
+    "Date idéer.md",
+    "Journal/2024-10-20.md",
+    "Journal/2024-10-21.md",
+    "Journal/2024-10-22.md",
+    "Journal/2024-10-23.md",
     "Recipes/Paneer Butter Masala.md",
     "Recipes/Naan.md",
-    "MOCs/Recipes.md",
     "People/Kajsa.md",
     "Resa med Kajsa.md",
     "MOCs/People.md",
@@ -186,11 +189,6 @@
     "Locations",
     "Locations/Södermalm.md",
     "Places/Bergianska trädgårdarna.md",
-    "Date idéer.md",
-    "Locations/Vasastan.md",
-    "Recipes/Krämig pasta med svampragu.md",
-    "Journal/2024-09-15.md",
-    "Journal/2024-09-16.md",
     "Goals",
     "Media DB/books",
     "Cooking",
