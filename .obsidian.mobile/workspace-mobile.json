@@ -115,7 +115,7 @@
             "showSearch": false,
             "searchQuery": "",
             "backlinkCollapsed": false,
-            "unlinkedCollapsed": true
+            "unlinkedCollapsed": false
           }
         }
       },
@@ -159,7 +159,7 @@
       "recipe-view:Toggle recipe view": false
     }
   },
-  "active": "a21d5bfd96379224",
+  "active": "470744a0710cdae2",
   "lastOpenFiles": [
     "Recipes/Belugabolognese.md",
     "MOCs/Recipes.md",
