@@ -37,7 +37,7 @@
             "state": {
               "type": "recipe-view",
               "state": {
-                "file": "Recipes/Belugabolognese.md"
+                "file": "Recipes/Paneer Butter Masala.md"
               }
             }
           }
@@ -108,7 +108,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Recipes/Belugabolognese.md",
+            "file": "Recipes/Paneer Butter Masala.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Recipes/Belugabolognese.md",
+            "file": "Recipes/Paneer Butter Masala.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -137,7 +137,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Recipes/Belugabolognese.md"
+            "file": "Recipes/Paneer Butter Masala.md"
           }
         }
       }
@@ -161,6 +161,7 @@
   },
   "active": "a21d5bfd96379224",
   "lastOpenFiles": [
+    "Recipes/Belugabolognese.md",
     "MOCs/Recipes.md",
     "Date idéer.md",
     "Journal/2024-10-20.md",
@@ -188,7 +189,6 @@
     "Locations/Kungsholmen.md",
     "Locations",
     "Locations/Södermalm.md",
-    "Places/Bergianska trädgårdarna.md",
     "Goals",
     "Media DB/books",
     "Cooking",
