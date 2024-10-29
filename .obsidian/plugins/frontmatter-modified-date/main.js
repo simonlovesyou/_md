@@ -140,14 +140,18 @@ var FrontmatterModified = class extends import_obsidian2.Plugin {
         }
       }));
     } else if (this.settings.useKeyupEvents) {
-      this.registerDomEvent(document, "keyup", (ev) => {
-        if (!ev.ctrlKey && !ev.altKey && !ev.metaKey && /^.$/u.test(ev.key)) {
-          try {
-            if (ev.target.closest(".markdown-source-view .cm-editor")) {
-              this.updateFrontmatter(ev.view.app.workspace.activeEditor.file);
+      this.registerDomEvent(document, "input", (event) => {
+        var _a;
+        try {
+          if ((_a = event == null ? void 0 : event.target) == null ? void 0 : _a.closest(".markdown-source-view > .cm-editor")) {
+            if (/^.$/u.test(event.data || "")) {
+              const file = this.app.workspace.getActiveFile();
+              if (file instanceof import_obsidian2.TFile) {
+                this.updateFrontmatter(file).then();
+              }
             }
-          } catch (e) {
           }
+        } catch (e) {
         }
       });
     }
@@ -187,7 +191,7 @@ var FrontmatterModified = class extends import_obsidian2.Plugin {
           if (isAppendArray && Array.isArray(previousEntry)) {
             previousEntry = previousEntry[desc ? 0 : previousEntry.length - 1];
           }
-          previousEntryMoment = (0, import_obsidian2.moment)(previousEntry, this.settings.momentFormat, true);
+          previousEntryMoment = (0, import_obsidian2.moment)(previousEntry, this.settings.momentFormat);
           if (previousEntryMoment.isValid()) {
             secondsSinceLastUpdate = now.diff(previousEntryMoment, "seconds");
           }
@@ -223,3 +227,5 @@ var FrontmatterModified = class extends import_obsidian2.Plugin {
     }, this.settings.timeout * 1e3);
   }
 };
+
+/* nosourcemap */

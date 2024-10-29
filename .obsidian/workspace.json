@@ -16,7 +16,9 @@
                 "file": "Journal/2024-06-17.md",
                 "mode": "source",
                 "source": true
-              }
+              },
+              "icon": "lucide-file",
+              "title": "2024-06-17"
             }
           },
           {
@@ -28,7 +30,9 @@
                 "file": "Recipes/Snabb pasta med soltorkade tomater, tahini och vita bönor.md",
                 "mode": "source",
                 "source": true
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Snabb pasta med soltorkade tomater, tahini och vita bönor"
             }
           },
           {
@@ -40,7 +44,9 @@
                 "file": "Restaurants/Arc rooftop.md",
                 "mode": "source",
                 "source": true
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Arc rooftop"
             }
           },
           {
@@ -52,7 +58,9 @@
                 "file": "Restaurants/Symbios.md",
                 "mode": "source",
                 "source": true
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Symbios"
             }
           },
           {
@@ -64,7 +72,9 @@
                 "file": "Restaurants/Rex.md",
                 "mode": "source",
                 "source": true
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Rex"
             }
           },
           {
@@ -76,7 +86,9 @@
                 "file": "MOCs/Recipes.md",
                 "mode": "preview",
                 "source": true
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Recipes"
             }
           },
           {
@@ -85,10 +97,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Date idéer.md",
+                "file": "Mental health/Min vidmakthållandeplan.md",
                 "mode": "source",
                 "source": true
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Min vidmakthållandeplan"
             }
           }
         ],
@@ -112,7 +126,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -127,7 +143,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -135,7 +153,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -158,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Date idéer.md",
+                "file": "Mental health/Min vidmakthållandeplan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +186,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Min vidmakthållandeplan"
             }
           },
           {
@@ -175,10 +197,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Date idéer.md",
+                "file": "Mental health/Min vidmakthållandeplan.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Min vidmakthållandeplan"
             }
           },
           {
@@ -189,7 +213,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -198,8 +224,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Date idéer.md"
-              }
+                "file": "Mental health/Min vidmakthållandeplan.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Min vidmakthållandeplan"
             }
           },
           {
@@ -207,7 +235,9 @@
             "type": "leaf",
             "state": {
               "type": "advanced-tables-toolbar",
-              "state": {}
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           }
         ],
@@ -240,19 +270,21 @@
   },
   "active": "99ba9cff14d05800",
   "lastOpenFiles": [
+    "Recipes/Aloo Gobi.md",
+    "Mental health/Min vidmakthållandeplan.md",
+    "MOCs/Recipes.md",
+    "Recipes/Naan.md",
+    "Resa med Kajsa.md",
+    "Date idéer.md",
     "Journal/2024-10-23.md",
     "Journal/2024-10-22.md",
     "Journal/2024-10-21.md",
     "People/Kajsa.md",
     "Journal/2024-10-20.md",
     "MOCs/Journal.md",
-    "Recipes/Naan.md",
     "Recipes/Paneer Butter Masala.md",
-    "MOCs/Recipes.md",
-    "Resa med Kajsa.md",
     "Recipes/Persisk linsgryta med rotselleri och mandel.md",
     "Recipes/Pasta med pumpa och chili.md",
-    "Date idéer.md",
     "Recipes/Potatiscurry med paprika – aloo simla mirch.md",
     "Recipes/Kryddig potatisgryta med naan.md",
     "Recipes/Belugabolognese.md",
@@ -264,8 +296,6 @@
     "Journal/2024-09-17.md",
     "Recipes/Gin & Tonic.md",
     "MOCs/Movies.md",
-    "MOCs/People.md",
-    "MOCs/Cities.md",
     "Travel",
     "Locations",
     "Goals",
