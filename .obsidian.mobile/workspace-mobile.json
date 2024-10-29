@@ -37,7 +37,7 @@
             "state": {
               "type": "recipe-view",
               "state": {
-                "file": "Recipes/Paneer Butter Masala.md"
+                "file": "Recipes/Naan.md"
               }
             }
           }
@@ -108,7 +108,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Recipes/Paneer Butter Masala.md",
+            "file": "Recipes/Naan.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Recipes/Paneer Butter Masala.md",
+            "file": "Recipes/Naan.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -137,7 +137,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Recipes/Paneer Butter Masala.md"
+            "file": "Recipes/Naan.md"
           }
         }
       }
@@ -161,6 +161,7 @@
   },
   "active": "a21d5bfd96379224",
   "lastOpenFiles": [
+    "Recipes/Paneer Butter Masala.md",
     "Movies/Sicario.md",
     "Recipes/Belugabolognese.md",
     "MOCs/Recipes.md",
@@ -169,7 +170,6 @@
     "Journal/2024-10-21.md",
     "Journal/2024-10-22.md",
     "Journal/2024-10-23.md",
-    "Recipes/Paneer Butter Masala.md",
     "Recipes/Naan.md",
     "People/Kajsa.md",
     "Resa med Kajsa.md",
