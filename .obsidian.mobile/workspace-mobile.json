@@ -35,11 +35,9 @@
             "id": "a21d5bfd96379224",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "recipe-view",
               "state": {
-                "file": "Date idéer.md",
-                "mode": "source",
-                "source": false
+                "file": "Recipes/Krämig kålsås.md"
               }
             }
           }
@@ -110,7 +108,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Date idéer.md",
+            "file": "Recipes/Krämig kålsås.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -127,7 +125,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Date idéer.md",
+            "file": "Recipes/Krämig kålsås.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -139,7 +137,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Date idéer.md"
+            "file": "Recipes/Krämig kålsås.md"
           }
         }
       }
@@ -163,6 +161,7 @@
   },
   "active": "a21d5bfd96379224",
   "lastOpenFiles": [
+    "Date idéer.md",
     "Recipes/Naan.md",
     "Movies/Sicario.md",
     "Recipes/Aloo Gobi.md",
@@ -170,7 +169,6 @@
     "Recipes/Paneer Butter Masala.md",
     "Recipes/Belugabolognese.md",
     "MOCs/Recipes.md",
-    "Date idéer.md",
     "Journal/2024-10-20.md",
     "Journal/2024-10-21.md",
     "Journal/2024-10-22.md",
