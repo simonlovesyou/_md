@@ -35,9 +35,11 @@
             "id": "a21d5bfd96379224",
             "type": "leaf",
             "state": {
-              "type": "recipe-view",
+              "type": "markdown",
               "state": {
-                "file": "Recipes/Naan.md"
+                "file": "Date idéer.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -67,7 +69,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "Biff",
+            "query": "",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -96,7 +98,7 @@
         }
       }
     ],
-    "currentTab": 1
+    "currentTab": 0
   },
   "right": {
     "id": "aab90dcd7ebe7c87",
@@ -108,7 +110,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Movies/Sicario.md",
+            "file": "Date idéer.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -125,7 +127,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Movies/Sicario.md",
+            "file": "Date idéer.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -137,7 +139,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Movies/Sicario.md"
+            "file": "Date idéer.md"
           }
         }
       }
@@ -159,12 +161,13 @@
       "recipe-view:Toggle recipe view": false
     }
   },
-  "active": "cbeb0d54691ec412",
+  "active": "a21d5bfd96379224",
   "lastOpenFiles": [
+    "Recipes/Naan.md",
+    "Movies/Sicario.md",
     "Recipes/Aloo Gobi.md",
     "Mental health/Min vidmakthållandeplan.md",
     "Recipes/Paneer Butter Masala.md",
-    "Movies/Sicario.md",
     "Recipes/Belugabolognese.md",
     "MOCs/Recipes.md",
     "Date idéer.md",
@@ -172,7 +175,6 @@
     "Journal/2024-10-21.md",
     "Journal/2024-10-22.md",
     "Journal/2024-10-23.md",
-    "Recipes/Naan.md",
     "People/Kajsa.md",
     "Resa med Kajsa.md",
     "MOCs/People.md",
