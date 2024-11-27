@@ -52,4 +52,5 @@ _T.ex. hur kan jag påminna mig om mina viktiga strategier?_
 # Vad behöver jag arbeta vidare med på egen hand efter behandlingen? Vad skulle kunna vara nya mål för framtiden?
 
 - Fortsätta sträva efter målbilden.
-- Hitta metoder för att upprätthålla mina nya rutiner
+- Hitta metoder för att upprätthålla mina nya rutiner.
+- 
