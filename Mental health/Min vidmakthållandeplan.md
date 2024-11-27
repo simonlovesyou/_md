@@ -7,10 +7,13 @@ modified: 2024-10-29T22:24:15+01:00
 * Tankekarta
 * "... jag skulle behöva"
 * Om en tanke kommer att något behöver göra så måste det göras.
+* Dagbok har varit ett effektivt medel att rensa bland lina tankar
+* Åsidosätta tid för social tid behöver jag
 
 # Vad har jag klarat av under behandlingen?
 
 * Jag har klarat av att utmana mig själv
+* Jag har kollat mer innåt, blivit bättre på att lommunicera och planera.
 
 # Vad har förändrats sedan jag började i terapin?
 
@@ -28,12 +31,13 @@ Jag har blivit mer medveten om mitt handlande, vad för konsekvenser det har fö
 _T.ex. hur kan jag påminna mig om mina viktiga strategier?_
 
 * Skapa något form av mantra?
-* 
+* vidhålla nya rutiner
 
 # Vilka är mina "risksituationer" för försämrat mående? Vad skulle hända runtomkring mig som skulle öka risken för bakslag?
 
 - Jag känner att jag tappar kontrollen över saker i mitt liv och då bara låter saker hända och påverka mitt mående.
-- Jag blir osäker på hur jag bör agera och låter oron för konsekvenser vinna.
+- Jag blir osäker på hur jag bör agera och låter oron för konsekvenser vinna och blir passiv.
+- Jag ”hamnar i huvudet” och kommunicerar inte mina tankar/känslor
 
 # Vilka är mina tidiga tecken på bakslag? Vilka tankemönster och beteenden bör jag vara uppmärksam på?
 
@@ -42,9 +46,10 @@ _T.ex. hur kan jag påminna mig om mina viktiga strategier?_
 
 # Vad ska jag göra när jag ser tecken på bakslag? Vad kan jag göra på egen hand? Finns det personer runtomkring mig som kan hjälpa mig?
 
-- Göra listor, planera hur jag bör agera. Få överblick
+- Göra listor, planera hur jag bör agera. Få överblick och rensa saker jag oroar mig för
 - Kajsa att prata med, mina föräldrar.
 
 # Vad behöver jag arbeta vidare med på egen hand efter behandlingen? Vad skulle kunna vara nya mål för framtiden?
 
 - Fortsätta sträva efter målbilden.
+- Hitta metoder för att upprätthålla mina nya rutiner
