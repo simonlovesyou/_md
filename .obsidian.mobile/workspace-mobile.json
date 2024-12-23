@@ -39,14 +39,12 @@
             "id": "a21d5bfd96379224",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "recipe-view",
               "state": {
-                "file": "Mental health/Min vidmakthållandeplan.md",
-                "mode": "source",
-                "source": false
+                "file": "Recipes/Tareq Taylors k*cklinggryta.md"
               },
-              "icon": "lucide-file",
-              "title": "Min vidmakthållandeplan"
+              "icon": "chef-hat",
+              "title": "Tareq Taylors k*cklinggryta"
             }
           }
         ],
@@ -183,12 +181,12 @@
   },
   "active": "a21d5bfd96379224",
   "lastOpenFiles": [
+    "Mental health/Min vidmakthållandeplan.md",
     "Recipes/Krämig kålsås.md",
     "Date idéer.md",
     "Recipes/Naan.md",
     "Movies/Sicario.md",
     "Recipes/Aloo Gobi.md",
-    "Mental health/Min vidmakthållandeplan.md",
     "Recipes/Paneer Butter Masala.md",
     "Recipes/Belugabolognese.md",
     "MOCs/Recipes.md",
