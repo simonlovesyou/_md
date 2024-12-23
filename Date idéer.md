@@ -1,5 +1,5 @@
 ---
-modified: 2024-10-20T17:48:06+02:00
+modified: 2024-11-07T14:10:04+01:00
 ---
 - Standup
 - Besöka [[Bergianska trädgårdarna]]
@@ -10,3 +10,4 @@ modified: 2024-10-20T17:48:06+02:00
 - Dreja och 
 - Måla och skåla
 - pepparkaksutställning arkdes
+- Lära sig använda en broderimaskin
