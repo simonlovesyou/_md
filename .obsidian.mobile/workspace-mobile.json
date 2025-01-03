@@ -41,10 +41,10 @@
             "state": {
               "type": "recipe-view",
               "state": {
-                "file": "Recipes/Tareq Taylors k*cklinggryta.md"
+                "file": "Recipes/Refried beans.md"
               },
               "icon": "chef-hat",
-              "title": "Tareq Taylors k*cklinggryta"
+              "title": "Refried beans"
             }
           }
         ],
@@ -181,6 +181,7 @@
   },
   "active": "a21d5bfd96379224",
   "lastOpenFiles": [
+    "Recipes/Tareq Taylors k*cklinggryta.md",
     "Mental health/Min vidmakthållandeplan.md",
     "Recipes/Krämig kålsås.md",
     "Date idéer.md",
@@ -207,7 +208,6 @@
     "Journal/2024-09-18.md",
     "Travel",
     "Travel/Destinationer.md",
-    "Restaurants/Raca Maca.md",
     "Locations",
     "Goals",
     "Media DB/books",
